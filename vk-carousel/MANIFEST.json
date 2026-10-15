@@ -1,0 +1,26 @@
+{
+  "created_at": "2026-10-15",
+  "source": "https://docs.google.com/spreadsheets/d/1o4lLONKIkWsLggpxpDP4MqKxjwdwzMKlFBcqnqlcKt0/edit",
+  "files": {
+    "MANIFEST.json": "c3a0e1ad8752ee94747b459c0d9284038c42ade65e34b977b98131bf309e23b9",
+    "README.md": "a9def5dffec7c15eb2f33099243baae72fec90ec6cd596f5a1d012a7b5755cec",
+    "WORKPLAN.md": "51686c3eefdc8cf76da0a5fb60c66f9edee7a29a331b041fd97252f0ecef8bb5",
+    "decisions/2026-10-15-storage-and-week-scope.md": "7086e0649a4dbbe40dce6dcf3bd21811579131ff70b712f85bc8cc37c735e588",
+    "editorial/pipeline.md": "45e0b9a459fed485293047649a06ac2afa1b0eebb67cd0cf8aaf95e7c971d8b6",
+    "editorial/scenario-drafts.md": "f6b2927a184f130f93654532df7d306850bda8e95f67823e60fec72e3f370e1d",
+    "knowledge/README.md": "6d19406f1d97aae9543078323ffa51972759abb323393406bfaf5cf1d79974cd",
+    "knowledge/carousel-references.md": "4a15685eb584f3a4bc7fcaed4fa21c6e58933a4943ebbacbe3bcc93027458558",
+    "knowledge/community-cases.md": "b5dd255842d95a27d01ba99d96532c6f56aa1e59aac6ac3b15f189acb187b912",
+    "knowledge/creation-method.md": "153c3a61f0962aa96fbc04d48d65fc3a589b7ec010b557a7a0a8e2ce49be3b2b",
+    "knowledge/mim-topics.md": "aed2caffed925fcd2222ba35370c834463b7f44cacd2c051c1f34295a4ee1abe",
+    "knowledge/pilot-tests.md": "7ecdc194ee2cdef74a1330485382e2d3762f91ab2192374292314f92be78cb4a",
+    "knowledge/sources.md": "b7b3aa79d6344fc9e0caa698de54333c1bed3871993aaae6ab59ef457a23d1b2",
+    "knowledge/vk-algorithms.md": "57a7d7128b8e21cc4f0b2c6f4b8b390d0366910f7de7d006d4ae35360ca9d884",
+    "templates/content-plan.md": "dc249ee6f9f4bc548737618859cd7725bca2ef48250c81fec74ce114e33dcfe0",
+    "templates/editorial-brief.md": "729206cf8c47a4f163db8c08b2b59338cc633e4e42304deafdb3cd64f8952096",
+    "templates/production-assignment.md": "564a4b8fad285c7b6751ff0426cda046b690645b25d924e689f47b09217ffa20",
+    "work-products/content-plan-and-assignment.md": "a38b1e6c92669416c47e6e1925dae909d804c324a34644e71122973cd32793f2",
+    "work-products/editorial-brief.md": "1a15a9e8c2ce92be8f816200fbeb5f3c02fe9f15cd793136e6f3e136e851a944",
+    "work-products/production-handoff.md": "54a449da9782b73fb2602c91ef009fa59e3ac826c67cdd30fc236aff3b6a68d0"
+  }
+}
