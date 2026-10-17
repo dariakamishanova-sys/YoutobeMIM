@@ -1,0 +1,159 @@
+{
+  "checked_on": "2026-10-17",
+  "external_sources": 20,
+  "existing_mim_source": 1,
+  "visible_message_blocks": 304,
+  "visual_posts": 18,
+  "images_viewed": 24,
+  "vk_feed_access": "403; post contents not verified",
+  "excluded_candidate": "@arzamaschannel: no public feed returned",
+  "sources": [
+    {
+      "name": "Максим Дорофеев: Прокрастинация и джедайские техники",
+      "handle": "mnogosdelal",
+      "example": "https://t.me/mnogosdelal/1104",
+      "example_date": "2026-09-30",
+      "latest_visible_block": "2026-10-16T15:09:42+00:00"
+    },
+    {
+      "name": "Кинжал",
+      "handle": "Le_kinzhal",
+      "example": "https://t.me/Le_kinzhal/8630",
+      "example_date": "2026-10-13",
+      "latest_visible_block": "2026-10-16T14:10:37+00:00"
+    },
+    {
+      "name": "ProductSense",
+      "handle": "productsense",
+      "example": "https://t.me/productsense/3275",
+      "example_date": "2026-10-09",
+      "latest_visible_block": "2026-10-09T15:52:13+00:00"
+    },
+    {
+      "name": "Подкаст make sense (Есть смысл)",
+      "handle": "mspodcast",
+      "example": "https://t.me/mspodcast/717",
+      "example_date": "2026-10-01",
+      "latest_visible_block": "2026-10-16T08:25:24+00:00"
+    },
+    {
+      "name": "AI Mindset",
+      "handle": "ai_mind_set",
+      "example": "https://t.me/ai_mind_set/380",
+      "example_date": "2026-10-13",
+      "latest_visible_block": "2026-10-13T17:13:43+00:00"
+    },
+    {
+      "name": "Data Secrets",
+      "handle": "data_secrets",
+      "example": "https://t.me/data_secrets/10171",
+      "example_date": "2026-10-16",
+      "latest_visible_block": "2026-10-17T06:31:50+00:00"
+    },
+    {
+      "name": "Second Brain 🗃",
+      "handle": "Second_brain_ru",
+      "example": "https://t.me/second_brain_ru/389",
+      "example_date": "2026-08-05",
+      "latest_visible_block": "2026-10-08T07:49:32+00:00"
+    },
+    {
+      "name": "Рустам Агамалиев: \"нечтение\" и заметковедение",
+      "handle": "zettelkasten_ch",
+      "example": "https://t.me/zettelkasten_ch/1460",
+      "example_date": "2026-09-25",
+      "latest_visible_block": "2026-10-17T03:39:25+00:00"
+    },
+    {
+      "name": "Яндекс Практикум",
+      "handle": "yndx_practicum",
+      "example": "https://t.me/yndx_practicum/8184",
+      "example_date": "2026-10-02",
+      "latest_visible_block": "2026-10-15T12:27:34+00:00"
+    },
+    {
+      "name": "Т—Ж",
+      "handle": "t_jrnl",
+      "example": "https://t.me/t_jrnl/36017",
+      "example_date": "2026-10-16",
+      "latest_visible_block": "2026-10-16T11:04:47+00:00"
+    },
+    {
+      "name": "Издательство МИФ",
+      "handle": "mifbooks",
+      "example": "https://t.me/mifbooks/13188",
+      "example_date": "2026-10-16",
+      "latest_visible_block": "2026-10-16T16:58:32+00:00"
+    },
+    {
+      "name": "Купрум",
+      "handle": "tolkosprosit",
+      "example": "https://t.me/tolkosprosit/9727",
+      "example_date": "2026-10-06",
+      "latest_visible_block": "2026-10-15T14:09:01+00:00"
+    },
+    {
+      "name": "hh.ru",
+      "handle": "hh_ru_official",
+      "example": "https://t.me/hh_ru_official/5100",
+      "example_date": "2026-10-15",
+      "latest_visible_block": "2026-10-16T13:11:26+00:00"
+    },
+    {
+      "name": "Denis Sexy IT 🤖",
+      "handle": "denissexy",
+      "example": "https://t.me/denissexy/11741",
+      "example_date": "2026-10-13",
+      "latest_visible_block": "2026-10-16T12:05:07+00:00"
+    },
+    {
+      "name": "ПостНаука",
+      "handle": "postnauka",
+      "example": "https://t.me/postnauka/5104",
+      "example_date": "2026-10-15",
+      "latest_visible_block": "2026-10-16T15:35:00+00:00"
+    },
+    {
+      "name": "Журнал «Код»",
+      "handle": "thecodemedia",
+      "example": "https://t.me/thecodemedia/11588",
+      "example_date": "2026-10-16",
+      "latest_visible_block": "2026-10-16T14:36:29+00:00"
+    },
+    {
+      "name": "Максим Ильяхов (Главред)",
+      "handle": "glvrdru",
+      "example": "https://t.me/glvrdru/6991",
+      "example_date": "2026-10-02",
+      "latest_visible_block": "2026-10-16T13:45:58+00:00"
+    },
+    {
+      "name": "Лайфхакер",
+      "handle": "lifehackerru",
+      "example": "https://t.me/lifehackerru/68193",
+      "example_date": "2026-10-15",
+      "latest_visible_block": "2026-10-16T17:49:01+00:00"
+    },
+    {
+      "name": "Хабр",
+      "handle": "habr_com",
+      "example": "https://t.me/habr_com/69798",
+      "example_date": "2026-10-16",
+      "latest_visible_block": "2026-10-16T21:01:14+00:00"
+    },
+    {
+      "name": "N + 1",
+      "handle": "nplusone",
+      "example": "https://t.me/nplusone/32624",
+      "example_date": "2026-10-16",
+      "latest_visible_block": "2026-10-17T06:34:15+00:00"
+    },
+    {
+      "name": "Системное мышление для жизни",
+      "handle": "systemsthinkinglife",
+      "example": "https://t.me/systemsthinkinglife/732",
+      "example_date": "2026-10-14",
+      "latest_visible_block": "2026-10-14T13:27:37+00:00"
+    }
+  ]
+}
