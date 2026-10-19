@@ -7,6 +7,7 @@
 - [Рабочие продукты и план на 15–18 октября 2026](vk-carousel/WORKPLAN.md)
 - [Источники и ограничения базы знаний](vk-carousel/knowledge/README.md)
 - [Шаблон пакета оформления видео для YouTube](youtube/templates/video-package.md)
+- [Баланс работы: 25% развитие, 75% практические задачи](docs/work-balance.md)
 
 ## Текущие источники и размещение материалов
 
