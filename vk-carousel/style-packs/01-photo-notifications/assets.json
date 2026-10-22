@@ -1,0 +1,121 @@
+{
+  "date": "2026-10-22",
+  "status": "in-development",
+  "drive_folder": "https://drive.google.com/drive/folders/1Eq6NcbrZRy2Xy5HPoUgSbMjmSnTbZSWU",
+  "working_document": "https://drive.google.com/file/d/1AFilorqIoSC3pNs9SjE4ARtUu9PHWaSw/view",
+  "assets": [
+    {
+      "id": "C",
+      "url": "https://drive.google.com/file/d/1Lp4sEjIrsOCpt2jqGYcHsjOulv4_L_A8/view",
+      "status": "direction-selected"
+    },
+    {
+      "id": "D",
+      "url": "https://drive.google.com/file/d/1jxrAAuw0RHy6OQWxAzKd5-e8LwKwLmpa/view",
+      "status": "awaiting-editor-review"
+    },
+    {
+      "id": "E",
+      "url": "https://drive.google.com/file/d/1Y5Waef_8sFvq_bCwzbiSwC6f9YinQuMi/view",
+      "status": "awaiting-editor-review"
+    },
+    {
+      "id": "portraits-01-08",
+      "url": "https://drive.google.com/file/d/1U145kajbprcKdOHME1I5JPjxrQIzwR96/view",
+      "status": "awaiting-editor-review"
+    },
+    {
+      "id": "covers-01-08",
+      "url": "https://drive.google.com/file/d/18vS9Flm2ob3ksyu0JQXCkUd4wnUWR-uQ/view",
+      "status": "awaiting-editor-review"
+    },
+    {
+      "id": "references-pdf",
+      "url": "https://drive.google.com/file/d/1ncb2Zz160MTACc-pZL2q5XC7L8qzTrvl/view",
+      "status": "awaiting-editor-review"
+    }
+  ],
+  "reference_images": [
+    {
+      "id": 1,
+      "fileId": "1UhoRV4n-IPtrakzLbLhISrN9BYNN-Zrh",
+      "url": "https://drive.google.com/file/d/1UhoRV4n-IPtrakzLbLhISrN9BYNN-Zrh/view?usp=drivesdk"
+    },
+    {
+      "id": 2,
+      "fileId": "15hbN27LfsDGKpb3tjR86TQebnHBhM1WW",
+      "url": "https://drive.google.com/file/d/15hbN27LfsDGKpb3tjR86TQebnHBhM1WW/view?usp=drivesdk"
+    },
+    {
+      "id": 3,
+      "fileId": "1d5AD2dN7j7oE8ivYS4t_zmwmutda5svX",
+      "url": "https://drive.google.com/file/d/1d5AD2dN7j7oE8ivYS4t_zmwmutda5svX/view?usp=drivesdk"
+    },
+    {
+      "id": 4,
+      "fileId": "1cvaOfO984LD6ROB9G2sAPu4fxU4amV7j",
+      "url": "https://drive.google.com/file/d/1cvaOfO984LD6ROB9G2sAPu4fxU4amV7j/view?usp=drivesdk"
+    },
+    {
+      "id": 5,
+      "fileId": "1_jpb0K2A3eQ7IS9VO5Vn5UTmjNkmneD8",
+      "url": "https://drive.google.com/file/d/1_jpb0K2A3eQ7IS9VO5Vn5UTmjNkmneD8/view?usp=drivesdk"
+    },
+    {
+      "id": 6,
+      "fileId": "1kJX6-rkTb0wlQP8vG8xGh7LV6_YL1zsP",
+      "url": "https://drive.google.com/file/d/1kJX6-rkTb0wlQP8vG8xGh7LV6_YL1zsP/view?usp=drivesdk"
+    },
+    {
+      "id": 7,
+      "fileId": "1ZVKXCVghlvrRsRHLhkv945LkMfs4caEA",
+      "url": "https://drive.google.com/file/d/1ZVKXCVghlvrRsRHLhkv945LkMfs4caEA/view?usp=drivesdk"
+    },
+    {
+      "id": 8,
+      "fileId": "18pPklfDFrG8WrRgJZi7Kp8-lzRDb-vVE",
+      "url": "https://drive.google.com/file/d/18pPklfDFrG8WrRgJZi7Kp8-lzRDb-vVE/view?usp=drivesdk"
+    },
+    {
+      "id": 9,
+      "fileId": "1T0KW_TCLZQZkgFoEc1I9Es52jO7Ghu-1",
+      "url": "https://drive.google.com/file/d/1T0KW_TCLZQZkgFoEc1I9Es52jO7Ghu-1/view?usp=drivesdk"
+    },
+    {
+      "id": 10,
+      "fileId": "1L4tEmMTyryplSRXXxxSNZ8XnoBTlKBR6",
+      "url": "https://drive.google.com/file/d/1L4tEmMTyryplSRXXxxSNZ8XnoBTlKBR6/view?usp=drivesdk"
+    },
+    {
+      "id": 11,
+      "fileId": "1Q6orhDUpEhK2wmpBG_KxR6RFqhk4SMPC",
+      "url": "https://drive.google.com/file/d/1Q6orhDUpEhK2wmpBG_KxR6RFqhk4SMPC/view?usp=drivesdk"
+    },
+    {
+      "id": 12,
+      "fileId": "1eT6AErJdO8HjQ0eeBYewfsY50YU9A3T1",
+      "url": "https://drive.google.com/file/d/1eT6AErJdO8HjQ0eeBYewfsY50YU9A3T1/view?usp=drivesdk"
+    },
+    {
+      "id": 13,
+      "fileId": "1af2RXReaOYCkqHIrHLREOUPwlAIW-MT5",
+      "url": "https://drive.google.com/file/d/1af2RXReaOYCkqHIrHLREOUPwlAIW-MT5/view?usp=drivesdk"
+    },
+    {
+      "id": 14,
+      "fileId": "1KU69soHhDOA24bo2VdvWxPv5tB_upQKn",
+      "url": "https://drive.google.com/file/d/1KU69soHhDOA24bo2VdvWxPv5tB_upQKn/view?usp=drivesdk"
+    },
+    {
+      "id": 15,
+      "fileId": "12EWxMR44QPOTjTIiNJ2nbMmX2bAYLvIi",
+      "url": "https://drive.google.com/file/d/12EWxMR44QPOTjTIiNJ2nbMmX2bAYLvIi/view?usp=drivesdk"
+    },
+    {
+      "id": 16,
+      "fileId": "1RSkUJNJ23xW9JHsjxe3_w_Iy5Lf8kJi4",
+      "url": "https://drive.google.com/file/d/1RSkUJNJ23xW9JHsjxe3_w_Iy5Lf8kJi4/view?usp=drivesdk"
+    }
+  ],
+  "notes": "Номера персонажей и референсов принадлежат разным реестрам. Изображения на Google Диске; автоматического обмена нет."
+}
