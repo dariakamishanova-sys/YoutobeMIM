@@ -1,7 +1,6 @@
 {
-  "date": "2026-10-27",
-  "repository": "dariakamishanova-sys/YoutobeMIM",
-  "purpose": "Актуальные PNG/PDF с проверкой git blob SHA. ZIP доступны на Диске.",
+  "date": "2026-10-28",
+  "purpose": "Карусели — 65 отдельных PNG в 8 папках; PDF остаются только документами и паспортами.",
   "files": [
     {
       "path": "vk-carousel/style-packs/01-photo-notifications/characters/01-elena/assets/Елена из Бухгалтерии-обзор-пака.pdf",
@@ -359,144 +358,9 @@
       "size": 1933309
     },
     {
-      "path": "vk-carousel/assets/05-elena-v3/01.png",
-      "sha": "35ee41f29387ae8384b257cf06c41390af35bec7",
-      "size": 1782381
-    },
-    {
-      "path": "vk-carousel/assets/05-elena-v3/07.png",
-      "sha": "0c6745c1112fb67b922d54e95f9f0b024651d1ef",
-      "size": 1768495
-    },
-    {
-      "path": "vk-carousel/assets/05-elena-v3/03.png",
-      "sha": "25d18ab5c531de89cafdc5d8846722c4348b814a",
-      "size": 1744783
-    },
-    {
-      "path": "vk-carousel/assets/05-elena-v3/Обзор-7-карточек.pdf",
-      "sha": "dcfa7fc923e92ef92546b66557d3b771250b78a3",
-      "size": 709782
-    },
-    {
-      "path": "vk-carousel/assets/05-elena-v3/06.png",
-      "sha": "1bd2600e1af974353f7e0b487a6f02c1aa13b961",
-      "size": 1718489
-    },
-    {
-      "path": "vk-carousel/assets/05-elena-v3/Карусель-7-карточек.pdf",
-      "sha": "6beb3fbec19252a4c37875c621952067c3113992",
-      "size": 700749
-    },
-    {
-      "path": "vk-carousel/assets/05-elena-v3/04.png",
-      "sha": "13e0031df95ff5c3abf7f6461354ecf5d4f9691b",
-      "size": 1966934
-    },
-    {
-      "path": "vk-carousel/assets/05-elena-v3/02.png",
-      "sha": "0ec3975d3a13891e5cad9ce11b03b3a6cfb9e859",
-      "size": 1859841
-    },
-    {
-      "path": "vk-carousel/assets/05-elena-v3/05.png",
-      "sha": "22f799b8f181d5bc870bb275e1284709f4b9a781",
-      "size": 1778397
-    },
-    {
-      "path": "vk-carousel/assets/06-dmitry-v2/01.png",
-      "sha": "ab56cb3615e562e8bebf078e48a4e5ba08f175c6",
-      "size": 1860545
-    },
-    {
-      "path": "vk-carousel/assets/06-dmitry-v2/07.png",
-      "sha": "5ea6edfdac7142b3f150550a21cba07754596425",
-      "size": 1856586
-    },
-    {
-      "path": "vk-carousel/assets/06-dmitry-v2/03.png",
-      "sha": "41d7f9c65c5236dfaa8f231db57a296d571f5d70",
-      "size": 1857979
-    },
-    {
-      "path": "vk-carousel/assets/06-dmitry-v2/Обзор-7-карточек.pdf",
-      "sha": "0d111cffa8af041dacbac05e58ce9caccecf58c3",
-      "size": 784784
-    },
-    {
-      "path": "vk-carousel/assets/06-dmitry-v2/06.png",
-      "sha": "2504e231db827dd1a8791f3d498f0a4de40686ff",
-      "size": 1829676
-    },
-    {
-      "path": "vk-carousel/assets/06-dmitry-v2/Карусель-7-карточек.pdf",
-      "sha": "5fe2c21f79bb02e765656090a282cdd522ad52ad",
-      "size": 774807
-    },
-    {
-      "path": "vk-carousel/assets/06-dmitry-v2/04.png",
-      "sha": "d6096e875f17f1e2a399cb54a45d97f24a147cb9",
-      "size": 1815365
-    },
-    {
-      "path": "vk-carousel/assets/06-dmitry-v2/02.png",
-      "sha": "1875f2c1d880c05a3f4d07ed5ac0add445adab46",
-      "size": 1882138
-    },
-    {
-      "path": "vk-carousel/assets/06-dmitry-v2/05.png",
-      "sha": "8d2c5893e2cc000a469cd8a87559c7b2ba8963fd",
-      "size": 2061639
-    },
-    {
-      "path": "vk-carousel/assets/07-lyudmila-v2/01.png",
-      "sha": "1f3ba2b25e5097694175846e47cdcf6fa1b494fb",
-      "size": 1928751
-    },
-    {
-      "path": "vk-carousel/assets/07-lyudmila-v2/07.png",
-      "sha": "beb4fae01c7b21d36924682cd7c6027ce859088e",
-      "size": 1946647
-    },
-    {
-      "path": "vk-carousel/assets/07-lyudmila-v2/03.png",
-      "sha": "7a7a1a04224b11174e64e5062c80720bbdb8ddf8",
-      "size": 1946337
-    },
-    {
-      "path": "vk-carousel/assets/07-lyudmila-v2/Обзор-7-карточек.pdf",
-      "sha": "fa1f1a04d40858273f20227505e68c9d42b205f0",
-      "size": 809759
-    },
-    {
-      "path": "vk-carousel/assets/07-lyudmila-v2/06.png",
-      "sha": "914349af0850cb0f8baa8df080914ef10e5c27eb",
-      "size": 1821171
-    },
-    {
-      "path": "vk-carousel/assets/07-lyudmila-v2/Карусель-7-карточек.pdf",
-      "sha": "65f69c341125d80c057858d0cbaf059d0d3c896e",
-      "size": 800319
-    },
-    {
-      "path": "vk-carousel/assets/07-lyudmila-v2/04.png",
-      "sha": "6af71093616e0298a695ba0857904b9f7308d15e",
-      "size": 1854985
-    },
-    {
-      "path": "vk-carousel/assets/07-lyudmila-v2/02.png",
-      "sha": "55869eb5b0419c2d030fe4dd976152431751011d",
-      "size": 2136601
-    },
-    {
-      "path": "vk-carousel/assets/07-lyudmila-v2/05.png",
-      "sha": "86cd881da24416df30286eb724f7bad91ead7054",
-      "size": 1987226
-    },
-    {
       "path": "vk-carousel/style-packs/01-photo-notifications/МИМ-Стиль-и-персонажи-v2.pdf",
-      "sha": "508235d501a08f98347cfa5143dfbc8534f7a564",
-      "size": 11054073
+      "sha": "3759a09865116269811ebebd39768f0356529960",
+      "size": 11053553
     },
     {
       "path": "vk-carousel/style-packs/01-photo-notifications/characters/04-alexander/assets/02-three-quarter-left.png",
@@ -605,8 +469,333 @@
     },
     {
       "path": "vk-carousel/work-products/МИМ-Критический-разбор-стиля-и-каруселей.pdf",
-      "sha": "6281048b1af8d39f920cb1c9d9b178903d7a9451",
-      "size": 1961663
+      "sha": "811eeb0174d096cf5677d18112f2b5906d9152f0",
+      "size": 1961751
+    },
+    {
+      "path": "vk-carousel/assets/01-answers-sea/01.png",
+      "sha": "31008fde6014abbf14f5dd320cf9dc46556c79bd",
+      "size": 1785850
+    },
+    {
+      "path": "vk-carousel/assets/01-answers-sea/02.png",
+      "sha": "02cddccc15b0505c9dfa31a3f263ff667565c5af",
+      "size": 1477367
+    },
+    {
+      "path": "vk-carousel/assets/01-answers-sea/03.png",
+      "sha": "4b4dca5bb33fb27813b5d36e70364a80a5f8ab21",
+      "size": 1694806
+    },
+    {
+      "path": "vk-carousel/assets/01-answers-sea/04.png",
+      "sha": "55f2ba0de64068265d45edbf3fc0d814a8228831",
+      "size": 1712694
+    },
+    {
+      "path": "vk-carousel/assets/01-answers-sea/05.png",
+      "sha": "21e32688fd4d31a8ea5c5b2dc7636450a911db25",
+      "size": 1230468
+    },
+    {
+      "path": "vk-carousel/assets/01-answers-sea/06.png",
+      "sha": "70c07158c5bae6f28deff947ef3b15293e155ed8",
+      "size": 1848524
+    },
+    {
+      "path": "vk-carousel/assets/01-answers-sea/07.png",
+      "sha": "a3a19026f31d8d493742f261d812bb2d66abb4e3",
+      "size": 1411740
+    },
+    {
+      "path": "vk-carousel/assets/01-answers-sea/08.png",
+      "sha": "bd8abbb047040a7db3e947852c94f757813f5ec4",
+      "size": 1914803
+    },
+    {
+      "path": "vk-carousel/assets/01-answers-sea/09.png",
+      "sha": "68b6fdef652b5cb4abc5434875a95c5ab789c7f9",
+      "size": 1749611
+    },
+    {
+      "path": "vk-carousel/assets/02-agent-verification/01.png",
+      "sha": "43bb60ce0485756c25a6dabd3ef85a252fb7d2fc",
+      "size": 1950650
+    },
+    {
+      "path": "vk-carousel/assets/02-agent-verification/02.png",
+      "sha": "ecceab6e471a2b8faeea09f6131ae92111da6e55",
+      "size": 1875707
+    },
+    {
+      "path": "vk-carousel/assets/02-agent-verification/03.png",
+      "sha": "3e4b4f3ff2d3b2f1ef036d1ce12316088cf2772b",
+      "size": 1920640
+    },
+    {
+      "path": "vk-carousel/assets/02-agent-verification/04.png",
+      "sha": "d5383700e9711418ef3ba739847a45b8afee40ab",
+      "size": 1876517
+    },
+    {
+      "path": "vk-carousel/assets/02-agent-verification/05.png",
+      "sha": "a1e79300b9160ce45ce042e85602a1fdb3d77d49",
+      "size": 1836522
+    },
+    {
+      "path": "vk-carousel/assets/02-agent-verification/06.png",
+      "sha": "fa9241b2af0b3c8793623cba62ce903aa6278067",
+      "size": 1735674
+    },
+    {
+      "path": "vk-carousel/assets/02-agent-verification/07.png",
+      "sha": "1207cf35239abdbf4e35dcf23eaaea280505d9d8",
+      "size": 1637000
+    },
+    {
+      "path": "vk-carousel/assets/02-agent-verification/08.png",
+      "sha": "5ad49ba78768dd44ab7f75d0b1caa7ec59a6f7ba",
+      "size": 1827221
+    },
+    {
+      "path": "vk-carousel/assets/02-agent-verification/09.png",
+      "sha": "0f2af035a4e84e4ab97ca8064b6b983fd67f5eb3",
+      "size": 1852128
+    },
+    {
+      "path": "vk-carousel/assets/03-ai-and-time/01.png",
+      "sha": "e6aac0f75a67cd39d8ac6fb9bba4c7aef68fdf3b",
+      "size": 2001611
+    },
+    {
+      "path": "vk-carousel/assets/03-ai-and-time/02.png",
+      "sha": "ae7b6c97337c0614ac2a2ccb84650a280301a261",
+      "size": 1696932
+    },
+    {
+      "path": "vk-carousel/assets/03-ai-and-time/03.png",
+      "sha": "7acc3607d64b6be333df41a079098cc6604d0289",
+      "size": 1596449
+    },
+    {
+      "path": "vk-carousel/assets/03-ai-and-time/04.png",
+      "sha": "d714a5af1a9394dfd9d7d30fb657f3234c076ba9",
+      "size": 1829634
+    },
+    {
+      "path": "vk-carousel/assets/03-ai-and-time/05.png",
+      "sha": "c997a98df2c7346859370fac6f4231b59632be89",
+      "size": 1843200
+    },
+    {
+      "path": "vk-carousel/assets/03-ai-and-time/06.png",
+      "sha": "1ff095726c7a3f8af4e55eef096954a17a811c5d",
+      "size": 1586178
+    },
+    {
+      "path": "vk-carousel/assets/03-ai-and-time/07.png",
+      "sha": "157ccc654a220c5bd4d9cf109fe0a7e970ef24e2",
+      "size": 1677436
+    },
+    {
+      "path": "vk-carousel/assets/03-ai-and-time/08.png",
+      "sha": "4faa23a7aa149ddbf48ef24c7319c7840d9ad554",
+      "size": 1820892
+    },
+    {
+      "path": "vk-carousel/assets/03-ai-and-time/09.png",
+      "sha": "75fea03b6646243e279250612cd75d34569ed6e7",
+      "size": 2155709
+    },
+    {
+      "path": "vk-carousel/assets/04-busy-result/01.png",
+      "sha": "b77e0df427ea792120a9449ff668423b33e83e03",
+      "size": 1694162
+    },
+    {
+      "path": "vk-carousel/assets/04-busy-result/02.png",
+      "sha": "e2359b4728b8beca3ca84ceb65c7f582678e3173",
+      "size": 1696059
+    },
+    {
+      "path": "vk-carousel/assets/04-busy-result/03.png",
+      "sha": "3d33d0d99828cfcd4ee67d0b955cdb51b679ac14",
+      "size": 1604272
+    },
+    {
+      "path": "vk-carousel/assets/04-busy-result/04.png",
+      "sha": "07da2d7bf364d6416944c268de98d6e38d2ad98c",
+      "size": 1869299
+    },
+    {
+      "path": "vk-carousel/assets/04-busy-result/05.png",
+      "sha": "b51d33c165b3efaf8d7a34d6643dcadb6b7314c8",
+      "size": 1661206
+    },
+    {
+      "path": "vk-carousel/assets/04-busy-result/06.png",
+      "sha": "5cb9c76c03dcfa48e22e4dbbe82b132b9a1f3351",
+      "size": 1514384
+    },
+    {
+      "path": "vk-carousel/assets/04-busy-result/07.png",
+      "sha": "522a2a2384b44b5393f76714079c11d97bfbe588",
+      "size": 1671059
+    },
+    {
+      "path": "vk-carousel/assets/04-busy-result/08.png",
+      "sha": "da42f077224101eaf1e57c24ccfabb97c8e2e343",
+      "size": 1599493
+    },
+    {
+      "path": "vk-carousel/assets/04-busy-result/09.png",
+      "sha": "c54c981691bf92406e7baabe0e36a8ef8a2cf831",
+      "size": 1666700
+    },
+    {
+      "path": "vk-carousel/assets/04-busy-result/10.png",
+      "sha": "64b173de11351190625cbb17996e82d63696f03e",
+      "size": 1887545
+    },
+    {
+      "path": "vk-carousel/assets/05-elena-v3/01.png",
+      "sha": "35ee41f29387ae8384b257cf06c41390af35bec7",
+      "size": 1782381
+    },
+    {
+      "path": "vk-carousel/assets/05-elena-v3/02.png",
+      "sha": "a1fda7780abedd99dd5c892d5e110b9cfaeb9338",
+      "size": 1909798
+    },
+    {
+      "path": "vk-carousel/assets/05-elena-v3/03.png",
+      "sha": "25d18ab5c531de89cafdc5d8846722c4348b814a",
+      "size": 1744783
+    },
+    {
+      "path": "vk-carousel/assets/05-elena-v3/04.png",
+      "sha": "b02645588a156e18b21ef4ea8b1f501f88ad490a",
+      "size": 2045527
+    },
+    {
+      "path": "vk-carousel/assets/05-elena-v3/05.png",
+      "sha": "22f799b8f181d5bc870bb275e1284709f4b9a781",
+      "size": 1778397
+    },
+    {
+      "path": "vk-carousel/assets/05-elena-v3/06.png",
+      "sha": "1bd2600e1af974353f7e0b487a6f02c1aa13b961",
+      "size": 1718489
+    },
+    {
+      "path": "vk-carousel/assets/05-elena-v3/07.png",
+      "sha": "0c6745c1112fb67b922d54e95f9f0b024651d1ef",
+      "size": 1768495
+    },
+    {
+      "path": "vk-carousel/assets/06-dmitry-v2/01.png",
+      "sha": "ab56cb3615e562e8bebf078e48a4e5ba08f175c6",
+      "size": 1860545
+    },
+    {
+      "path": "vk-carousel/assets/06-dmitry-v2/02.png",
+      "sha": "1875f2c1d880c05a3f4d07ed5ac0add445adab46",
+      "size": 1882138
+    },
+    {
+      "path": "vk-carousel/assets/06-dmitry-v2/03.png",
+      "sha": "41d7f9c65c5236dfaa8f231db57a296d571f5d70",
+      "size": 1857979
+    },
+    {
+      "path": "vk-carousel/assets/06-dmitry-v2/04.png",
+      "sha": "d6096e875f17f1e2a399cb54a45d97f24a147cb9",
+      "size": 1815365
+    },
+    {
+      "path": "vk-carousel/assets/06-dmitry-v2/05.png",
+      "sha": "8d2c5893e2cc000a469cd8a87559c7b2ba8963fd",
+      "size": 2061639
+    },
+    {
+      "path": "vk-carousel/assets/06-dmitry-v2/06.png",
+      "sha": "2504e231db827dd1a8791f3d498f0a4de40686ff",
+      "size": 1829676
+    },
+    {
+      "path": "vk-carousel/assets/06-dmitry-v2/07.png",
+      "sha": "5ea6edfdac7142b3f150550a21cba07754596425",
+      "size": 1856586
+    },
+    {
+      "path": "vk-carousel/assets/07-lyudmila-v2/01.png",
+      "sha": "1f3ba2b25e5097694175846e47cdcf6fa1b494fb",
+      "size": 1928751
+    },
+    {
+      "path": "vk-carousel/assets/07-lyudmila-v2/02.png",
+      "sha": "55869eb5b0419c2d030fe4dd976152431751011d",
+      "size": 2136601
+    },
+    {
+      "path": "vk-carousel/assets/07-lyudmila-v2/03.png",
+      "sha": "7a7a1a04224b11174e64e5062c80720bbdb8ddf8",
+      "size": 1946337
+    },
+    {
+      "path": "vk-carousel/assets/07-lyudmila-v2/04.png",
+      "sha": "6af71093616e0298a695ba0857904b9f7308d15e",
+      "size": 1854985
+    },
+    {
+      "path": "vk-carousel/assets/07-lyudmila-v2/05.png",
+      "sha": "86cd881da24416df30286eb724f7bad91ead7054",
+      "size": 1987226
+    },
+    {
+      "path": "vk-carousel/assets/07-lyudmila-v2/06.png",
+      "sha": "914349af0850cb0f8baa8df080914ef10e5c27eb",
+      "size": 1821171
+    },
+    {
+      "path": "vk-carousel/assets/07-lyudmila-v2/07.png",
+      "sha": "beb4fae01c7b21d36924682cd7c6027ce859088e",
+      "size": 1946647
+    },
+    {
+      "path": "vk-carousel/assets/08-before-thirty/01.png",
+      "sha": "02a7d43ddcb620b5f0f1de4dcfa3c0e7cca4cc0c",
+      "size": 2017653
+    },
+    {
+      "path": "vk-carousel/assets/08-before-thirty/02.png",
+      "sha": "326e3c1859676bbfdfb918927fdceca6d000809a",
+      "size": 1939978
+    },
+    {
+      "path": "vk-carousel/assets/08-before-thirty/03.png",
+      "sha": "7e24f5e5bce70af4741f3f57a36bfa8a4d1e6816",
+      "size": 2149401
+    },
+    {
+      "path": "vk-carousel/assets/08-before-thirty/04.png",
+      "sha": "400e512e429568fedcb48e1ece41be21efebc234",
+      "size": 2053671
+    },
+    {
+      "path": "vk-carousel/assets/08-before-thirty/05.png",
+      "sha": "91136349e6758423662661d3588409cdb3b0b1b5",
+      "size": 2182154
+    },
+    {
+      "path": "vk-carousel/assets/08-before-thirty/06.png",
+      "sha": "7444e5cab0e3a0d85bf3e278674cb684a1126723",
+      "size": 2123351
+    },
+    {
+      "path": "vk-carousel/assets/08-before-thirty/07.png",
+      "sha": "a6beddfc43729c41281626d8f5be8e51331beb28",
+      "size": 2078387
     }
   ]
 }

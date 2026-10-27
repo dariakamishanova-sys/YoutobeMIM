@@ -1,4 +1,10 @@
 # МИМ: актуальный пак стиля и персонажи
+## Формат каруселей · правило 28.10.2026
+
+Карусель сохраняется и передаётся только как отдельная папка с отдельными изображениями PNG или JPEG. Одна карточка — один файл. Имена 01.png, 02.png, … (либо 01.jpg, 02.jpg, …) задают порядок публикации. В папке карусели только изображения; сценарии, подписи и промпты хранятся отдельно. PDF и ZIP не используются как формат карусели.
+
+[Все восемь папок каруселей](https://drive.google.com/drive/folders/1pBeh4ch400tBnLP8Vqpotcpp6tY9NaXu) · [Сценарии и промпты](https://drive.google.com/drive/folders/1Nls6NBgHGyLPxhX01ySnH59ChGFiT2Jl).
+
 
 Обновлено 27.10.2026. Источники изображений - индивидуальные паки, указанные здесь. Старые сравнительные пробы в текущую работу не передаются.
 
@@ -13,9 +19,9 @@
 
 ## Карусели
 
-- **Зашла ответить на одно сообщение**, версия 3, принята. [PDF](https://drive.google.com/file/d/1FER04obUVpCFuqpjX2YQC36JPc-EjFhY/view) · [Все файлы](https://drive.google.com/drive/folders/1uU-J7U1IdToFRJbovMcKWiC7XaK6TmIO).
-- **Все задачи закрыты. Обязательно ли искать новые?**, версия 2, принята. [PDF](https://drive.google.com/file/d/17USyC5l8aXDYmewkzPfgYbOgoZD2l7DJ/view) · [Все файлы](https://drive.google.com/drive/folders/1jnJvB_xcfzn49pMcduIqaFvGaG3_YUlq).
-- **Прогресс, который не попал в отчёт**, версия 2, подготовлена для просмотра. [PDF](https://drive.google.com/file/d/1cs4H-S_E2j09Lg_HShcdJXu0wUx1ZUwN/view) · [Все файлы](https://drive.google.com/drive/folders/14luFLx1v9Yot291wVLamVLTNZGvarCnM).
+- **Зашла ответить на одно сообщение**, версия 3, принята. [Папка PNG](https://drive.google.com/drive/folders/1uU-J7U1IdToFRJbovMcKWiC7XaK6TmIO) · [Все файлы](https://drive.google.com/drive/folders/1uU-J7U1IdToFRJbovMcKWiC7XaK6TmIO).
+- **Все задачи закрыты. Обязательно ли искать новые?**, версия 2, принята. [Папка PNG](https://drive.google.com/drive/folders/1jnJvB_xcfzn49pMcduIqaFvGaG3_YUlq) · [Все файлы](https://drive.google.com/drive/folders/1jnJvB_xcfzn49pMcduIqaFvGaG3_YUlq).
+- **Прогресс, который не попал в отчёт**, версия 2, подготовлена для просмотра. [Папка PNG](https://drive.google.com/drive/folders/14luFLx1v9Yot291wVLamVLTNZGvarCnM) · [Все файлы](https://drive.google.com/drive/folders/14luFLx1v9Yot291wVLamVLTNZGvarCnM).
 
 ## Обязательные проверки
 
@@ -25,7 +31,7 @@
 
 ## Копия готовых материалов в GitHub
 
-В репозитории сохранены текущие PNG и PDF: четыре пака по 21 PNG, три карусели и их обзоры/паспорта. [Состав копии и контрольные SHA](https://github.com/dariakamishanova-sys/YoutobeMIM/blob/main/vk-carousel/data/binary-mirror.json). Ссылки на ZIP-архивы для скачивания сохранены в каталоге Диска.
+В репозитории сохранены текущие PNG и PDF: четыре пака по 21 PNG, карусели как отдельные PNG, паспорта персонажей и документы. [Состав копии и контрольные SHA](https://github.com/dariakamishanova-sys/YoutobeMIM/blob/main/vk-carousel/data/binary-mirror.json). Ссылки на ZIP-архивы для скачивания сохранены в каталоге Диска.
 
 [Александр: позы и эмоции, 5 страниц](https://drive.google.com/file/d/1dd73-BzjJr3BS0huvv1NLEIlUpDdF4Hg/view).
 

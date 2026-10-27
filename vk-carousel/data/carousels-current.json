@@ -1,646 +1,1425 @@
 {
-  "date": "2026-10-27",
-  "spreadsheet_url": "https://docs.google.com/spreadsheets/d/1Vv5ueTq7Yb38AIn_zz9nyph9TJIB1E8d0llI9OIpZ-0/edit#gid=20261019",
+  "date": "2026-10-28",
+  "spreadsheet_url": "https://docs.google.com/spreadsheets/d/1Vv5ueTq7Yb38AIn_zz9nyph9TJIB1E8d0llI9OIpZ-0/edit",
   "sheet": "Карусели",
   "range": "A1:I15",
   "rows": [
     {
       "values": [
         {
-          "formattedValue": "Название"
+          "formattedValue": "Название",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "bold": true
+            }
+          }
         },
         {
-          "formattedValue": "Статус"
+          "formattedValue": "Статус",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "bold": true
+            }
+          }
         },
         {
-          "formattedValue": "Описание карусели"
+          "formattedValue": "Описание карусели",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "bold": true
+            }
+          }
         },
         {
-          "formattedValue": "Промпты и референсы"
+          "formattedValue": "Промпты и референсы",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "bold": true
+            }
+          }
         },
         {
-          "formattedValue": "Актуальная карусель и файлы"
+          "formattedValue": "Картинки для публикации",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "bold": true
+            }
+          }
         },
         {
-          "formattedValue": "Статистика"
+          "formattedValue": "Статистика",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "bold": true
+            }
+          }
         },
         {
-          "formattedValue": "Мотив читателя"
+          "formattedValue": "Мотив читателя",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10,
+              "bold": true
+            }
+          }
         },
         {
-          "formattedValue": "Тип истории"
+          "formattedValue": "Тип истории",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10,
+              "bold": true
+            }
+          }
         },
         {
-          "formattedValue": "Основная задача публикации"
+          "formattedValue": "Основная задача публикации",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10,
+              "bold": true
+            }
+          }
         }
       ]
     },
     {
       "values": [
         {
-          "formattedValue": "Рост ИИ-контента и тревога о его содержательности"
+          "formattedValue": "Рост ИИ-контента и тревога о его содержательности",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "оформлен"
+          "formattedValue": "оформлен",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "Аудитория: Проверяющие.\n«Ответов — море. А какой у вас вопрос?» — 9 слайдов.\n18.10.2026: добавлен вопрос на слайде 2; запросы на слайде 6 различаются цветом и значками; уточнён маленький шаг на слайде 7; финал вынесен на слайд 8 с маяком и плотом.\nНа всех карточках нумерация и подпись МИМ с адресом сайта.\nПользователь отметила готовность к публикации 18.10.2026. Фактическая публикация ещё не подтверждена.\nСценарий: https://github.com/dariakamishanova-sys/YoutobeMIM/blob/main/vk-carousel/editorial/01-information-flood-v4.md\nФинальная карточка 9/9: тематический переход к запуску первой IWE; инструкции — в закреплённых https://t.me/mim_self . Нумерация обновлена наложением текста, фотографии сохранены."
+          "formattedValue": "Аудитория: Проверяющие.\n«Ответов — море. А какой у вас вопрос?» — 9 слайдов.\n18.10.2026: добавлен вопрос на слайде 2; запросы на слайде 6 различаются цветом и значками; уточнён маленький шаг на слайде 7; финал вынесен на слайд 8 с маяком и плотом.\nНа всех карточках нумерация и подпись МИМ с адресом сайта.\nПользователь отметила готовность к публикации 18.10.2026. Фактическая публикация ещё не подтверждена.\nСценарий: https://github.com/dariakamishanova-sys/YoutobeMIM/blob/main/vk-carousel/editorial/01-information-flood-v4.md\nФинальная карточка 9/9: тематический переход к запуску первой IWE; инструкции — в закреплённых https://t.me/mim_self . Нумерация обновлена наложением текста, фотографии сохранены.",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "Сохраняется выбранный пользователем стиль: светлый тёплый фон, плотная тёмно-синяя типографика, бирюзовые и лаймовые акценты.\nНовая версия: на обложке мужчина в полоборота; у телефона он наклонён вперёд и жестикулирует, рядом вылетают пять небольших значков; над блокнотом смотрит вниз; на берегу стоит боком к морю с блокнотом.\nМысли, вопрос, два примера на слайде 6 и шаблон заметки на слайде 7 оформлены отдельными облачками. Утверждённый текст сохранён.\nПромпты и тексты: https://github.com/dariakamishanova-sys/YoutobeMIM/blob/main/vk-carousel/editorial/01-information-flood-v3.md\nИсточник статистики: https://graphite.io/five-percent/research/ai-now-writes-as-many-online-articles-as-humans-do\nСлайды заменены в существующих файлах Google Drive; ссылка на папку прежняя."
+          "formattedValue": "Сохраняется выбранный пользователем стиль: светлый тёплый фон, плотная тёмно-синяя типографика, бирюзовые и лаймовые акценты.\nНовая версия: на обложке мужчина в полоборота; у телефона он наклонён вперёд и жестикулирует, рядом вылетают пять небольших значков; над блокнотом смотрит вниз; на берегу стоит боком к морю с блокнотом.\nМысли, вопрос, два примера на слайде 6 и шаблон заметки на слайде 7 оформлены отдельными облачками. Утверждённый текст сохранён.\nПромпты и тексты: https://github.com/dariakamishanova-sys/YoutobeMIM/blob/main/vk-carousel/editorial/01-information-flood-v3.md\nИсточник статистики: https://graphite.io/five-percent/research/ai-now-writes-as-many-online-articles-as-humans-do\nСлайды заменены в существующих файлах Google Drive; ссылка на папку прежняя.",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "https://drive.google.com/drive/folders/1fUQEM2P0iReGkAZB0tJZ3MN1G7zoH_1D",
+          "formattedValue": "Папка PNG · 9 карточек",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10,
+              "link": {
+                "uri": "https://drive.google.com/drive/folders/1fUQEM2P0iReGkAZB0tJZ3MN1G7zoH_1D"
+              }
+            }
+          },
           "hyperlink": "https://drive.google.com/drive/folders/1fUQEM2P0iReGkAZB0tJZ3MN1G7zoH_1D"
         },
-        {},
         {
-          "formattedValue": "Разобраться, как получать содержательные ответы ИИ на свою задачу."
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "Практическая инструкция"
+          "formattedValue": "Разобраться, как получать содержательные ответы ИИ на свою задачу.",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "Дать применимый способ постановки вопроса; гипотеза — сохранения и содержательные ответы о пробе."
+          "formattedValue": "Практическая инструкция",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
+        },
+        {
+          "formattedValue": "Дать применимый способ постановки вопроса; гипотеза — сохранения и содержательные ответы о пробе.",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         }
       ]
     },
     {
       "values": [
         {
-          "formattedValue": "Цена проверки и исправления работы ИИ-агентов"
+          "formattedValue": "Цена проверки и исправления работы ИИ-агентов",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "оформлен"
+          "formattedValue": "оформлен",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "Аудитория: Проверяющие.\nЗаголовок: «Когда агент закончил, а ты нет» — 9 слайдов.\nНовая карточка об иллюзии «мощнее модель — меньше работы». Повествование вне блобов обобщённое; личные реплики внутри блобов. Маленький шаг: «Я приму этот рабочий продукт, если…».\nНа всех слайдах нумерация и подпись МИМ с адресом сайта. Качество фотографий на слайдах 1, 3–5 восстановлено по исходным изображениям.\n18.10.2026 пользователь подтвердила содержание и поручила отметить готовность к публикации. Публикация ещё не подтверждена.\nФинальная карточка 9/9: тематический переход к запуску первой IWE; инструкции — в закреплённых https://t.me/mim_self . Нумерация обновлена наложением текста, фотографии сохранены."
+          "formattedValue": "Аудитория: Проверяющие.\nЗаголовок: «Когда агент закончил, а ты нет» — 9 слайдов.\nНовая карточка об иллюзии «мощнее модель — меньше работы». Повествование вне блобов обобщённое; личные реплики внутри блобов. Маленький шаг: «Я приму этот рабочий продукт, если…».\nНа всех слайдах нумерация и подпись МИМ с адресом сайта. Качество фотографий на слайдах 1, 3–5 восстановлено по исходным изображениям.\n18.10.2026 пользователь подтвердила содержание и поручила отметить готовность к публикации. Публикация ещё не подтверждена.\nФинальная карточка 9/9: тематический переход к запуску первой IWE; инструкции — в закреплённых https://t.me/mim_self . Нумерация обновлена наложением текста, фотографии сохранены.",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "Ультрамарин, фактурная светлая бумага, крупная типографика и рукописные акценты. Исходный мем на обложке; менеджер в сером жакете и синем топе на слайдах 3–5. Светло-лавандовые блобы с синей обводкой. Утверждённое повествование вне блобов — без первого лица. На каждом слайде i/9 и нижняя подпись сайта."
+          "formattedValue": "Ультрамарин, фактурная светлая бумага, крупная типографика и рукописные акценты. Исходный мем на обложке; менеджер в сером жакете и синем топе на слайдах 3–5. Светло-лавандовые блобы с синей обводкой. Утверждённое повествование вне блобов — без первого лица. На каждом слайде i/9 и нижняя подпись сайта.",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "https://drive.google.com/drive/folders/1XgwCedZK8aPnUe24xJkazxt4706dKbLx",
+          "formattedValue": "Папка PNG · 9 карточек",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10,
+              "link": {
+                "uri": "https://drive.google.com/drive/folders/1XgwCedZK8aPnUe24xJkazxt4706dKbLx"
+              }
+            }
+          },
           "hyperlink": "https://drive.google.com/drive/folders/1XgwCedZK8aPnUe24xJkazxt4706dKbLx"
         },
-        {},
         {
-          "formattedValue": "Узнать знакомую ситуацию с проверкой ИИ и получить опору для приёмки результата."
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "Практическая инструкция"
+          "formattedValue": "Узнать знакомую ситуацию с проверкой ИИ и получить опору для приёмки результата.",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "Показать ценность критерия готовности; гипотеза — сохранения и рассказы о проверке результата."
+          "formattedValue": "Практическая инструкция",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
+        },
+        {
+          "formattedValue": "Показать ценность критерия готовности; гипотеза — сохранения и рассказы о проверке результата.",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         }
       ]
     },
     {
       "values": [
         {
-          "formattedValue": "ИИ ускоряет операции, но свободного времени не прибавляется"
+          "formattedValue": "ИИ ускоряет операции, но свободного времени не прибавляется",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "оформлен"
+          "formattedValue": "оформлен",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "В работе с 18.10.2026. Аудитория: Занятые.\nЗаголовок: «ИИ ускоряет работу. А где свободное время?»\nСерия на 9 карточек: узнаваемая перегрузка → откладывание личного проекта → посильное время и конкретный ход → собственная попытка → материал и затруднение для обратной связи.\nСценарий адаптирован под новый референс с ленивцем. Готовы сценарий и 3 визуальных образца, полная серия из 9 макетов пока не изготовлена.\n\nПредварительное описание к публикации:\nПисьмо написано быстрее. Сводка собрана за минуту. А вечер снова занят: в расписание добавились встреча, правки и ещё одна просьба.\n\nЗнакомая ситуация? Ускорение отдельных задач не выделяет время вашему проекту автоматически. Портфолио, статья или новая идея могут по-прежнему ждать свободного дня.\n\nПопробуйте выбрать посильное время для одного действия в своём проекте. Например, описать одну работу для портфолио: какую задачу она решала и что получилось.\n\nПосле попытки сохраните материал и отметьте, где понадобилась помощь. К следующему шагу можно будет вернуться с результатом и конкретным вопросом.\n\nПроверка по доступным LPF ЛР §1, §5.4–5.5, §11 и LPF-CORE часть 2 §5.3, §6.4–6.5, §7: один опыт на личном проекте, посильное время внутри занятой жизни, действие и результат разделены, замеченное затруднение для обратной связи. Нет обещания всем освободить время или обвинения в лени. Нет статистических утверждений и коммерческого оффера. Первая часть общего LPF недоступна; полная проверка всего свода не заявляется.\n18.10.2026: в актуальной папке 3 референса (слайды 2, 5, 7) с нумерацией /9 и финальная карточка 9/9. Призыв: «У важного проекта есть следующий шаг» → инструкции в закреплённых @mim_self."
+          "formattedValue": "В работе с 18.10.2026. Аудитория: Занятые.\nЗаголовок: «ИИ ускоряет работу. А где свободное время?»\nСерия на 9 карточек: узнаваемая перегрузка → откладывание личного проекта → посильное время и конкретный ход → собственная попытка → материал и затруднение для обратной связи.\nСценарий адаптирован под новый референс с ленивцем. Готовы сценарий и 3 визуальных образца, полная серия из 9 макетов пока не изготовлена.\n\nПредварительное описание к публикации:\nПисьмо написано быстрее. Сводка собрана за минуту. А вечер снова занят: в расписание добавились встреча, правки и ещё одна просьба.\n\nЗнакомая ситуация? Ускорение отдельных задач не выделяет время вашему проекту автоматически. Портфолио, статья или новая идея могут по-прежнему ждать свободного дня.\n\nПопробуйте выбрать посильное время для одного действия в своём проекте. Например, описать одну работу для портфолио: какую задачу она решала и что получилось.\n\nПосле попытки сохраните материал и отметьте, где понадобилась помощь. К следующему шагу можно будет вернуться с результатом и конкретным вопросом.\n\nПроверка по доступным LPF ЛР §1, §5.4–5.5, §11 и LPF-CORE часть 2 §5.3, §6.4–6.5, §7: один опыт на личном проекте, посильное время внутри занятой жизни, действие и результат разделены, замеченное затруднение для обратной связи. Нет обещания всем освободить время или обвинения в лени. Нет статистических утверждений и коммерческого оффера. Первая часть общего LPF недоступна; полная проверка всего свода не заявляется.\n18.10.2026: в актуальной папке 3 референса (слайды 2, 5, 7) с нумерацией /9 и финальная карточка 9/9. Призыв: «У важного проекта есть следующий шаг» → инструкции в закреплённых @mim_self.",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "Актуальный референс: https://i.pinimg.com/1200x/db/11/14/db111478ada94c7fdbb98ce4f1df793b.jpg\nБелый фон, чёрный крупный гротеск, синий акцент, реалистичный серый ленивец в разных позах. Полное содержание в чате; на всех карточках i/9, подпись МИМ и https://system-school.ru/. Личные реплики только в блобах.\nИзготовлены референсы 2, 5, 7 и финал 9; остальные карточки необходимо оформить. Прежняя папка выведена из работы; актуальные материалы - в колонке E."
+          "formattedValue": "Актуальный референс: https://i.pinimg.com/1200x/db/11/14/db111478ada94c7fdbb98ce4f1df793b.jpg\nБелый фон, чёрный крупный гротеск, синий акцент, реалистичный серый ленивец в разных позах. Полное содержание в чате; на всех карточках i/9, подпись МИМ и https://system-school.ru/. Личные реплики только в блобах.\nИзготовлены референсы 2, 5, 7 и финал 9; остальные карточки необходимо оформить. Прежняя папка выведена из работы; актуальные материалы - в колонке E.",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "https://drive.google.com/drive/folders/1htUcfhAAPOm7Y_TiYEGKGoWSHWN5ZcKA",
+          "formattedValue": "Папка PNG · 9 карточек",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10,
+              "link": {
+                "uri": "https://drive.google.com/drive/folders/1htUcfhAAPOm7Y_TiYEGKGoWSHWN5ZcKA"
+              }
+            }
+          },
           "hyperlink": "https://drive.google.com/drive/folders/1htUcfhAAPOm7Y_TiYEGKGoWSHWN5ZcKA"
         },
-        {},
         {
-          "formattedValue": "Понять, почему ускорение операций не выделяет время личному проекту."
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "Практическая инструкция"
+          "formattedValue": "Понять, почему ускорение операций не выделяет время личному проекту.",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "Помочь перейти к посильной попытке в своём проекте; гипотеза — ответы о выполненной попытке, а не только просмотры."
+          "formattedValue": "Практическая инструкция",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
+        },
+        {
+          "formattedValue": "Помочь перейти к посильной попытке в своём проекте; гипотеза — ответы о выполненной попытке, а не только просмотры.",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         }
       ]
     },
     {
       "values": [
         {
-          "formattedValue": "Демонстративная занятость и видимость результата"
+          "formattedValue": "Демонстративная занятость и видимость результата",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "оформлен"
+          "formattedValue": "оформлен",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "Аудитория: Инициаторы.\n«Дел было много. А что изменилось?» — 10 слайдов.\nМетафора: белочка в серебристом колесе; заполненный календарь.\nСлайд 4: пример со статьёй, «Лайк, если это про тебя» и сердечко в стиле ВК.\nСлайд 5: выбираем признак результата; примеры из текстов, разработки и командной работы.\nСлайд 6: два варианта задания коллеге; сравнение действия, срока и готовности.\nСлайд 7: шаблон сравнения двух попыток. Слайд 8: заполненный пример — задание Анне. Слайд 9: польза сравнения и следующий шаг.\nСлайд 10: «От попытки — к следующему шагу»; инструкции по запуску IWE в закреплённых https://t.me/mim_self .\n18.10.2026 пользователь приняла карусель: «белочку принимаю». Готова к публикации; сама публикация не подтверждена."
+          "formattedValue": "Аудитория: Инициаторы.\n«Дел было много. А что изменилось?» — 10 слайдов.\nМетафора: белочка в серебристом колесе; заполненный календарь.\nСлайд 4: пример со статьёй, «Лайк, если это про тебя» и сердечко в стиле ВК.\nСлайд 5: выбираем признак результата; примеры из текстов, разработки и командной работы.\nСлайд 6: два варианта задания коллеге; сравнение действия, срока и готовности.\nСлайд 7: шаблон сравнения двух попыток. Слайд 8: заполненный пример — задание Анне. Слайд 9: польза сравнения и следующий шаг.\nСлайд 10: «От попытки — к следующему шагу»; инструкции по запуску IWE в закреплённых https://t.me/mim_self .\n18.10.2026 пользователь приняла карусель: «белочку принимаю». Готова к публикации; сама публикация не подтверждена.",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "Белый фон, крупный чёрный гротеск, синие акценты. Одна реалистичная рыжая белочка в разных позах; серебристое колесо, календарь, примеры из разных сфер. Неудачный и удачный варианты различаются цветом и значками.\n10 PNG, нумерация i/10. На всех слайдах увеличены подпись «Мастерская инженеров менеджеров» и https://system-school.ru/. Фотографии сохранены: номера и подписи наложены поверх исходников; вне согласованных областей 0 изменённых пикселей."
+          "formattedValue": "Белый фон, крупный чёрный гротеск, синие акценты. Одна реалистичная рыжая белочка в разных позах; серебристое колесо, календарь, примеры из разных сфер. Неудачный и удачный варианты различаются цветом и значками.\n10 PNG, нумерация i/10. На всех слайдах увеличены подпись «Мастерская инженеров менеджеров» и https://system-school.ru/. Фотографии сохранены: номера и подписи наложены поверх исходников; вне согласованных областей 0 изменённых пикселей.",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "https://drive.google.com/drive/folders/1D7Y7-Kvnv9iEhP96m6Ae7SNgEJDMmi1l",
+          "formattedValue": "Папка PNG · 10 карточек",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10,
+              "link": {
+                "uri": "https://drive.google.com/drive/folders/1D7Y7-Kvnv9iEhP96m6Ae7SNgEJDMmi1l"
+              }
+            }
+          },
           "hyperlink": "https://drive.google.com/drive/folders/1D7Y7-Kvnv9iEhP96m6Ae7SNgEJDMmi1l"
         },
-        {},
         {
-          "formattedValue": "Различить насыщенный день и полученное изменение; увидеть себя в истории."
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "Практическая инструкция"
+          "formattedValue": "Различить насыщенный день и полученное изменение; увидеть себя в истории.",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "Объяснить различие действия и результата; гипотеза — сохранения и собственные примеры читателей."
+          "formattedValue": "Практическая инструкция",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
+        },
+        {
+          "formattedValue": "Объяснить различие действия и результата; гипотеза — сохранения и собственные примеры читателей.",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         }
       ]
     },
     {
       "values": [
         {
-          "formattedValue": "Зашла ответить на одно сообщение"
+          "formattedValue": "Зашла ответить на одно сообщение",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "принят"
+          "formattedValue": "принят",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "27.10.2026: версия 3, полная серия из 7 карточек с Еленой по предварительно принятому паку v2. История: сообщение → ещё один чат → видео → поиск совета → сохранение → тот же абзац → комический финал. Обновлены характер, жесты и фактура лица; смена крупности сохранена. Ценность: узнавание и пересылка, без диагноза или стыда. Подготовлены PNG, PDF, обзор, подпись, промпты и архив. Принята редактором 27.10.2026: все 7 карточек версии 3. Публикация не выполнялась.\nСценарий: https://github.com/dariakamishanova-sys/YoutobeMIM/blob/main/vk-carousel/editorial/05-one-message-elena-2026-10-27.md"
+          "formattedValue": "27.10.2026: версия 3, полная серия из 7 карточек с Еленой по предварительно принятому паку v2. История: сообщение → ещё один чат → видео → поиск совета → сохранение → тот же абзац → комический финал. Обновлены характер, жесты и фактура лица; смена крупности сохранена. Ценность: узнавание и пересылка, без диагноза или стыда. Подготовлены PNG, PDF, обзор, подпись, промпты и архив. Принята редактором 27.10.2026: все 7 карточек версии 3. Публикация не выполнялась.\nСценарий: https://github.com/dariakamishanova-sys/YoutobeMIM/blob/main/vk-carousel/editorial/05-one-message-elena-2026-10-27.md",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "Елена общительная, смешливая, эмоциональная. На сообщении и видео оживляется; в сомнении и при возвращении к тексту серьёзна; финал с доброжелательным руколицом. Стиль «Фото и уведомления», тёмные/светлые фоны, лаймовые блоки и узнаваемые интерфейсы. Проверены исходные лица и экспорт PDF; найденные дефекты фактуры исправлены отдельной ретушью. Нет интерфейса на крышке ноутбука и повторов текста между слоями. Футер МИМ · system-school.ru, 01/07–07/07."
+          "formattedValue": "Елена общительная, смешливая, эмоциональная. На сообщении и видео оживляется; в сомнении и при возвращении к тексту серьёзна; финал с доброжелательным руколицом. Стиль «Фото и уведомления», тёмные/светлые фоны, лаймовые блоки и узнаваемые интерфейсы. Проверены исходные лица и итоговые PNG; найденные дефекты фактуры исправлены отдельной ретушью. Нет интерфейса на крышке ноутбука и повторов текста между слоями. Футер МИМ · system-school.ru, 01/07–07/07.\n\nСценарий и промпты: https://drive.google.com/drive/folders/12q6ZmqyrTkxKfijl8XG-ALlQrLwq1laC",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "Карусель PDF · v3\nОбзор\nИсходники и архив",
-          "textFormatRuns": [
-            {
-              "format": {
-                "foregroundColor": {
-                  "red": 0.06666667,
-                  "green": 0.33333334,
-                  "blue": 0.8
-                },
-                "underline": true,
-                "foregroundColorStyle": {
-                  "rgbColor": {
-                    "red": 0.06666667,
-                    "green": 0.33333334,
-                    "blue": 0.8
-                  }
-                },
-                "link": {
-                  "uri": "https://drive.google.com/file/d/1FER04obUVpCFuqpjX2YQC36JPc-EjFhY/view"
-                }
-              }
-            },
-            {
-              "startIndex": 17
-            },
-            {
-              "startIndex": 18,
-              "format": {
-                "foregroundColor": {
-                  "red": 0.06666667,
-                  "green": 0.33333334,
-                  "blue": 0.8
-                },
-                "underline": true,
-                "foregroundColorStyle": {
-                  "rgbColor": {
-                    "red": 0.06666667,
-                    "green": 0.33333334,
-                    "blue": 0.8
-                  }
-                },
-                "link": {
-                  "uri": "https://drive.google.com/file/d/1lZ6g-nSlqdATG0RYNLEjaWFPtlnaii9T/view"
-                }
-              }
-            },
-            {
-              "startIndex": 23
-            },
-            {
-              "startIndex": 24,
-              "format": {
-                "foregroundColor": {
-                  "red": 0.06666667,
-                  "green": 0.33333334,
-                  "blue": 0.8
-                },
-                "underline": true,
-                "foregroundColorStyle": {
-                  "rgbColor": {
-                    "red": 0.06666667,
-                    "green": 0.33333334,
-                    "blue": 0.8
-                  }
-                },
-                "link": {
-                  "uri": "https://drive.google.com/drive/folders/1uU-J7U1IdToFRJbovMcKWiC7XaK6TmIO"
-                }
+          "formattedValue": "Папка PNG · 7 карточек",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10,
+              "link": {
+                "uri": "https://drive.google.com/drive/folders/1uU-J7U1IdToFRJbovMcKWiC7XaK6TmIO"
               }
             }
-          ]
-        },
-        {},
-        {
-          "formattedValue": "Узнать себя, посмеяться и отправить знакомому без нового задания на саморазвитие."
+          },
+          "hyperlink": "https://drive.google.com/drive/folders/1uU-J7U1IdToFRJbovMcKWiC7XaK6TmIO"
         },
         {
-          "formattedValue": "Ситуативный комикс"
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "Знакомство с пабликом через узнавание и пересылки; наблюдать репосты и доступные данные о новых подписках, не обещая рост."
+          "formattedValue": "Узнать себя, посмеяться и отправить знакомому без нового задания на саморазвитие.",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
+        },
+        {
+          "formattedValue": "Ситуативный комикс",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
+        },
+        {
+          "formattedValue": "Знакомство с пабликом через узнавание и пересылки; наблюдать репосты и доступные данные о новых подписках, не обещая рост.",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         }
       ]
     },
     {
       "values": [
         {
-          "formattedValue": "Все задачи закрыты. Обязательно ли искать новые?"
+          "formattedValue": "Все задачи закрыты. Обязательно ли искать новые?",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "принят"
+          "formattedValue": "принят",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "27.10.2026: версия 2, серия из 7 карточек с Дмитрием, руководителем отдела. Содержание сценария от 20.10 сохранено: завершение задач → желание заполнить паузу → три равноценных продолжения → интерес или привычка → время на выбор → вопрос читателям → место для своих вопросов в IWE. Новый герой и оформление. Подготовлены PNG, PDF, обзор, подпись, промпты и архив. Принята редактором 27.10.2026: все 7 карточек версии 2. Публикация не выполнялась.\nСценарий: https://github.com/dariakamishanova-sys/YoutobeMIM/blob/main/vk-carousel/editorial/06-closed-tasks-discussion.md"
+          "formattedValue": "27.10.2026: версия 2, серия из 7 карточек с Дмитрием, руководителем отдела. Содержание сценария от 20.10 сохранено: завершение задач → желание заполнить паузу → три равноценных продолжения → интерес или привычка → время на выбор → вопрос читателям → место для своих вопросов в IWE. Новый герой и оформление. Подготовлены PNG, PDF, обзор, подпись, промпты и архив. Принята редактором 27.10.2026: все 7 карточек версии 2. Публикация не выполнялась.\nСценарий: https://github.com/dariakamishanova-sys/YoutobeMIM/blob/main/vk-carousel/editorial/06-closed-tasks-discussion.md",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "Дмитрий по принятому паку v2: строгий, сдержанный, флегматичный, немного меланхоличный. Спокойные жесты, задумчивый взгляд, небольшая улыбка в финале. Стиль «Фото и уведомления», разные планы персонажа по сюжету. Проверены лица в PNG и PDF, текст, нумерация, отсутствие дублирования интерфейсных надписей и окон на крышке ноутбука. Отдых, поддержание достигнутого и исследование нового оформлены равноценно. Футер МИМ · system-school.ru, 01/07–07/07."
+          "formattedValue": "Дмитрий по принятому паку v2: строгий, сдержанный, флегматичный, немного меланхоличный. Спокойные жесты, задумчивый взгляд, небольшая улыбка в финале. Стиль «Фото и уведомления», разные планы персонажа по сюжету. Проверены лица в PNG и PDF, текст, нумерация, отсутствие дублирования интерфейсных надписей и окон на крышке ноутбука. Отдых, поддержание достигнутого и исследование нового оформлены равноценно. Футер МИМ · system-school.ru, 01/07–07/07.\n\nСценарий и промпты: https://drive.google.com/drive/folders/1wlyznlKMKuwRKPv8BafCddQboHaBSZye",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "Карусель PDF · v2\nОбзор\nИсходники и архив",
-          "textFormatRuns": [
-            {
-              "format": {
-                "foregroundColor": {
-                  "red": 0.06666667,
-                  "green": 0.33333334,
-                  "blue": 0.8
-                },
-                "underline": true,
-                "foregroundColorStyle": {
-                  "rgbColor": {
-                    "red": 0.06666667,
-                    "green": 0.33333334,
-                    "blue": 0.8
-                  }
-                },
-                "link": {
-                  "uri": "https://drive.google.com/file/d/17USyC5l8aXDYmewkzPfgYbOgoZD2l7DJ/view"
-                }
-              }
-            },
-            {
-              "startIndex": 17
-            },
-            {
-              "startIndex": 18,
-              "format": {
-                "foregroundColor": {
-                  "red": 0.06666667,
-                  "green": 0.33333334,
-                  "blue": 0.8
-                },
-                "underline": true,
-                "foregroundColorStyle": {
-                  "rgbColor": {
-                    "red": 0.06666667,
-                    "green": 0.33333334,
-                    "blue": 0.8
-                  }
-                },
-                "link": {
-                  "uri": "https://drive.google.com/file/d/1naPXZrPHNjExc7uL1ZDxOenbCs2A7Dtx/view"
-                }
-              }
-            },
-            {
-              "startIndex": 23
-            },
-            {
-              "startIndex": 24,
-              "format": {
-                "foregroundColor": {
-                  "red": 0.06666667,
-                  "green": 0.33333334,
-                  "blue": 0.8
-                },
-                "underline": true,
-                "foregroundColorStyle": {
-                  "rgbColor": {
-                    "red": 0.06666667,
-                    "green": 0.33333334,
-                    "blue": 0.8
-                  }
-                },
-                "link": {
-                  "uri": "https://drive.google.com/drive/folders/1jnJvB_xcfzn49pMcduIqaFvGaG3_YUlq"
-                }
+          "formattedValue": "Папка PNG · 7 карточек",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10,
+              "link": {
+                "uri": "https://drive.google.com/drive/folders/1jnJvB_xcfzn49pMcduIqaFvGaG3_YUlq"
               }
             }
-          ]
-        },
-        {},
-        {
-          "formattedValue": "Понять собственное отношение к паузе и будущим занятиям, сопоставить его с другими."
+          },
+          "hyperlink": "https://drive.google.com/drive/folders/1jnJvB_xcfzn49pMcduIqaFvGaG3_YUlq"
         },
         {
-          "formattedValue": "Редакционная позиция / дискуссия"
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "Начать содержательный разговор о развитии и выборе; наблюдать аргументированные комментарии и дальнейшее участие, не приравнивая их к удержанию."
+          "formattedValue": "Понять собственное отношение к паузе и будущим занятиям, сопоставить его с другими.",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
+        },
+        {
+          "formattedValue": "Редакционная позиция / дискуссия",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
+        },
+        {
+          "formattedValue": "Начать содержательный разговор о развитии и выборе; наблюдать аргументированные комментарии и дальнейшее участие, не приравнивая их к удержанию.",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         }
       ]
     },
     {
       "values": [
         {
-          "formattedValue": "Прогресс, который не попал в отчёт"
+          "formattedValue": "Прогресс, который не попал в отчёт",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "оформлен"
+          "formattedValue": "оформлен",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "27.10.2026: версия 2, 7 карточек с Людмилой, опытным архитектором. Прогресс как изменение способа действовать: уточнить до начала, вернуться к заметке, показать черновик. На карточках 2–4 заметна пометка «УСЛОВНЫЙ ПРИМЕР». Людмила - вымышленная героиня, это не реальный самоотчёт. Один эпизод не объявляется привычкой; основной призыв - рассказать один случай. Подготовлены PNG, PDF, обзор, сценарий, промпты и архив. Новая карусель ожидает просмотра; пак персонажа Людмилы ранее принят.\nСценарий: https://github.com/dariakamishanova-sys/YoutobeMIM/blob/main/vk-carousel/editorial/07-unreported-progress.md"
+          "formattedValue": "27.10.2026: версия 2, 7 карточек с Людмилой, опытным архитектором. Прогресс как изменение способа действовать: уточнить до начала, вернуться к заметке, показать черновик. На карточках 2–4 заметна пометка «УСЛОВНЫЙ ПРИМЕР». Людмила - вымышленная героиня, это не реальный самоотчёт. Один эпизод не объявляется привычкой; основной призыв - рассказать один случай. Подготовлены PNG, PDF, обзор, сценарий, промпты и архив. Новая карусель ожидает просмотра; пак персонажа Людмилы ранее принят.\nСценарий: https://github.com/dariakamishanova-sys/YoutobeMIM/blob/main/vk-carousel/editorial/07-unreported-progress.md",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "Принятый пак Людмилы v1.0. Творческий и структурный архитектор: карандаш как мера, чертёж, скетчбук, точные объясняющие жесты. Разные планы по сюжету, светлые/тёмные фоны, лайм, узнаваемые окна. Проверены кожа в исходниках и PDF, текст и нумерация, отсутствие повторов текста между слоями и интерфейса на внешней крышке ноутбука. Сцены и интерфейсы вымышлены редакцией. На пятой карточке один заполненный шаг и пустые будущие контуры вместо недоказанного графика роста."
+          "formattedValue": "Принятый пак Людмилы v1.0. Творческий и структурный архитектор: карандаш как мера, чертёж, скетчбук, точные объясняющие жесты. Разные планы по сюжету, светлые/тёмные фоны, лайм, узнаваемые окна. Проверены кожа в исходниках и PDF, текст и нумерация, отсутствие повторов текста между слоями и интерфейса на внешней крышке ноутбука. Сцены и интерфейсы вымышлены редакцией. На пятой карточке один заполненный шаг и пустые будущие контуры вместо недоказанного графика роста.\n\nСценарий и промпты: https://drive.google.com/drive/folders/1eFxX_LKQNmqpulp5sNmLhpRBCTs4Mme6",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "Карусель PDF · v2\nОбзор\nИсходники и архив",
-          "textFormatRuns": [
-            {
-              "format": {
-                "foregroundColor": {
-                  "red": 0.06666667,
-                  "green": 0.33333334,
-                  "blue": 0.8
-                },
-                "underline": true,
-                "foregroundColorStyle": {
-                  "rgbColor": {
-                    "red": 0.06666667,
-                    "green": 0.33333334,
-                    "blue": 0.8
-                  }
-                },
-                "link": {
-                  "uri": "https://drive.google.com/file/d/1cs4H-S_E2j09Lg_HShcdJXu0wUx1ZUwN/view"
-                }
-              }
-            },
-            {
-              "startIndex": 17
-            },
-            {
-              "startIndex": 18,
-              "format": {
-                "foregroundColor": {
-                  "red": 0.06666667,
-                  "green": 0.33333334,
-                  "blue": 0.8
-                },
-                "underline": true,
-                "foregroundColorStyle": {
-                  "rgbColor": {
-                    "red": 0.06666667,
-                    "green": 0.33333334,
-                    "blue": 0.8
-                  }
-                },
-                "link": {
-                  "uri": "https://drive.google.com/file/d/1Pdb_9UyDuaBnm44E781EVUcZ-Nhl1KDz/view"
-                }
-              }
-            },
-            {
-              "startIndex": 23
-            },
-            {
-              "startIndex": 24,
-              "format": {
-                "foregroundColor": {
-                  "red": 0.06666667,
-                  "green": 0.33333334,
-                  "blue": 0.8
-                },
-                "underline": true,
-                "foregroundColorStyle": {
-                  "rgbColor": {
-                    "red": 0.06666667,
-                    "green": 0.33333334,
-                    "blue": 0.8
-                  }
-                },
-                "link": {
-                  "uri": "https://drive.google.com/drive/folders/14luFLx1v9Yot291wVLamVLTNZGvarCnM"
-                }
+          "formattedValue": "Папка PNG · 7 карточек",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10,
+              "link": {
+                "uri": "https://drive.google.com/drive/folders/14luFLx1v9Yot291wVLamVLTNZGvarCnM"
               }
             }
-          ]
-        },
-        {},
-        {
-          "formattedValue": "Заметить знакомый опыт, почувствовать поддержку и добавить собственную историю."
+          },
+          "hyperlink": "https://drive.google.com/drive/folders/14luFLx1v9Yot291wVLamVLTNZGvarCnM"
         },
         {
-          "formattedValue": "Подборка с участием читателей"
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "Получить конкретные примеры читателей и материал для продолжения рубрики; считать содержательные ответы, а не просто число комментариев."
+          "formattedValue": "Заметить знакомый опыт, почувствовать поддержку и добавить собственную историю.",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
+        },
+        {
+          "formattedValue": "Подборка с участием читателей",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
+        },
+        {
+          "formattedValue": "Получить конкретные примеры читателей и материал для продолжения рубрики; считать содержательные ответы, а не просто число комментариев.",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         }
       ]
     },
     {
       "values": [
         {
-          "formattedValue": "К 30 годам я планировала успеть ещё и пожить"
+          "formattedValue": "К 30 годам я планировала успеть ещё и пожить",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "оформлен"
+          "formattedValue": "оформлен",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "20.10.2026: оформлена серия из 7 PNG. Ожидает проверки редактором в следующем рабочем слоте; публикация не выполнена.\n\n1/7. К 30 ГОДАМ Я ПЛАНИРОВАЛА УСПЕТЬ ЕЩЁ И ПОЖИТЬ\n\n2/7. Список выглядел вполне разумно.\nКарьера. Квартира. Три языка.\n\n3/7. Потом появились дополнения.\nИдеальный режим. Спорт каждый день. Ещё один диплом.\n\n4/7. У каждого пункта — свой список.\nКарьера → ещё курс → ещё сертификат → ещё одно «надо».\n\n5/7. На жизнь место осталось.\nМежду 23:58 и 00:00.\n\n6/7. А мне это вообще нужно?\nВ списке наконец появился свой вопрос.\n\n7/7. Отправьте тому, кто тоже «всё успевает».\nДля своих вопросов и планов можно завести IWE.  Инструкции — в закреплённых @mim_self https://t.me/mim_self\n\nТексты, подпись и лист приёмки: https://github.com/dariakamishanova-sys/YoutobeMIM/blob/main/vk-carousel/editorial/08-goals-before-thirty.md\nПроверка запланирована на 24.10, 12:00–13:00 по Еревану. Решение по серии и правки по номерам ещё не получены."
+          "formattedValue": "20.10.2026: оформлена серия из 7 PNG. Ожидает проверки редактором в следующем рабочем слоте; публикация не выполнена.\n\n1/7. К 30 ГОДАМ Я ПЛАНИРОВАЛА УСПЕТЬ ЕЩЁ И ПОЖИТЬ\n\n2/7. Список выглядел вполне разумно.\nКарьера. Квартира. Три языка.\n\n3/7. Потом появились дополнения.\nИдеальный режим. Спорт каждый день. Ещё один диплом.\n\n4/7. У каждого пункта — свой список.\nКарьера → ещё курс → ещё сертификат → ещё одно «надо».\n\n5/7. На жизнь место осталось.\nМежду 23:58 и 00:00.\n\n6/7. А мне это вообще нужно?\nВ списке наконец появился свой вопрос.\n\n7/7. Отправьте тому, кто тоже «всё успевает».\nДля своих вопросов и планов можно завести IWE.  Инструкции — в закреплённых @mim_self https://t.me/mim_self\n\nТексты, подпись и лист приёмки: https://github.com/dariakamishanova-sys/YoutobeMIM/blob/main/vk-carousel/editorial/08-goals-before-thirty.md\nПроверка запланирована на 24.10, 12:00–13:00 по Еревану. Решение по серии и правки по номерам ещё не получены.",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "Готовые изображения: 7 отдельных PNG, единое оформление внутри серии, номера 1/7–7/7. Файлы 01–07 соответствуют номерам на изображениях. На всех карточках подпись МИМ и https://system-school.ru/ ; на финале — тематический переход к инструкциям @mim_self.\nПервое лицо — реплики персонажа внутри блобов; исходная фотография гаража не использовалась.\nСценарий и подпись: https://github.com/dariakamishanova-sys/YoutobeMIM/blob/main/vk-carousel/editorial/08-goals-before-thirty.md\n\nОснования замысла:\nСохранить исходный мем и его происхождение только как референс. В новой иллюстрации список буквально не помещается: выходит за край, занимает предметы и вытесняет человека. Авторское повествование без первого лица; заголовок и личные реплики — внутри явно обозначенной речи персонажа. Футер и нумерация сохраняются; не копировать фотографию гаража.\n\nПроверка по доступным LPF и текущим редакционным правилам; редакторская приёмка не завершена."
+          "formattedValue": "Готовые изображения: 7 отдельных PNG, единое оформление внутри серии, номера 1/7–7/7. Файлы 01–07 соответствуют номерам на изображениях. На всех карточках подпись МИМ и https://system-school.ru/ ; на финале — тематический переход к инструкциям @mim_self.\nПервое лицо — реплики персонажа внутри блобов; исходная фотография гаража не использовалась.\nСценарий и подпись: https://github.com/dariakamishanova-sys/YoutobeMIM/blob/main/vk-carousel/editorial/08-goals-before-thirty.md\n\nОснования замысла:\nСохранить исходный мем и его происхождение только как референс. В новой иллюстрации список буквально не помещается: выходит за край, занимает предметы и вытесняет человека. Авторское повествование без первого лица; заголовок и личные реплики — внутри явно обозначенной речи персонажа. Футер и нумерация сохраняются; не копировать фотографию гаража.\n\nПроверка по доступным LPF и текущим редакционным правилам; редакторская приёмка не завершена.\n\nСценарий и промпты: https://drive.google.com/drive/folders/16WfEOOl8nJMsSrA0qKp0OlK4ht6bxTRu",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "https://drive.google.com/drive/folders/1IxLn9_fbDkArz_CiyzjGrNZVZa5sFnI1",
+          "formattedValue": "Папка PNG · 7 карточек",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10,
+              "link": {
+                "uri": "https://drive.google.com/drive/folders/1IxLn9_fbDkArz_CiyzjGrNZVZa5sFnI1"
+              }
+            }
+          },
           "hyperlink": "https://drive.google.com/drive/folders/1IxLn9_fbDkArz_CiyzjGrNZVZa5sFnI1"
         },
-        {},
         {
-          "formattedValue": "Посмеяться над абсурдной гонкой достижений и выразить своё отношение к чужим ожиданиям."
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "Сатира / пародия на список успеха"
+          "formattedValue": "Посмеяться над абсурдной гонкой достижений и выразить своё отношение к чужим ожиданиям.",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "Распространение публикации среди подходящей аудитории через юмор; наблюдать репосты и комментарии узнавания."
+          "formattedValue": "Сатира / пародия на список успеха",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
+        },
+        {
+          "formattedValue": "Распространение публикации среди подходящей аудитории через юмор; наблюдать репосты и комментарии узнавания.",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         }
       ]
     },
     {
       "values": [
         {
-          "formattedValue": "Календарь расширили. Сутки — нет"
+          "formattedValue": "Календарь расширили. Сутки — нет",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "идея"
+          "formattedValue": "идея",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "Аудитория: Занятые. Новый замысел 20.10.2026.\nПарадокс: в календаре все дела разместились, а в сутках — нет.\nХод на 7 карточек: 1) бесконечно прокручиваемый календарь рядом с фиксированными сутками; 2) задачи аккуратно раскрашены; 3) обнаруживаются сон, дорога, еда и переходы, которые в первоначальном рисунке пропущены; 4) часть занятий наложена друг на друга; 5) красиво расставленные блоки не устраняют конкуренцию за одно и то же время; 6) визуальная развязка: при добавлении нового блока другой должен уменьшиться или сдвинуться; 7) итог и предложение сохранить для следующего планирования.\nЭто объяснение через рисунок, без обязательного задания читателю. Все расписания — условные примеры, не нормы сна и не рекомендации по здоровью.\nОтличие от ленивца №3: там ускорение операций и личный проект; здесь вместимость и скрытые допущения плана. От №11: здесь нет переговоров с адресатом обязательства.\nИсходный Pinterest-референс сохранён в колонке референсов. Короткий финал о работе со своим планом в IWE — инструкции в закреплённых @mim_self.\nСтатус — идея; нет макетов и подтверждённого эффекта."
+          "formattedValue": "Аудитория: Занятые. Новый замысел 20.10.2026.\nПарадокс: в календаре все дела разместились, а в сутках — нет.\nХод на 7 карточек: 1) бесконечно прокручиваемый календарь рядом с фиксированными сутками; 2) задачи аккуратно раскрашены; 3) обнаруживаются сон, дорога, еда и переходы, которые в первоначальном рисунке пропущены; 4) часть занятий наложена друг на друга; 5) красиво расставленные блоки не устраняют конкуренцию за одно и то же время; 6) визуальная развязка: при добавлении нового блока другой должен уменьшиться или сдвинуться; 7) итог и предложение сохранить для следующего планирования.\nЭто объяснение через рисунок, без обязательного задания читателю. Все расписания — условные примеры, не нормы сна и не рекомендации по здоровью.\nОтличие от ленивца №3: там ускорение операций и личный проект; здесь вместимость и скрытые допущения плана. От №11: здесь нет переговоров с адресатом обязательства.\nИсходный Pinterest-референс сохранён в колонке референсов. Короткий финал о работе со своим планом в IWE — инструкции в закреплённых @mim_self.\nСтатус — идея; нет макетов и подтверждённого эффекта.",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "Прежний референс сохранён для происхождения темы; его сценарные указания заменены новой версией:\nРеференс: «Нельзя взять и впихнуть невпихуемое», подпись на изображении — «информбюро».\nhttps://i.pinimg.com/originals/54/df/99/54df99c67e45bfedb26c92fc021abe78.jpg\nДоска: https://ru.pinterest.com/dariakamishanova/%D0%BA%D0%B0%D1%80%D1%83%D1%81%D0%B5%D0%BB%D1%8C/\nЧто берём: светлый фон, крупный заголовок, один объёмный предмет; смятые часы как метафора попытки растянуть время. Подготовить собственную визуальную адаптацию. Промпты пока не подготовлены.\nСверка LPF: один центральный объект, минимум подписей; для ЛР зелёный акцент, без произвольно назначенного фирменного HEX.\n\nАктуальный визуальный ход · 20.10.2026:\nКлючевой визуальный эксперимент — один и тот же набор блоков сначала в прокручиваемом календаре, затем в рамке суток. Не менять размер блока незаметно: при каждом преобразовании сохранять легенду. Смятые часы из прежнего Pinterest-пина использовать как направление метафоры, не копировать композицию.\n\nПроверка: доступные LPF ЛР, LPF-CORE часть 2 и редакционные правила; условные примеры обозначены, обещания и фактические результаты разделены. Полная проверка отсутствующей части общего LPF не заявляется. Изображения и полные промпты пока не созданы."
+          "formattedValue": "Прежний референс сохранён для происхождения темы; его сценарные указания заменены новой версией:\nРеференс: «Нельзя взять и впихнуть невпихуемое», подпись на изображении — «информбюро».\nhttps://i.pinimg.com/originals/54/df/99/54df99c67e45bfedb26c92fc021abe78.jpg\nДоска: https://ru.pinterest.com/dariakamishanova/%D0%BA%D0%B0%D1%80%D1%83%D1%81%D0%B5%D0%BB%D1%8C/\nЧто берём: светлый фон, крупный заголовок, один объёмный предмет; смятые часы как метафора попытки растянуть время. Подготовить собственную визуальную адаптацию. Промпты пока не подготовлены.\nСверка LPF: один центральный объект, минимум подписей; для ЛР зелёный акцент, без произвольно назначенного фирменного HEX.\n\nАктуальный визуальный ход · 20.10.2026:\nКлючевой визуальный эксперимент — один и тот же набор блоков сначала в прокручиваемом календаре, затем в рамке суток. Не менять размер блока незаметно: при каждом преобразовании сохранять легенду. Смятые часы из прежнего Pinterest-пина использовать как направление метафоры, не копировать композицию.\n\nПроверка: доступные LPF ЛР, LPF-CORE часть 2 и редакционные правила; условные примеры обозначены, обещания и фактические результаты разделены. Полная проверка отсутствующей части общего LPF не заявляется. Изображения и полные промпты пока не созданы.",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
-        {},
-        {},
         {
-          "formattedValue": "Удовлетворить любопытство: увидеть, почему аккуратный план может оставаться невыполнимым."
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "Визуальный разбор парадокса"
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "Объяснить одно ограничение планирования так, чтобы материал хотелось сохранить или переслать; наблюдать эти действия, без обещания автоматически освободить время."
+          "formattedValue": "Удовлетворить любопытство: увидеть, почему аккуратный план может оставаться невыполнимым.",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
+        },
+        {
+          "formattedValue": "Визуальный разбор парадокса",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
+        },
+        {
+          "formattedValue": "Объяснить одно ограничение планирования так, чтобы материал хотелось сохранить или переслать; наблюдать эти действия, без обещания автоматически освободить время.",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         }
       ]
     },
     {
       "values": [
         {
-          "formattedValue": "«Что-то не то». Какой вопрос задать первым?"
+          "formattedValue": "«Что-то не то». Какой вопрос задать первым?",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "идея"
+          "formattedValue": "идея",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "Аудитория: Инициаторы. Новый замысел 20.10.2026.\nСитуация: редактор видит карточку и говорит «что-то не то». Исполнитель ещё не знает, что именно не подходит.\nХод на 8 карточек: 1) реплика и фрагмент условного макета; 2) вопрос читателю «Что уточнить первым?»; 3) три варианта: А — «какой цвет выбрать?», Б — «что должен понять читатель и где сейчас не получается?», В — «сделать всё заново?»; 4) пауза для собственного выбора; 5) последствия каждого варианта; 6) почему в этой ситуации полезно сначала уточнить ожидаемый эффект; 7) граница ответа: если уже известна конкретная техническая ошибка, вопрос может быть другим; 8) приглашение предложить свою формулировку и тематический финал.\nРазбор относится к заданному примеру: одного универсально правильного вопроса на все правки нет. Ситуация придумана редакцией.\nОсновной CTA — написать вариант и основание. Не превращать финал в обязательную переработку собственной задачи.\nPinterest-референс «Монстр правочник» сохранён; персонаж олицетворяет туманность формулировки, а не плохого заказчика. Инструкции IWE — в закреплённых @mim_self.\nСтатус — идея; текст вариантов и макеты ещё не приняты."
+          "formattedValue": "Аудитория: Инициаторы. Новый замысел 20.10.2026.\nСитуация: редактор видит карточку и говорит «что-то не то». Исполнитель ещё не знает, что именно не подходит.\nХод на 8 карточек: 1) реплика и фрагмент условного макета; 2) вопрос читателю «Что уточнить первым?»; 3) три варианта: А — «какой цвет выбрать?», Б — «что должен понять читатель и где сейчас не получается?», В — «сделать всё заново?»; 4) пауза для собственного выбора; 5) последствия каждого варианта; 6) почему в этой ситуации полезно сначала уточнить ожидаемый эффект; 7) граница ответа: если уже известна конкретная техническая ошибка, вопрос может быть другим; 8) приглашение предложить свою формулировку и тематический финал.\nРазбор относится к заданному примеру: одного универсально правильного вопроса на все правки нет. Ситуация придумана редакцией.\nОсновной CTA — написать вариант и основание. Не превращать финал в обязательную переработку собственной задачи.\nPinterest-референс «Монстр правочник» сохранён; персонаж олицетворяет туманность формулировки, а не плохого заказчика. Инструкции IWE — в закреплённых @mim_self.\nСтатус — идея; текст вариантов и макеты ещё не приняты.",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "Прежний референс сохранён для происхождения темы; его сценарные указания заменены новой версией:\nРеференс: «Монстр правочник», на изображении указан @graphic_eme.\nhttps://i.pinimg.com/originals/50/e5/8d/50e58d4110d6bb9764e5abaca0e1bdaf.jpg\nДоска: https://ru.pinterest.com/dariakamishanova/%D0%BA%D0%B0%D1%80%D1%83%D1%81%D0%B5%D0%BB%D1%8C/\nЧто берём: белый фон, зелёный объёмный персонаж, реплики и стрелки; персонифицировать туманную обратную связь. Подготовить собственного персонажа. Промпты пока не подготовлены.\nСверка LPF: оригинальный персонаж без узнаваемого героя чужого мультфильма; он олицетворяет неясную формулировку, а не «плохого заказчика».\n\nАктуальный визуальный ход · 20.10.2026:\nСначала показать ситуацию и равноправно оформленные варианты; цветом не выдавать ответ до разворота с разбором. Сохранить прежний Pinterest-референс. После выбора — ветви последствий с подписанными связями, затем контекстная оговорка. Не делать игру на унижение ошибившегося.\n\nПроверка: доступные LPF ЛР, LPF-CORE часть 2 и редакционные правила; условные примеры обозначены, обещания и фактические результаты разделены. Полная проверка отсутствующей части общего LPF не заявляется. Изображения и полные промпты пока не созданы."
+          "formattedValue": "Прежний референс сохранён для происхождения темы; его сценарные указания заменены новой версией:\nРеференс: «Монстр правочник», на изображении указан @graphic_eme.\nhttps://i.pinimg.com/originals/50/e5/8d/50e58d4110d6bb9764e5abaca0e1bdaf.jpg\nДоска: https://ru.pinterest.com/dariakamishanova/%D0%BA%D0%B0%D1%80%D1%83%D1%81%D0%B5%D0%BB%D1%8C/\nЧто берём: белый фон, зелёный объёмный персонаж, реплики и стрелки; персонифицировать туманную обратную связь. Подготовить собственного персонажа. Промпты пока не подготовлены.\nСверка LPF: оригинальный персонаж без узнаваемого героя чужого мультфильма; он олицетворяет неясную формулировку, а не «плохого заказчика».\n\nАктуальный визуальный ход · 20.10.2026:\nСначала показать ситуацию и равноправно оформленные варианты; цветом не выдавать ответ до разворота с разбором. Сохранить прежний Pinterest-референс. После выбора — ветви последствий с подписанными связями, затем контекстная оговорка. Не делать игру на унижение ошибившегося.\n\nПроверка: доступные LPF ЛР, LPF-CORE часть 2 и редакционные правила; условные примеры обозначены, обещания и фактические результаты разделены. Полная проверка отсутствующей части общего LPF не заявляется. Изображения и полные промпты пока не созданы.",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
-        {},
-        {},
         {
-          "formattedValue": "Проверить своё суждение, сделать выбор и узнать последствия вариантов."
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "Интерактивная задача с выбором"
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "Вовлечь в содержательное обсуждение уточняющих вопросов; наблюдать выбор с обоснованием и предложенные варианты читателей."
+          "formattedValue": "Проверить своё суждение, сделать выбор и узнать последствия вариантов.",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
+        },
+        {
+          "formattedValue": "Интерактивная задача с выбором",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
+        },
+        {
+          "formattedValue": "Вовлечь в содержательное обсуждение уточняющих вопросов; наблюдать выбор с обоснованием и предложенные варианты читателей.",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         }
       ]
     },
     {
       "values": [
         {
-          "formattedValue": "Ещё одно \"да\". Что сдвинется?"
+          "formattedValue": "Ещё одно \"да\". Что сдвинется?",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "промпт в разработке"
+          "formattedValue": "промпт в разработке",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "Аудитория: Инициаторы. Тип: обучающая, с узнаваемой ситуацией.\nЗатруднение: новые просьбы добавляются к прежним обещаниям без пересмотра плана.\nЦель ЛР: освоить уточнение собственных обязательств с учётом доступного времени.\nПроба: выбрать одно обещание, уточнить результат и срок с адресатом, обновить план.\nРП: записанные условия; согласие адресата и выполнение проверяются отдельно.\nЧерновик 9 слайдов ниже, строки 18–26. Макетов и полных промптов нет."
+          "formattedValue": "Аудитория: Инициаторы. Тип: обучающая, с узнаваемой ситуацией.\nЗатруднение: новые просьбы добавляются к прежним обещаниям без пересмотра плана.\nЦель ЛР: освоить уточнение собственных обязательств с учётом доступного времени.\nПроба: выбрать одно обещание, уточнить результат и срок с адресатом, обновить план.\nРП: записанные условия; согласие адресата и выполнение проверяются отдельно.\nЧерновик 9 слайдов ниже, строки 18–26. Макетов и полных промптов нет.",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "Источник: https://t.me/Le_kinzhal/8652\nСвязанная статья: https://kinzhal.media/raboty-slishkom-mnogo/\nАвтор статьи: Саша Петрикова, журнал \"Кинжал\". Дата поста и статьи: 20.10.2026; прочитаны 20.10.2026.\nСвоя адаптация для МИМ; исходную иллюстрацию не копировать.\nВизуальный замысел: одна взрослая героиня и сумка с деревянными брусками-обязательствами; новые добавления меняют доступный объём."
+          "formattedValue": "Источник: https://t.me/Le_kinzhal/8652\nСвязанная статья: https://kinzhal.media/raboty-slishkom-mnogo/\nАвтор статьи: Саша Петрикова, журнал \"Кинжал\". Дата поста и статьи: 20.10.2026; прочитаны 20.10.2026.\nСвоя адаптация для МИМ; исходную иллюстрацию не копировать.\nВизуальный замысел: одна взрослая героиня и сумка с деревянными брусками-обязательствами; новые добавления меняют доступный объём.",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
-        {},
-        {},
         {
-          "formattedValue": "Получить рабочий способ пересогласовать новое обещание с прежними обязательствами."
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "Практическая инструкция"
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "Помочь подготовить предложение адресату и проверить ответ; гипотеза — сохранения и рассказы об одной попытке, без гарантии согласия."
+          "formattedValue": "Получить рабочий способ пересогласовать новое обещание с прежними обязательствами.",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
+        },
+        {
+          "formattedValue": "Практическая инструкция",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
+        },
+        {
+          "formattedValue": "Помочь подготовить предложение адресату и проверить ответ; гипотеза — сохранения и рассказы об одной попытке, без гарантии согласия.",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         }
       ]
     },
     {
       "values": [
         {
-          "formattedValue": "Своя IWE: что Александр Петров оставил, изменил и ограничил"
+          "formattedValue": "Своя IWE: что Александр Петров оставил, изменил и ограничил",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "идея"
+          "formattedValue": "идея",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "Аудитория: Проверяющие и Инициаторы. Новая идея №12, 20.10.2026. Кейс Александра Петрова, эфир 03.10.2026.\nЦентральная мысль: ценность своей среды проверяется тем, что с её помощью получается делать; настройку тоже можно ограничивать.\nХод на 8 карточек: 1) «Среда, которой можно пользоваться» — Александр Петров; 2) зачем после общего шаблона понадобилась своя версия; 3) Obsidian как основное место работы с заметками и файлами, с которыми работает агент; 4) чёткие границы: личные черновики агент не редактирует, совместных файлов мало; 5) личная и рабочая среды разделены, обмен — общими итогами без конфиденциальной конкретики; 6) около 30 часов на изучение и сборку по собственным записям Александра, затем эксплуатация и доработки по необходимости; 7) проверка пользы — собственные тексты, рабочие продукты и поддержка выбранного способа работы; 8) тематический переход к первому опыту IWE, инструкции в закреплённых @mim_self.\nГлавное — показать три решения и их основания, а не перечень интеграций или инструкцию всем перейти на Obsidian.\nФакты и оценки принадлежат одному участнику. 30 часов — его самоотчёт, не обещание стоимости сборки; переход всех коллег на IWE он не заявляет. Схемы помечать как редакционные реконструкции.\nИсточник: загруженный транскрипт «Своя IWE на Obsidian». Опоры: 12:48–17:43; 42:03–49:51; 51:56–53:56; 54:59–58:20; 66:13–73:38.\nСтатус — идея; исходные скриншоты и актуальная ссылка на запись требуют подбора перед дизайном."
+          "formattedValue": "Аудитория: Проверяющие и Инициаторы. Новая идея №12, 20.10.2026. Кейс Александра Петрова, эфир 03.10.2026.\nЦентральная мысль: ценность своей среды проверяется тем, что с её помощью получается делать; настройку тоже можно ограничивать.\nХод на 8 карточек: 1) «Среда, которой можно пользоваться» — Александр Петров; 2) зачем после общего шаблона понадобилась своя версия; 3) Obsidian как основное место работы с заметками и файлами, с которыми работает агент; 4) чёткие границы: личные черновики агент не редактирует, совместных файлов мало; 5) личная и рабочая среды разделены, обмен — общими итогами без конфиденциальной конкретики; 6) около 30 часов на изучение и сборку по собственным записям Александра, затем эксплуатация и доработки по необходимости; 7) проверка пользы — собственные тексты, рабочие продукты и поддержка выбранного способа работы; 8) тематический переход к первому опыту IWE, инструкции в закреплённых @mim_self.\nГлавное — показать три решения и их основания, а не перечень интеграций или инструкцию всем перейти на Obsidian.\nФакты и оценки принадлежат одному участнику. 30 часов — его самоотчёт, не обещание стоимости сборки; переход всех коллег на IWE он не заявляет. Схемы помечать как редакционные реконструкции.\nИсточник: загруженный транскрипт «Своя IWE на Obsidian». Опоры: 12:48–17:43; 42:03–49:51; 51:56–53:56; 54:59–58:20; 66:13–73:38.\nСтатус — идея; исходные скриншоты и актуальная ссылка на запись требуют подбора перед дизайном.",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "Источник: iwe-obsidian-petrov-clean-transcript.md, эфир 03.10.2026. Точные ключевые фрагменты: 15:51–17:43 — своя компактная сборка; 51:56–53:56 — около 30 часов и переход к эксплуатации; 54:59–58:20 — границы редактирования; 69:06–73:34 — два контура и обмен. Фото Александра — из предоставленного пользователем. Скриншоты использовать только из реального выступления; если их нет, сделать подписанную редакционную схему, не выдавать её за интерфейс Александра. Не публиковать содержимое частных рабочих файлов. Макетов и публичной ссылки на видео в этой строке пока нет.\n\nПроверено по предоставленному транскрипту и доступным LPF: самоотчёт участника отделён от общего обещания, реконструкции от оригиналов. Полной проверки отсутствующей части общего LPF нет. Оригинальные файлы выступления приложены в переписке."
+          "formattedValue": "Источник: iwe-obsidian-petrov-clean-transcript.md, эфир 03.10.2026. Точные ключевые фрагменты: 15:51–17:43 — своя компактная сборка; 51:56–53:56 — около 30 часов и переход к эксплуатации; 54:59–58:20 — границы редактирования; 69:06–73:34 — два контура и обмен. Фото Александра — из предоставленного пользователем. Скриншоты использовать только из реального выступления; если их нет, сделать подписанную редакционную схему, не выдавать её за интерфейс Александра. Не публиковать содержимое частных рабочих файлов. Макетов и публичной ссылки на видео в этой строке пока нет.\n\nПроверено по предоставленному транскрипту и доступным LPF: самоотчёт участника отделён от общего обещания, реконструкции от оригиналов. Полной проверки отсутствующей части общего LPF нет. Оригинальные файлы выступления приложены в переписке.",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
-        {},
-        {},
         {
-          "formattedValue": "Заглянуть в реальную сборку, понять её пользу и цену поддержки, выбрать применимую идею."
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "Разбор устройства / демонстрация реального опыта"
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "Показать конкретное применение IWE и помочь осмысленно заинтересоваться Мастерской; наблюдать вопросы о применимости и переходы к материалам, не объявляя их покупками."
+          "formattedValue": "Заглянуть в реальную сборку, понять её пользу и цену поддержки, выбрать применимую идею.",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
+        },
+        {
+          "formattedValue": "Разбор устройства / демонстрация реального опыта",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
+        },
+        {
+          "formattedValue": "Показать конкретное применение IWE и помочь осмысленно заинтересоваться Мастерской; наблюдать вопросы о применимости и переходы к материалам, не объявляя их покупками.",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         }
       ]
     },
     {
       "values": [
         {
-          "formattedValue": "Почему Владимир Климентьев научился останавливаться"
+          "formattedValue": "Почему Владимир Климентьев научился останавливаться",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "идея"
+          "formattedValue": "идея",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "Аудитория: Занятые и Проверяющие. Новая идея №13, 20.10.2026. Кейс Владимира Климентьева, эфир 17.10.2026 «Эскалатор для Сизифа».\nЦентральный поворот: свои рабочие марафоны Владимир связал со страхом потерять контекст при остановке; это привело его к промежуточным результатам и более лёгкой фиксации.\nХод на 8 карточек: 1) «Почему он боялся сделать паузу?» — Владимир Климентьев; 2) по его рассказу, мог работать 12–16 часов без выхода из процесса; 3) объяснение самого Владимира: боялся забыть мысли, расположение материалов и следующий ход; 4) поворот — сохранять промежуточный рабочий продукт; 5) первая попытка оказалась тяжёлой: подробные стоп-отчёты он перестал заполнять; 6) следующая версия — снижать стоимость фиксации, делать небольшие показываемые результаты; 7) извлекать уроки из попыток и отдельно отмечать, подтвердилась ли гипотеза; 8) итог истории и тематический переход к сохранению контекста в IWE, инструкции в закреплённых @mim_self.\nПоказываем путь с неудачной версией, а не чудесное исцеление от самосаботажа. Не даём медицинских объяснений, не обобщаем его режим на читателей.\nКороткий пример «где материал / что получено / что дальше» допустим только как редакционная адаптация, не дословный шаблон Владимира. Не приписывать ему измеренную экономию времени.\nИсточник: загруженная расшифровка выступления. Опоры: 26:08–29:31 — прогресс и итерации; 43:09–48:38 — марафоны, страх потери контекста и стоп-отчёт; 52:06–55:26 — мини-РП и извлечение уроков.\nСтатус — идея; полного текста карточек и макетов ещё нет."
+          "formattedValue": "Аудитория: Занятые и Проверяющие. Новая идея №13, 20.10.2026. Кейс Владимира Климентьева, эфир 17.10.2026 «Эскалатор для Сизифа».\nЦентральный поворот: свои рабочие марафоны Владимир связал со страхом потерять контекст при остановке; это привело его к промежуточным результатам и более лёгкой фиксации.\nХод на 8 карточек: 1) «Почему он боялся сделать паузу?» — Владимир Климентьев; 2) по его рассказу, мог работать 12–16 часов без выхода из процесса; 3) объяснение самого Владимира: боялся забыть мысли, расположение материалов и следующий ход; 4) поворот — сохранять промежуточный рабочий продукт; 5) первая попытка оказалась тяжёлой: подробные стоп-отчёты он перестал заполнять; 6) следующая версия — снижать стоимость фиксации, делать небольшие показываемые результаты; 7) извлекать уроки из попыток и отдельно отмечать, подтвердилась ли гипотеза; 8) итог истории и тематический переход к сохранению контекста в IWE, инструкции в закреплённых @mim_self.\nПоказываем путь с неудачной версией, а не чудесное исцеление от самосаботажа. Не даём медицинских объяснений, не обобщаем его режим на читателей.\nКороткий пример «где материал / что получено / что дальше» допустим только как редакционная адаптация, не дословный шаблон Владимира. Не приписывать ему измеренную экономию времени.\nИсточник: загруженная расшифровка выступления. Опоры: 26:08–29:31 — прогресс и итерации; 43:09–48:38 — марафоны, страх потери контекста и стоп-отчёт; 52:06–55:26 — мини-РП и извлечение уроков.\nСтатус — идея; полного текста карточек и макетов ещё нет.",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "Источник: GMT20261017-080811_Recording.m4a (2).docx, эфир 17.10.2026. Ключевые фрагменты: 43:09–44:57 — 12–16 часов и страх потери контекста; 47:37–48:38 — промежуточные мини-РП и тяжёлый стоп-отчёт; 52:06–54:37 — показываемые результаты и проверка гипотез. Фото Владимира и исходная афиша — из материалов пользователя. Визуально: большой непрерывный подъём → остановки с сохранёнными промежуточными результатами. Сизиф и эскалатор — образ из его темы; не обещать автоматического результата. Реконструкции и редакционные примеры явно подписывать.\n\nПроверено по предоставленному транскрипту и доступным LPF: самоотчёт участника отделён от общего обещания, реконструкции от оригиналов. Полной проверки отсутствующей части общего LPF нет. Оригинальные файлы выступления приложены в переписке."
+          "formattedValue": "Источник: GMT20261017-080811_Recording.m4a (2).docx, эфир 17.10.2026. Ключевые фрагменты: 43:09–44:57 — 12–16 часов и страх потери контекста; 47:37–48:38 — промежуточные мини-РП и тяжёлый стоп-отчёт; 52:06–54:37 — показываемые результаты и проверка гипотез. Фото Владимира и исходная афиша — из материалов пользователя. Визуально: большой непрерывный подъём → остановки с сохранёнными промежуточными результатами. Сизиф и эскалатор — образ из его темы; не обещать автоматического результата. Реконструкции и редакционные примеры явно подписывать.\n\nПроверено по предоставленному транскрипту и доступным LPF: самоотчёт участника отделён от общего обещания, реконструкции от оригиналов. Полной проверки отсутствующей части общего LPF нет. Оригинальные файлы выступления приложены в переписке.",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
-        {},
-        {},
         {
-          "formattedValue": "Проследить неожиданный поворот в личной истории и увидеть реалистичный способ возвращаться к сложной работе."
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "Документальная история с поворотом"
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "Дать доверие к подходу через проверяемые детали и ограничения личного кейса; наблюдать содержательные отклики и интерес к полному разбору."
+          "formattedValue": "Проследить неожиданный поворот в личной истории и увидеть реалистичный способ возвращаться к сложной работе.",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
+        },
+        {
+          "formattedValue": "Документальная история с поворотом",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
+        },
+        {
+          "formattedValue": "Дать доверие к подходу через проверяемые детали и ограничения личного кейса; наблюдать содержательные отклики и интерес к полному разбору.",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         }
       ]
     },
     {
       "values": [
         {
-          "formattedValue": "ИИ сделал не то. Чего не хватило в задаче?"
+          "formattedValue": "ИИ сделал не то. Чего не хватило в задаче?",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "идея"
+          "formattedValue": "идея",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "Идея №14, добавлена 24.10.2026. Аудитория: Проверяющие.\nИнтерактивная мастерская: читатель видит запрос и неудачный ответ ИИ, выбирает недостающую деталь и листает к разбору. Пять опор: цель, аудитория, исходные данные, формат, критерий готовности.\nДля адаптации МИМ подготовить собственные рабочие примеры, показать исправление постановки и отдельно проверку ответа. Хороший промпт не гарантирует правильный результат.\nЭто редакционный замысел по материалу «Кинжала»; полный сценарий и макеты ещё не созданы."
+          "formattedValue": "Идея №14, добавлена 24.10.2026. Аудитория: Проверяющие.\nИнтерактивная мастерская: читатель видит запрос и неудачный ответ ИИ, выбирает недостающую деталь и листает к разбору. Пять опор: цель, аудитория, исходные данные, формат, критерий готовности.\nДля адаптации МИМ подготовить собственные рабочие примеры, показать исправление постановки и отдельно проверку ответа. Хороший промпт не гарантирует правильный результат.\nЭто редакционный замысел по материалу «Кинжала»; полный сценарий и макеты ещё не созданы.",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "Пост: https://t.me/Le_kinzhal/8661\nСтатья: https://kinzhal.media/remontnaya-masterskaya-promptov/\n«Ремонтная мастерская промптов: почините пять запросов к ИИ». Автор — Саша Петрикова, журнал «Кинжал»; опубликовано 23.10.2026, прочитано 24.10.2026.\nВизуальный ход для проверки: фото персонажа и окна запросов/ответов; на вопросной карточке не выделять правильный вариант заранее. Источник указан, собственная адаптация отделена от оригинала. Промпты и визуалы пока не подготовлены."
+          "formattedValue": "Пост: https://t.me/Le_kinzhal/8661\nСтатья: https://kinzhal.media/remontnaya-masterskaya-promptov/\n«Ремонтная мастерская промптов: почините пять запросов к ИИ». Автор — Саша Петрикова, журнал «Кинжал»; опубликовано 23.10.2026, прочитано 24.10.2026.\nВизуальный ход для проверки: фото персонажа и окна запросов/ответов; на вопросной карточке не выделять правильный вариант заранее. Источник указан, собственная адаптация отделена от оригинала. Промпты и визуалы пока не подготовлены.",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
-        {},
-        {},
         {
-          "formattedValue": "Проверить свою постановку задачи и понять, какой детали не хватает для полезного ответа ИИ."
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "Интерактивная задача с выбором"
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         },
         {
-          "formattedValue": "Вовлечь в разбор рабочих запросов; получить выбор с объяснением и собственные примеры читателей."
+          "formattedValue": "Проверить свою постановку задачи и понять, какой детали не хватает для полезного ответа ИИ.",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
+        },
+        {
+          "formattedValue": "Интерактивная задача с выбором",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
+        },
+        {
+          "formattedValue": "Вовлечь в разбор рабочих запросов; получить выбор с объяснением и собственные примеры читателей.",
+          "userEnteredFormat": {
+            "wrapStrategy": "WRAP",
+            "textFormat": {
+              "fontFamily": "Arial",
+              "fontSize": 10
+            }
+          }
         }
       ]
     }

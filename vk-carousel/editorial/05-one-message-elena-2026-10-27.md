@@ -53,4 +53,8 @@
 
 ## Актуальные версии
 
-[Карусель PDF](https://drive.google.com/file/d/1FER04obUVpCFuqpjX2YQC36JPc-EjFhY/view) · [Обзор](https://drive.google.com/file/d/1lZ6g-nSlqdATG0RYNLEjaWFPtlnaii9T/view) · [Все файлы](https://drive.google.com/drive/folders/1uU-J7U1IdToFRJbovMcKWiC7XaK6TmIO).
+[Папка PNG](https://drive.google.com/drive/folders/1uU-J7U1IdToFRJbovMcKWiC7XaK6TmIO) · [Все файлы](https://drive.google.com/drive/folders/1uU-J7U1IdToFRJbovMcKWiC7XaK6TmIO).
+
+## Формат передачи · 28.10.2026
+
+[Папка с 7 PNG по порядку](https://drive.google.com/drive/folders/1uU-J7U1IdToFRJbovMcKWiC7XaK6TmIO). Публиковать файлы 01.png–07.png в порядке имён. PDF и архив карусели выведены из использования. [Сценарий, подпись и промпты](https://drive.google.com/drive/folders/12q6ZmqyrTkxKfijl8XG-ALlQrLwq1laC).

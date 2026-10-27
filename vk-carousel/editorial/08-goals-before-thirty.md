@@ -10,7 +10,7 @@
 
 ## Тексты карточек
 
-### 1/7 · 01_Обложка.png
+### 1/7 · 01.png
 
 К 30 ГОДАМ
 Я ПЛАНИРОВАЛА
@@ -21,7 +21,7 @@
 
 Визуальный замысел: Exact headline must be entirely inside one large obvious white speech bubble with dark navy outline, spoken by the recurring woman. Her enormous long paper checklist coils around her feet. No additional caption or moral. The headline fills most of upper composition.
 
-### 2/7 · 02_Список-выглядел-вполне-разумно.png
+### 2/7 · 02.png
 
 Список выглядел
 вполне разумно.
@@ -32,7 +32,7 @@
 
 Визуальный замысел: Woman unrolls a short neat checklist; beside its three items are simple abstract briefcase, house and three speech icons. Do not add small text on paper; supplied text is typeset clearly on card.
 
-### 3/7 · 03_Потом-появились-дополнения.png
+### 3/7 · 03.png
 
 Потом появились
 дополнения.
@@ -43,7 +43,7 @@
 
 Визуальный замысел: Same paper checklist suddenly unrolls much farther, revealing a tiny alarm clock, sneakers and a rolled diploma, all surreal lightweight clay objects spilling from it. Woman amused and puzzled, not distressed.
 
-### 4/7 · 04_У-каждого-пункта-свой-список.png
+### 4/7 · 04.png
 
 У каждого пункта —
 свой список.
@@ -54,7 +54,7 @@
 
 Визуальный замысел: The main paper scroll sprouts three smaller paper scrolls like branches, absurd but elegant. Text is a single clean large readable sequence, no tiny illegible nested checklist text. Same woman peeks from behind scroll.
 
-### 5/7 · 05_На-жизнь-место-осталось.png
+### 5/7 · 05.png
 
 На жизнь
 место осталось.
@@ -63,7 +63,7 @@
 
 Визуальный замысел: Huge unrolling task scroll fills most of the lower canvas, leaving a tiny but visible relaxed armchair squeezed into a small white gap. The ironic time text must be large and readable, not microscopic. No lifestyle shaming.
 
-### 6/7 · 06_А-мне-это-вообще-нужно.png
+### 6/7 · 06.png
 
 А мне это
 вообще нужно?
@@ -73,7 +73,7 @@
 
 Визуальный замысел: The exact first-person headline is entirely inside an obvious large speech bubble spoken by same woman. She makes one broad empty space in the long paper scroll, sets down pencil and looks thoughtfully at it. Body outside bubble is third-person editorial narration.
 
-### 7/7 · 07_Отправьте-тому-кто-тоже-всё-успевает.png
+### 7/7 · 07.png
 
 Отправьте тому,
 кто тоже
@@ -113,3 +113,8 @@ https://t.me/mim_self
 ## Приёмка в следующем рабочем слоте
 
 Проверить: смысл и естественность формулировок; читаемость и визуальную последовательность; написание ссылок; нумерацию; подписи. Решение по серии: принять или перечислить правки по номерам. Готовность файлов не означает редакторскую приёмку или публикацию.
+
+
+## Формат передачи · 28.10.2026
+
+[Папка с 7 PNG по порядку](https://drive.google.com/drive/folders/1IxLn9_fbDkArz_CiyzjGrNZVZa5sFnI1). Публиковать файлы 01.png–07.png в порядке имён. PDF и архив карусели выведены из использования. [Сценарий, подпись и промпты](https://drive.google.com/drive/folders/16WfEOOl8nJMsSrA0qKp0OlK4ht6bxTRu).
