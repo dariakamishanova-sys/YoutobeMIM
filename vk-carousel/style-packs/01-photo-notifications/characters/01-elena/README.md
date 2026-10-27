@@ -55,3 +55,10 @@
 
 https://ru.pinterest.com/dariakamishanova/expressions-reference-pack/
 Доска предоставлена редактором; прямой просмотр недоступен (Pinterest вернул 403). Позы разработаны по описанию характеров, без заявления о просмотре содержимого доски.
+## Актуальные материалы и статус
+
+Пак v2.0 предварительно принят редактором.
+
+[Елена из Бухгалтерии-обзор-пака.pdf](https://drive.google.com/file/d/1iGNhH63eSRISQjVQAs2fMoFSoaT-FfbD/view?usp=drivesdk) · [Елена из Бухгалтерии-паспорт-характера-v2.pdf](https://drive.google.com/file/d/16iw4QwMnnOSI5J3cGEA5Itd7mioCbWTF/view?usp=drivesdk)
+
+[Исходники, промпты и архив](https://drive.google.com/drive/folders/1E3Li7QE4_e2zfhn_6-Nvbu0g-o4JivZe).
