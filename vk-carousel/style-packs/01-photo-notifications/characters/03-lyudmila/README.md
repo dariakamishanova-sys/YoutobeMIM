@@ -50,3 +50,5 @@
 [Исходники, промпты и архив](https://drive.google.com/drive/folders/1hzNf_ivfWOjAzelEhZeWEFskPn8BtqRC).
 
 Статус: пак v1.0 принят редактором.
+
+[Текущие PNG и PDF в GitHub](https://github.com/dariakamishanova-sys/YoutobeMIM/tree/main/vk-carousel/style-packs/01-photo-notifications/characters/03-lyudmila/assets).

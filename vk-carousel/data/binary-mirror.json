@@ -1,0 +1,502 @@
+{
+  "date": "2026-10-27",
+  "repository": "dariakamishanova-sys/YoutobeMIM",
+  "purpose": "Точные копии текущих PNG и PDF; git blob SHA проверен по исходным байтам. ZIP-архивы для скачивания доступны на Google Диске через assets-current.json.",
+  "files": [
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/01-elena/assets/Елена из Бухгалтерии-обзор-пака.pdf",
+      "sha": "65282a77dc7403dd240925b800c1b10346a5d72e",
+      "size": 2954405
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/01-elena/assets/09-relief.png",
+      "sha": "ae006e4fa397bf28552afea5e439a020bb78e8fc",
+      "size": 1801309
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/01-elena/assets/05-full-body.png",
+      "sha": "92f7ac946cd15c17f692d9a8fba9d088927092bc",
+      "size": 736032
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/01-elena/assets/02-three-quarter-left.png",
+      "sha": "3563576d96318aec0bf1fa32e868016ebd62937e",
+      "size": 1653352
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/01-elena/assets/12-ui-look.png",
+      "sha": "7ad3af6390683f0efcd2efcf7c290f59e0a9024e",
+      "size": 1424601
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/01-elena/assets/15-test.png",
+      "sha": "02e328eeb24a5628289562762e3030c2e26e0f3a",
+      "size": 1714378
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/01-elena/assets/21-delight.png",
+      "sha": "0ecd91bef011784777d566ea0bbe336f4b66174e",
+      "size": 1769860
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/01-elena/assets/Елена из Бухгалтерии-паспорт-характера.pdf",
+      "sha": "70f1f62d33c3a104531f8b729430b62505d25e67",
+      "size": 41915
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/01-elena/assets/16-test.png",
+      "sha": "ecdb03181c7c6940e2e378e97f8bb747b39755eb",
+      "size": 1715051
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/01-elena/assets/11-focus.png",
+      "sha": "80231a51bade51c9122c445c22afe897b2d5f38a",
+      "size": 1800397
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/01-elena/assets/07-doubt.png",
+      "sha": "2fd101cfc6e918bfbc38c5a3fc23b853d6cb3352",
+      "size": 1831355
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/01-elena/assets/17-test.png",
+      "sha": "e75111d308c7c4ad99fbc37ac7e46aec31186e98",
+      "size": 1748762
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/01-elena/assets/08-overload.png",
+      "sha": "eb9d7d895b187e6a5b044652e7e5e5978e9dd3db",
+      "size": 1800538
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/01-elena/assets/10-choice.png",
+      "sha": "a7d3983ac16dfccc31724a7f6a98abc9200c0940",
+      "size": 1782259
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/01-elena/assets/06-interest.png",
+      "sha": "dd4d49ef21122711ffe3b308fad80e9f72add644",
+      "size": 1827060
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/01-elena/assets/03-three-quarter-right.png",
+      "sha": "861fd037276bcdf001a0314f792f0280e7329ce7",
+      "size": 1744072
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/01-elena/assets/20-anger.png",
+      "sha": "079bb56a1b5857ec095db9149a892bd6df3b51c0",
+      "size": 1674950
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/01-elena/assets/13-ui-point.png",
+      "sha": "1c74ef9e2412597cdc67fa3c1ac7414c83a771dc",
+      "size": 1578906
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/01-elena/assets/01-front.png",
+      "sha": "0163c6035323bdd3aa63d9b505eb6d020a14065f",
+      "size": 1840317
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/01-elena/assets/14-ui-overlap.png",
+      "sha": "8c4810c9236ceaf40d3a700090880360af66f218",
+      "size": 1844520
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/01-elena/assets/18-facepalm.png",
+      "sha": "9849cbca36eb64456f372bb8fedde8a8876b5ae2",
+      "size": 1761714
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/01-elena/assets/19-horror.png",
+      "sha": "15c745963f82eafd6aaefc3e8b0aa0b0fff4e30b",
+      "size": 1780325
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/01-elena/assets/04-profile.png",
+      "sha": "81698690b0661dc0e9f764ca36ebe802f0d96941",
+      "size": 1744707
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/02-dmitry/assets/09-relief.png",
+      "sha": "77aad04d27dff2a9f1531c416ce47ca46b279b33",
+      "size": 2181733
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/02-dmitry/assets/05-full-body.png",
+      "sha": "06e5db6757e0ed77112a5f4732638d0951cc59e6",
+      "size": 1480844
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/02-dmitry/assets/02-three-quarter-left.png",
+      "sha": "e36e418bd5c0317cdbfbc8594412ccf0fb535dbe",
+      "size": 1729173
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/02-dmitry/assets/12-ui-look.png",
+      "sha": "f75151d5cc1494380d2ec32433fedd63af2564a6",
+      "size": 1259918
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/02-dmitry/assets/Дмитрий-обзор-пака.pdf",
+      "sha": "e82201e513175c693ce3b66fcb6a05cf7ef0620b",
+      "size": 2985971
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/02-dmitry/assets/15-test.png",
+      "sha": "193470590a2407c6784e7d480661f90457fc9204",
+      "size": 1928149
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/02-dmitry/assets/Дмитрий-паспорт-характера.pdf",
+      "sha": "61facc35206be23f6c81c087a1dae713f76d1a4a",
+      "size": 41408
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/02-dmitry/assets/21-delight.png",
+      "sha": "4901275d56ba4bf1ac6cb936bb6e46fdf514a341",
+      "size": 2221210
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/02-dmitry/assets/16-test.png",
+      "sha": "0abddd3d17c0e0214b3046705b857b6f6fd70813",
+      "size": 1765010
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/02-dmitry/assets/11-focus.png",
+      "sha": "789826b7792da2aa80ef45ee2c888ab394a77f1c",
+      "size": 1882767
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/02-dmitry/assets/07-doubt.png",
+      "sha": "af39b7b9fc3a67e945682f9e1b5d2b1081bee702",
+      "size": 2228887
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/02-dmitry/assets/17-test.png",
+      "sha": "b3a3272988e926db25ca8bea1794d430005a906f",
+      "size": 2286080
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/02-dmitry/assets/08-overload.png",
+      "sha": "7355a48a67cd0745e8059216ccc4f5bfe025cace",
+      "size": 1921033
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/02-dmitry/assets/10-choice.png",
+      "sha": "a229ca9a89229993d1e65407239562d7796757ee",
+      "size": 1815665
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/02-dmitry/assets/06-interest.png",
+      "sha": "87bae4388bab9b3861fa0173d0269d480b11602f",
+      "size": 2268905
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/02-dmitry/assets/03-three-quarter-right.png",
+      "sha": "7a36bb6beb468100ec066d02f39e52cd5357d563",
+      "size": 2035783
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/02-dmitry/assets/20-anger.png",
+      "sha": "141746c5385b2c4ae7880d15ca1c608019cb76ce",
+      "size": 2112669
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/02-dmitry/assets/13-ui-point.png",
+      "sha": "dadc6f1d608c7ad19aef334f3a76196cce379dc2",
+      "size": 1428147
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/02-dmitry/assets/01-front.png",
+      "sha": "4923350313787c8258ccb59d39b4368471960374",
+      "size": 1852017
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/02-dmitry/assets/14-ui-overlap.png",
+      "sha": "92ed73139a74fb26cf08a1ba3d8bdf2ca47e19a3",
+      "size": 2267913
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/02-dmitry/assets/18-facepalm.png",
+      "sha": "b2845518b567c34479fcb9f191472166fc4eaf61",
+      "size": 2395333
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/02-dmitry/assets/19-horror.png",
+      "sha": "0fe6ed9fd4b4485693b51fea39952089842bbb31",
+      "size": 2030344
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/02-dmitry/assets/04-profile.png",
+      "sha": "dd5c98ff6eae05939bbc72f9dd48a4fc769b092e",
+      "size": 1671157
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/03-lyudmila/assets/Людмила-обзор-пака.pdf",
+      "sha": "fdbe198d252baf3adc59f8bcb4bfdb0a38523e94",
+      "size": 2892349
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/03-lyudmila/assets/09-relief.png",
+      "sha": "9fd40cb774752dfdf347effab328447dc1e70d32",
+      "size": 1487492
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/03-lyudmila/assets/05-full-body.png",
+      "sha": "815786b15c01a68065b917deeacf1673c187ce98",
+      "size": 1663451
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/03-lyudmila/assets/02-three-quarter-left.png",
+      "sha": "f33758703a829cb5f7bd6800453579ee92ccae5d",
+      "size": 2315311
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/03-lyudmila/assets/12-ui-look.png",
+      "sha": "522d457c2dc141fd56a7be383c6dbb628099383b",
+      "size": 1567424
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/03-lyudmila/assets/15-test.png",
+      "sha": "fc9124d780c22270ceb3efa308cdddf16f0ab616",
+      "size": 1927258
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/03-lyudmila/assets/Людмила-паспорт-характера.pdf",
+      "sha": "c5dbe35098fc6ff2dbaa460ecec5ea042ca45d52",
+      "size": 42264
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/03-lyudmila/assets/21-delight.png",
+      "sha": "01a7d680658fb8203d463400ad2195b8d97cd95f",
+      "size": 2319729
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/03-lyudmila/assets/16-test.png",
+      "sha": "ce6afa64296380cda4b88c700e3ec772b059bb28",
+      "size": 1598447
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/03-lyudmila/assets/11-focus.png",
+      "sha": "36a7c7ad1ed15bea72e57bc9ba41fc15ec7b9804",
+      "size": 2001110
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/03-lyudmila/assets/07-doubt.png",
+      "sha": "9ddd1374dab3398ea4eebfb7ccefbdee3d808f33",
+      "size": 1640423
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/03-lyudmila/assets/17-test.png",
+      "sha": "e1ead76cb362844de9620d5faf07a4f67e6bd31b",
+      "size": 1694479
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/03-lyudmila/assets/08-overload.png",
+      "sha": "aa35963231dccccddf6fe5cf4245c2ca29dff547",
+      "size": 2065804
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/03-lyudmila/assets/10-choice.png",
+      "sha": "35aadbe11ac7c49ff7ce2db44a976d3024b747e4",
+      "size": 1556355
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/03-lyudmila/assets/06-interest.png",
+      "sha": "101068f622f5c283cf980d0ea436a689823b5999",
+      "size": 1562890
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/03-lyudmila/assets/03-three-quarter-right.png",
+      "sha": "228eddc16bb543c4023a13bf1ffe0ce52a05352e",
+      "size": 1439647
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/03-lyudmila/assets/20-anger.png",
+      "sha": "da7beb19982f54db7bc38e6568df67af87163db5",
+      "size": 1794884
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/03-lyudmila/assets/13-ui-point.png",
+      "sha": "1e78c097115145b4ac0e4d47d27d184995ae9f95",
+      "size": 1672543
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/03-lyudmila/assets/01-front.png",
+      "sha": "39de3c4ac0eb9794f067b323f89293001e60b95b",
+      "size": 2228843
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/03-lyudmila/assets/14-ui-overlap.png",
+      "sha": "c9a2eedbee1e2693f6bc720cdbd907f57af15c1f",
+      "size": 1559267
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/03-lyudmila/assets/18-facepalm.png",
+      "sha": "87fe805f9e42cbbf7e4e646aff7596b5cd53dce3",
+      "size": 1516604
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/03-lyudmila/assets/19-horror.png",
+      "sha": "d83cfa25919a59d81d7b25cc733bc9c4d98afb4c",
+      "size": 1569960
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/03-lyudmila/assets/04-profile.png",
+      "sha": "a57f5d205c65d5dda5acd5444f462f3febc79db5",
+      "size": 2513947
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/04-alexander/assets/Александр-паспорт-характера.pdf",
+      "sha": "16606cbbc56109bb8086bbf705bc9089bd424f10",
+      "size": 2720229
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/04-alexander/assets/01-front.png",
+      "sha": "7f46a1ff6c8659a0a6881061c9c92253f9fd2926",
+      "size": 1997592
+    },
+    {
+      "path": "vk-carousel/assets/05-elena-v3/01.png",
+      "sha": "35ee41f29387ae8384b257cf06c41390af35bec7",
+      "size": 1782381
+    },
+    {
+      "path": "vk-carousel/assets/05-elena-v3/07.png",
+      "sha": "0c6745c1112fb67b922d54e95f9f0b024651d1ef",
+      "size": 1768495
+    },
+    {
+      "path": "vk-carousel/assets/05-elena-v3/03.png",
+      "sha": "25d18ab5c531de89cafdc5d8846722c4348b814a",
+      "size": 1744783
+    },
+    {
+      "path": "vk-carousel/assets/05-elena-v3/Обзор-7-карточек.pdf",
+      "sha": "dcfa7fc923e92ef92546b66557d3b771250b78a3",
+      "size": 709782
+    },
+    {
+      "path": "vk-carousel/assets/05-elena-v3/06.png",
+      "sha": "1bd2600e1af974353f7e0b487a6f02c1aa13b961",
+      "size": 1718489
+    },
+    {
+      "path": "vk-carousel/assets/05-elena-v3/Карусель-7-карточек.pdf",
+      "sha": "6beb3fbec19252a4c37875c621952067c3113992",
+      "size": 700749
+    },
+    {
+      "path": "vk-carousel/assets/05-elena-v3/04.png",
+      "sha": "13e0031df95ff5c3abf7f6461354ecf5d4f9691b",
+      "size": 1966934
+    },
+    {
+      "path": "vk-carousel/assets/05-elena-v3/02.png",
+      "sha": "0ec3975d3a13891e5cad9ce11b03b3a6cfb9e859",
+      "size": 1859841
+    },
+    {
+      "path": "vk-carousel/assets/05-elena-v3/05.png",
+      "sha": "22f799b8f181d5bc870bb275e1284709f4b9a781",
+      "size": 1778397
+    },
+    {
+      "path": "vk-carousel/assets/06-dmitry-v2/01.png",
+      "sha": "ab56cb3615e562e8bebf078e48a4e5ba08f175c6",
+      "size": 1860545
+    },
+    {
+      "path": "vk-carousel/assets/06-dmitry-v2/07.png",
+      "sha": "5ea6edfdac7142b3f150550a21cba07754596425",
+      "size": 1856586
+    },
+    {
+      "path": "vk-carousel/assets/06-dmitry-v2/03.png",
+      "sha": "41d7f9c65c5236dfaa8f231db57a296d571f5d70",
+      "size": 1857979
+    },
+    {
+      "path": "vk-carousel/assets/06-dmitry-v2/Обзор-7-карточек.pdf",
+      "sha": "0d111cffa8af041dacbac05e58ce9caccecf58c3",
+      "size": 784784
+    },
+    {
+      "path": "vk-carousel/assets/06-dmitry-v2/06.png",
+      "sha": "2504e231db827dd1a8791f3d498f0a4de40686ff",
+      "size": 1829676
+    },
+    {
+      "path": "vk-carousel/assets/06-dmitry-v2/Карусель-7-карточек.pdf",
+      "sha": "5fe2c21f79bb02e765656090a282cdd522ad52ad",
+      "size": 774807
+    },
+    {
+      "path": "vk-carousel/assets/06-dmitry-v2/04.png",
+      "sha": "d6096e875f17f1e2a399cb54a45d97f24a147cb9",
+      "size": 1815365
+    },
+    {
+      "path": "vk-carousel/assets/06-dmitry-v2/02.png",
+      "sha": "1875f2c1d880c05a3f4d07ed5ac0add445adab46",
+      "size": 1882138
+    },
+    {
+      "path": "vk-carousel/assets/06-dmitry-v2/05.png",
+      "sha": "8d2c5893e2cc000a469cd8a87559c7b2ba8963fd",
+      "size": 2061639
+    },
+    {
+      "path": "vk-carousel/assets/07-lyudmila-v2/01.png",
+      "sha": "8e9f822606eaf23ad030bcf3e1fc3766fc348ec9",
+      "size": 2052154
+    },
+    {
+      "path": "vk-carousel/assets/07-lyudmila-v2/07.png",
+      "sha": "f8af55634f7c485e4042d7a5e65304a58f292b0b",
+      "size": 1976791
+    },
+    {
+      "path": "vk-carousel/assets/07-lyudmila-v2/03.png",
+      "sha": "7a7a1a04224b11174e64e5062c80720bbdb8ddf8",
+      "size": 1946337
+    },
+    {
+      "path": "vk-carousel/assets/07-lyudmila-v2/Обзор-7-карточек.pdf",
+      "sha": "641ad98ef9799af27f46146e134d8c1312338842",
+      "size": 829279
+    },
+    {
+      "path": "vk-carousel/assets/07-lyudmila-v2/06.png",
+      "sha": "914349af0850cb0f8baa8df080914ef10e5c27eb",
+      "size": 1821171
+    },
+    {
+      "path": "vk-carousel/assets/07-lyudmila-v2/Карусель-7-карточек.pdf",
+      "sha": "de411b13d2344c0da352b6d39c4e72911f253dda",
+      "size": 819836
+    },
+    {
+      "path": "vk-carousel/assets/07-lyudmila-v2/04.png",
+      "sha": "6af71093616e0298a695ba0857904b9f7308d15e",
+      "size": 1854985
+    },
+    {
+      "path": "vk-carousel/assets/07-lyudmila-v2/02.png",
+      "sha": "55869eb5b0419c2d030fe4dd976152431751011d",
+      "size": 2136601
+    },
+    {
+      "path": "vk-carousel/assets/07-lyudmila-v2/05.png",
+      "sha": "86cd881da24416df30286eb724f7bad91ead7054",
+      "size": 1987226
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/МИМ-Стиль-и-персонажи-v2.pdf",
+      "sha": "13f363d2cd6555c193c14e52a488092e3c74a99a",
+      "size": 581209
+    }
+  ]
+}

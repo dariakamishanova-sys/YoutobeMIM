@@ -62,3 +62,5 @@ https://ru.pinterest.com/dariakamishanova/expressions-reference-pack/
 [Елена из Бухгалтерии-обзор-пака.pdf](https://drive.google.com/file/d/1iGNhH63eSRISQjVQAs2fMoFSoaT-FfbD/view?usp=drivesdk) · [Елена из Бухгалтерии-паспорт-характера-v2.pdf](https://drive.google.com/file/d/16iw4QwMnnOSI5J3cGEA5Itd7mioCbWTF/view?usp=drivesdk)
 
 [Исходники, промпты и архив](https://drive.google.com/drive/folders/1E3Li7QE4_e2zfhn_6-Nvbu0g-o4JivZe).
+
+[Текущие PNG и PDF в GitHub](https://github.com/dariakamishanova-sys/YoutobeMIM/tree/main/vk-carousel/style-packs/01-photo-notifications/characters/01-elena/assets).

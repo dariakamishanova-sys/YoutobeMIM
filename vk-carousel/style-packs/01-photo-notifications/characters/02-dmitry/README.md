@@ -62,3 +62,5 @@ https://ru.pinterest.com/dariakamishanova/expressions-reference-pack/
 [Дмитрий-обзор-пака.pdf](https://drive.google.com/file/d/1SwfiW8slS09CdHcx7oFf9V2y5hPdzf8c/view?usp=drivesdk) · [Дмитрий-паспорт-характера-v2.pdf](https://drive.google.com/file/d/1v38l3R4DAVznBQhjG3Cmkw-SWQb88neX/view?usp=drivesdk)
 
 [Исходники, промпты и архив](https://drive.google.com/drive/folders/1Ikw4AYYy8D96WdtkjnzBOpNPfqu3sAEo).
+
+[Текущие PNG и PDF в GitHub](https://github.com/dariakamishanova-sys/YoutobeMIM/tree/main/vk-carousel/style-packs/01-photo-notifications/characters/02-dmitry/assets).

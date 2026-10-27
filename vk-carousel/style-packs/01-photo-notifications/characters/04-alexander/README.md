@@ -65,3 +65,5 @@
 [Александр-паспорт-характера.pdf](https://drive.google.com/file/d/1-0vxR3BIYBEUdAGqBV71JS3wbd_r4EV-/view?usp=drivesdk) · [01-front.png](https://drive.google.com/file/d/1W6bL5wXjUz7NyqNtRlhLDu25FXoIvkDc/view?usp=drivesdk)
 
 [Исходники, промпты и архив](https://drive.google.com/drive/folders/1BOar5z-KNInWtXBHtR2r2KM_1x-onoaz).
+
+[Текущие PNG и PDF в GitHub](https://github.com/dariakamishanova-sys/YoutobeMIM/tree/main/vk-carousel/style-packs/01-photo-notifications/characters/04-alexander/assets).
