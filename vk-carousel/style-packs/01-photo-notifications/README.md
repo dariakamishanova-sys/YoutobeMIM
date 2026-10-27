@@ -9,7 +9,7 @@
 - **Елена из Бухгалтерии** · пак 2.0 · предварительно принят. [Паспорт PDF](https://drive.google.com/file/d/16iw4QwMnnOSI5J3cGEA5Itd7mioCbWTF/view?usp=drivesdk) · [Исходники и промпты](https://drive.google.com/drive/folders/1E3Li7QE4_e2zfhn_6-Nvbu0g-o4JivZe).
 - **Дмитрий, руководитель отдела** · пак 2.0 · предварительно принят. [Паспорт PDF](https://drive.google.com/file/d/1v38l3R4DAVznBQhjG3Cmkw-SWQb88neX/view?usp=drivesdk) · [Исходники и промпты](https://drive.google.com/drive/folders/1Ikw4AYYy8D96WdtkjnzBOpNPfqu3sAEo).
 - **Людмила, опытный архитектор** · пак 1.0 · принят. [Паспорт PDF](https://drive.google.com/file/d/1wAUWFtu3FfIOjhwfA8_mNU4mnNQiTK2g/view?usp=drivesdk) · [Исходники и промпты](https://drive.google.com/drive/folders/1hzNf_ivfWOjAzelEhZeWEFskPn8BtqRC).
-- **Александр, ИТ-специалист** · паспорт 1.0 · подготовлен для просмотра. [Паспорт PDF](https://drive.google.com/file/d/1-0vxR3BIYBEUdAGqBV71JS3wbd_r4EV-/view?usp=drivesdk) · [Исходники и промпты](https://drive.google.com/drive/folders/1BOar5z-KNInWtXBHtR2r2KM_1x-onoaz).
+- **Александр, ИТ-специалист** · пак 1.0 · подготовлен для просмотра. [Паспорт PDF](https://drive.google.com/file/d/1-0vxR3BIYBEUdAGqBV71JS3wbd_r4EV-/view?usp=drivesdk) · [Исходники и промпты](https://drive.google.com/drive/folders/1BOar5z-KNInWtXBHtR2r2KM_1x-onoaz).
 
 ## Карусели
 
@@ -25,4 +25,10 @@
 
 ## Копия готовых материалов в GitHub
 
-В репозитории сохранены текущие PNG и PDF: три пака по 21 PNG, базовый портрет Александра, три карусели и их обзоры/паспорта. [Состав копии и контрольные SHA](https://github.com/dariakamishanova-sys/YoutobeMIM/blob/main/vk-carousel/data/binary-mirror.json). Ссылки на ZIP-архивы для скачивания сохранены в каталоге Диска.
+В репозитории сохранены текущие PNG и PDF: четыре пака по 21 PNG, три карусели и их обзоры/паспорта. [Состав копии и контрольные SHA](https://github.com/dariakamishanova-sys/YoutobeMIM/blob/main/vk-carousel/data/binary-mirror.json). Ссылки на ZIP-архивы для скачивания сохранены в каталоге Диска.
+
+[Александр: позы и эмоции, 5 страниц](https://drive.google.com/file/d/1dd73-BzjJr3BS0huvv1NLEIlUpDdF4Hg/view).
+
+## Критический разбор и предложения
+
+[Разбор дизайна, маркетинга и сверка с LPF ЛР](https://drive.google.com/file/d/1WPga8AATlOxKgCo5Vvy-nEsTV8lAXtoz/view). Это рекомендации; они не меняют утверждённый стиль автоматически.

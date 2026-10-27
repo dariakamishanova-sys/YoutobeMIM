@@ -1,7 +1,7 @@
 {
   "date": "2026-10-27",
   "repository": "dariakamishanova-sys/YoutobeMIM",
-  "purpose": "Точные копии текущих PNG и PDF; git blob SHA проверен по исходным байтам. ZIP-архивы для скачивания доступны на Google Диске через assets-current.json.",
+  "purpose": "Актуальные PNG/PDF с проверкой git blob SHA. ZIP доступны на Диске.",
   "files": [
     {
       "path": "vk-carousel/style-packs/01-photo-notifications/characters/01-elena/assets/Елена из Бухгалтерии-обзор-пака.pdf",
@@ -350,13 +350,13 @@
     },
     {
       "path": "vk-carousel/style-packs/01-photo-notifications/characters/04-alexander/assets/Александр-паспорт-характера.pdf",
-      "sha": "16606cbbc56109bb8086bbf705bc9089bd424f10",
-      "size": 2720229
+      "sha": "61ab53be140c25efab5e24cc7e895311f773f3b3",
+      "size": 2638240
     },
     {
       "path": "vk-carousel/style-packs/01-photo-notifications/characters/04-alexander/assets/01-front.png",
-      "sha": "7f46a1ff6c8659a0a6881061c9c92253f9fd2926",
-      "size": 1997592
+      "sha": "16109d7ecfaead0be2142da724ec886903238b99",
+      "size": 1933309
     },
     {
       "path": "vk-carousel/assets/05-elena-v3/01.png",
@@ -450,13 +450,13 @@
     },
     {
       "path": "vk-carousel/assets/07-lyudmila-v2/01.png",
-      "sha": "8e9f822606eaf23ad030bcf3e1fc3766fc348ec9",
-      "size": 2052154
+      "sha": "1f3ba2b25e5097694175846e47cdcf6fa1b494fb",
+      "size": 1928751
     },
     {
       "path": "vk-carousel/assets/07-lyudmila-v2/07.png",
-      "sha": "f8af55634f7c485e4042d7a5e65304a58f292b0b",
-      "size": 1976791
+      "sha": "beb4fae01c7b21d36924682cd7c6027ce859088e",
+      "size": 1946647
     },
     {
       "path": "vk-carousel/assets/07-lyudmila-v2/03.png",
@@ -465,8 +465,8 @@
     },
     {
       "path": "vk-carousel/assets/07-lyudmila-v2/Обзор-7-карточек.pdf",
-      "sha": "641ad98ef9799af27f46146e134d8c1312338842",
-      "size": 829279
+      "sha": "fa1f1a04d40858273f20227505e68c9d42b205f0",
+      "size": 809759
     },
     {
       "path": "vk-carousel/assets/07-lyudmila-v2/06.png",
@@ -475,8 +475,8 @@
     },
     {
       "path": "vk-carousel/assets/07-lyudmila-v2/Карусель-7-карточек.pdf",
-      "sha": "de411b13d2344c0da352b6d39c4e72911f253dda",
-      "size": 819836
+      "sha": "65f69c341125d80c057858d0cbaf059d0d3c896e",
+      "size": 800319
     },
     {
       "path": "vk-carousel/assets/07-lyudmila-v2/04.png",
@@ -495,8 +495,118 @@
     },
     {
       "path": "vk-carousel/style-packs/01-photo-notifications/МИМ-Стиль-и-персонажи-v2.pdf",
-      "sha": "13f363d2cd6555c193c14e52a488092e3c74a99a",
-      "size": 581209
+      "sha": "508235d501a08f98347cfa5143dfbc8534f7a564",
+      "size": 11054073
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/04-alexander/assets/02-three-quarter-left.png",
+      "sha": "625afaaa7b921d4a0b6eb84afda5d4d3c97381bd",
+      "size": 2073491
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/04-alexander/assets/03-three-quarter-right.png",
+      "sha": "ce9540c150ab82029f1d03982947425a1235565a",
+      "size": 1820751
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/04-alexander/assets/04-profile.png",
+      "sha": "58978f343b3d2a58af55afcfd8427cddb5cac62f",
+      "size": 1954279
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/04-alexander/assets/05-full-body.png",
+      "sha": "7feccd1a7f751c7c720cb0ed6daed811d980f6ef",
+      "size": 1457033
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/04-alexander/assets/06-interest.png",
+      "sha": "cab23c568f856dbdf3733c13bd15c0ef0c33dfc1",
+      "size": 2083312
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/04-alexander/assets/07-doubt.png",
+      "sha": "81cb07c2587cc5c447ec2e30f479ce6033ebde82",
+      "size": 2019085
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/04-alexander/assets/08-overload.png",
+      "sha": "be9aa7231011010bf351b56307835d0135644177",
+      "size": 2522829
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/04-alexander/assets/09-relief.png",
+      "sha": "1311d41c150c38994a9e50ff1a7610c78a2d6383",
+      "size": 1756091
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/04-alexander/assets/10-choice.png",
+      "sha": "4b7f25dcb6b014063d5bffb788f8087490330be8",
+      "size": 1959123
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/04-alexander/assets/11-focus.png",
+      "sha": "461c29c66eb23787ee6f45b0e52c8becf60d4d6f",
+      "size": 1714102
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/04-alexander/assets/12-ui-point.png",
+      "sha": "91286116a2aa34afc605e8c70ae1cfea05fa1987",
+      "size": 1795401
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/04-alexander/assets/13-ui-explain.png",
+      "sha": "052105115fb659a9914720aa285f255a470e8621",
+      "size": 1877170
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/04-alexander/assets/14-boundary.png",
+      "sha": "3a430da3503ed591e9b2c0c3236cda1e83c1a9f6",
+      "size": 2365011
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/04-alexander/assets/15-backpack.png",
+      "sha": "1c53a7dcb360b708cba5fb100950d64f96232aa5",
+      "size": 1448556
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/04-alexander/assets/16-cycle.png",
+      "sha": "0fc42a101582be63aae05ad37773cb4ef5e3ab8b",
+      "size": 2293035
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/04-alexander/assets/17-stretch.png",
+      "sha": "d1f29c0e45c7c50018b09264062500d266e70df1",
+      "size": 1452987
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/04-alexander/assets/18-facepalm.png",
+      "sha": "c126090f61c84d36cf8ef2e58f904489349775f3",
+      "size": 1983404
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/04-alexander/assets/19-horror.png",
+      "sha": "82dde50bded1c8f904fe74f2dea28eecdb4307db",
+      "size": 1882538
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/04-alexander/assets/20-anger.png",
+      "sha": "f3f771de7a054111c5f0d5f91a2940f95001a6ad",
+      "size": 2316686
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/04-alexander/assets/21-delight.png",
+      "sha": "8cfcd71d341deb803b279eaa3848f333a89266c4",
+      "size": 2100653
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/characters/04-alexander/assets/Александр-позы-и-эмоции.pdf",
+      "sha": "4aa000f7999072e90a9ae3d492bcaafa4cfe8686",
+      "size": 2723249
+    },
+    {
+      "path": "vk-carousel/work-products/МИМ-Критический-разбор-стиля-и-каруселей.pdf",
+      "sha": "6281048b1af8d39f920cb1c9d9b178903d7a9451",
+      "size": 1961663
     }
   ]
 }
