@@ -227,6 +227,6 @@ https://drive.google.com/file/d/1Y5Waef_8sFvq_bCwzbiSwC6f9YinQuMi/view
 
 - F «Чистые окна», персонаж 01: https://drive.google.com/file/d/1eK1NK9a-18oZugpoYOF8uetMMCIHE9_n/view
 - G «Маршрут переключений», персонаж 03: https://drive.google.com/file/d/1gDaRAt98GsLTyefNAZZrKCrZVFsVFHVx/view
-- H «Два плана», персонаж 07: https://drive.google.com/file/d/1ra/view — ссылка уточняется после загрузки, не использовать.
+- H «Два плана», персонаж 07: https://drive.google.com/file/d/1ItyNmWs0UWTzbr6EsTnRcl7AuaNnX9xV/view
 
 Три сравнительных листа изготовлены, приёмка не получена. В F/G заметно повторение позы с опорой на руку; это ограничение пробы, разнообразие жестов ещё не подтверждено. В G текст внутри документа ошибочно перенесён из прежней темы; для публикации заменить. Это сравнительные макеты, не готовые выпуски. Варианты различаются также персонажами, поэтому сравнение не изолирует влияние оформления.
