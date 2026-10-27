@@ -1,61 +1,76 @@
-# Дмитрий: промпты для повторного использования
+# Дмитрий, руководитель отдела: промпты версии 1.1
 
 ## Постоянная часть
 
-Create ONE standalone photorealistic reusable cutout of Дмитрий, руководитель проектов, same fictional man as attached master. Preserve EXACT identity: mature ordinary middle-aged man, elongated slightly angular face, natural forehead and eye wrinkles, short naturally textured salt-and-pepper hair brushed loosely to the side, stable hair volume and hairline, gray-green eyes, clean-shaven with faint natural stubble (NOT a beard), no glasses, average normal build. Gray smooth casual collared shirt with open top button, no tie or jacket, no jewelry. No glamour, beautification or age reduction, no automatic friendly smile. Emotion must affect eyes, brows, LIPS, mouth corners, cheek and jaw tension. Clear natural photographic detail and skin/hair texture. Soft even studio light, low saturation natural color. Entire hands/hair/props visible, generous safe margins. True transparent alpha background, no halo, text, captions, logos, office scenery, panels or other people.
+Сохранять лицо, возраст, короткие текстурированные волосы с сединой и их линию роста, серую рубашку и обычное телосложение. Характер: серьёзный, задумчивый, немного меланхоличный. Улыбка и усмешка отсутствуют по умолчанию; губы сомкнуты, уголки нейтральны или слегка опущены, щёки не приподняты. Без злости, театральной печали, дополнительного старения. Качественная фотографическая кожа без искусственных пятен, мозаики и повторяющегося узора пор; возрастные морщины сохраняются.
 
-## Переменная часть
+## Метод правки
 
-Смысл карточки → наблюдаемое действие → выражение глаз и бровей → губы и уголки рта → руки и реквизит → направление взгляда → ракурс → крупность → свободное место для окна. Прикладывать основной портрет и ближайший референс.
+Прикладывать конкретную сцену первой, новый серьёзный портрет вторым. Сохранять позу, руки, реквизит, ракурс и внешность первой; со второго брать эмоциональный тон, а не фронтальную позу.
 
-## Проверенные задания набора
+## Состояния
 
 ### 02-three-quarter-left
-Chest-up neutral serious THREE QUARTER view toward LEFT image edge, approximately 40 degrees. Lips closed neutral, no smile. Both shoulders visible.
+Quietly contemplative, serious, subtly melancholic; gently pressed lips, both corners neutral-to-downturned, no cheek lift.
 
 ### 03-three-quarter-right
-Chest-up neutral serious THREE QUARTER view toward RIGHT image edge approximately 40 degrees, opposite previous angle. Lips closed neutral, no smile. Both shoulders visible.
+Analytically thoughtful, reserved, burdened by unresolved issues; closed straight-to-downturned lips, no smile.
 
 ### 04-profile
-Exact clean SIDE PROFILE toward LEFT image edge, head and chest. Nose lips chin silhouette clear. Neutral closed mouth, not a smile. Preserve hairline and texture.
+Reflective and slightly weary; natural closed mouth with lowered corners and subtle brow tension. No pleasant smile.
 
 ### 05-full-body
-FULL BODY standing from hair to soles with safe margins, natural average body, both hands at sides. Same gray shirt tucked into dark straight trousers, simple dark flat casual shoes. No fashion pose. Neutral face with closed mouth. These are normal project manager work clothes, no suit.
+Composed head of department carrying responsibilities: serious, thoughtful, subtly melancholy. Closed neutral/downturned mouth, no relaxed corporate smile.
 
 ### 06-interest
-Waist-up genuine INTEREST, leaning a little forward, eyebrows lifted, alert eyes toward upper right, lips slightly parted with engaged curiosity but no broad grin. Hands loosely joined low, not on chin.
+Quiet analytical interest, not delighted curiosity: eyes attentive, brow a little knitted, mouth neutral and closed or slightly parted without lifted corners. No warmth or smile.
 
 ### 07-doubt
-Waist-up SKEPTICAL DOUBT. One open palm questions something to left, one brow raised, other brow slightly knit. Lips visibly pressed and slightly pursed sideways, corners neutral or slightly lowered, cheeks NOT raised. NO smile or smirk. Subtle natural skepticism, not rage.
+Clearly skeptical and concerned, lips pressed and slightly pursed, both corners slightly lowered, cheek muscles relaxed rather than smiling. No one-sided smirk.
 
 ### 08-overload
-Waist-up OVERLOAD. Both palms raised outward, shoulders tense, brows knitted, eyes mildly weary to side. Lower face crucial: mouth slightly open on a tired exhale, corners lowered, lips tense. NO smile or smirk. Ordinary frustration, no screaming or caricature.
+Weary and weighed down by too many problems, brow tension, lips tense, mouth slightly parted on tired exhale with downturned corners. No smile, no dramatic panic.
 
 ### 09-relief
-Waist-up RELIEF. Shoulders drop, soft exhale with gently closed eyes, one hand naturally on chest, other relaxed. A small sincere relieved smile appropriate ONLY here, no exuberant victory. Natural mature wrinkles.
+A momentary release of tension while still burdened: eyes gently closed, mouth NEUTRAL with no upward corners, tired exhale. Remove the former pleased smile completely. Relief is shown by eyelids and shoulders only.
 
 ### 10-choice
-Waist-up SERIOUS DELIBERATION, both open palms on either side different heights, gaze assessing one palm. Mouth closed neutral horizontal lips, corners NOT raised, slight brow tension. No smile or smirk. Hands fully visible.
+Deep serious deliberation, weighing difficult options, knitted brow, lips pressed neutral-to-downturned, no smile or smirk.
 
 ### 11-focus
-Waist-up SERIOUS CONCENTRATION writing with pen in simple notebook, gaze down, torso three-quarter. Neutral closed mouth with no smile, subtle brow tension, natural focused expression. Both hands anatomically correct, pen held realistically, notebook blank no text. No scenery or full table.
+Absorbed serious concentration, subtle inward brow tension, pressed closed lips with neutral/downturned corners, no smile.
 
 ### 12-ui-look
-Waist-up figure left with generous transparent free area RIGHT, torso three-quarter, head and eyes toward right future UI area, hands joined low. Attentive neutral mouth no smile. No actual window; isolated figure suitable for separate UI composition.
+Sober analytic attention toward future window, quietly contemplative, a little weary, lips closed without raised corners.
 
 ### 13-ui-point
-Waist-up figure right with generous transparent free area LEFT, one index finger points LEFT, eyes same target. Serious explanatory face with neutral closed lips. Whole finger elbow wrist included. No actual UI.
+Reserved serious explanation, slight concern and thoughtfulness, straight/downturned mouth, no friendly presenter smile.
 
 ### 14-ui-overlap
-Waist-up torso turned three-quarter, clear shoulder contour for partial UI overlap. One open hand gestures right, other relaxed, gaze follows gesture, neutral serious explaining mouth, no smile. No actual window, isolated person.
+Explaining a difficult situation with restrained concern, attentive eyes, serious closed mouth, no smile or smirk.
 
 ### 15-test-plan
-NEW TRANSFER TEST scene, waist-up comparing two blank planning sheets, one sheet lower, one higher, serious evaluating eyes, neutral closed lips. Two sheets will get dates later; absolutely NO text. Hands and papers entirely visible. Same face and hair.
+Weighing difficult planning constraints, serious and inwardly thoughtful, lips closed slightly pressed and downturned, no contented smile.
 
 ### 16-test-review
-NEW TRANSFER TEST scene, waist-up reviewing a gray laptop result while holding a short blank checklist in one hand, other hand touches keyboard. Critical skeptical serious mouth, slightly pressed lips and knitted brows, not a smile. Screen angled coherently, no readable text. No background.
+Critical serious evaluation of unresolved result, quietly concerned and slightly weary, mouth neutral/downturned, no smile.
 
 ### 17-test-rescope
-NEW TRANSFER TEST scene, waist-up. Dmitry slides one blank task card aside on a small plain planning board and places another into available space, communicating reconsidering commitments. Firm calm serious mouth, no grin, hands doing distinct clear action. No letters, dates, text or logos on cards. Simple board included as prop, no office backdrop.
+Composed but burdened reconsideration of department commitments, subtle melancholy and concentration, lips closed and corners lowered, no smile.
 
-Промпты сохранены дословно в языке генерации, чтобы их можно было повторить. Основной смысл и правила на русском — в паспорте. Точный seed и скрытые параметры модели не объявляются: инструмент их не сообщает. Для другой модели сначала проверить один ракурс и одно серьёзное выражение.
+## Комичные реакции
+
+### 18-facepalm — Руколицо
+Comic facepalm: one palm rests on forehead covering only upper forehead, fingers together naturally, eyes partly closed in exasperation, mouth downturned or on a tired sigh. Keep enough face visible to recognize person. Other arm relaxed. No doubled fingers or fused hand.
+
+### 19-horror — Комический ужас
+Comic horror / astonishment at a disastrous everyday situation: eyes widened, brows lifted, mouth rounded open, shoulders raised, two open palms held near chest or cheeks without covering face. Strong readable performance, no gore or physical danger.
+
+### 20-anger — Комический гнев
+Comic anger / frustrated indignation: brows pulled down together, lips firmly pressed or mouth slightly open as if protesting, tense jaw and shoulders, hands firmly on hips or loosely clenched low at sides. Exaggerated readable displeasure but same real person, not a cartoon villain, no threatening lunge or violence.
+
+### 21-delight — Восторг
+Comic delight: genuine bright open smile with mouth slightly open, eyes lively, both arms raised with open palms in delighted reaction, natural anatomical hands. This is a distinct enthusiastic reaction, not the default character expression. Keep mature facial identity and normal age, no beautification.
+
+Восторг с улыбкой допустим как отдельная реакция на событие, а не базовый характер. Задавать глаза, брови, губы, уголки рта, щёки и челюсть. В карусели менять крупность по сюжету. Интерфейс никогда не помещать на внешнюю крышку ноутбука, текст заголовка и интерфейса не дублировать.
+
