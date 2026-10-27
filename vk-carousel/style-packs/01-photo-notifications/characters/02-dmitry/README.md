@@ -55,3 +55,10 @@
 
 https://ru.pinterest.com/dariakamishanova/expressions-reference-pack/
 Доска предоставлена редактором; прямой просмотр недоступен (Pinterest вернул 403). Позы разработаны по описанию характеров, без заявления о просмотре содержимого доски.
+## Актуальные материалы и статус
+
+Пак v2.0 предварительно принят редактором.
+
+[Дмитрий-обзор-пака.pdf](https://drive.google.com/file/d/1SwfiW8slS09CdHcx7oFf9V2y5hPdzf8c/view?usp=drivesdk) · [Дмитрий-паспорт-характера-v2.pdf](https://drive.google.com/file/d/1v38l3R4DAVznBQhjG3Cmkw-SWQb88neX/view?usp=drivesdk)
+
+[Исходники, промпты и архив](https://drive.google.com/drive/folders/1Ikw4AYYy8D96WdtkjnzBOpNPfqu3sAEo).
