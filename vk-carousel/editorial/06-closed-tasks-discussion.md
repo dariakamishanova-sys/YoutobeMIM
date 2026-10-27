@@ -94,3 +94,6 @@ IWE помогает хранить вопросы, варианты и реше
 ## Статус
 
 Версия 2 принята редактором 27.10.2026; публикация не выполнялась. Сообщения, окна и персонаж вымышлены редакцией. Условные окна не выдаются за реальный интерфейс IWE.
+## Актуальные версии
+
+[Карусель PDF](https://drive.google.com/file/d/17USyC5l8aXDYmewkzPfgYbOgoZD2l7DJ/view) · [Обзор](https://drive.google.com/file/d/1naPXZrPHNjExc7uL1ZDxOenbCs2A7Dtx/view) · [Все файлы](https://drive.google.com/drive/folders/1jnJvB_xcfzn49pMcduIqaFvGaG3_YUlq).
