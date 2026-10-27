@@ -1,49 +1,93 @@
-# Елена из Бухгалтерии: промпты и выбор референсов
+# Промпты версии 2.0
 
-## Постоянная часть
+Использовать только базовый портрет 01-front.png версии 2. Старые PNG с сеткой исключены из визуальных референсов. Перед генерацией прочитать README.md и паспорт характера.
 
-«Создай фотореалистичное изображение той же вымышленной женщины, что на приложенном основном портрете Елены из Бухгалтерии. Сохрани форму лица, носа, глаз и губ, естественную асимметрию, средний возраст, короткий тёмный волнистый боб с пушистым воздушным объёмом, рыхлыми волнами и неровным контуром, обычное полное телосложение и небольшие серьги-кольца. Светлая гладкая блуза с воротником. Естественная кожа и волосы, без омоложения, глянцевой ретуши и модельной идеализации. Изображение приоритетно перед приблизительным словесным описанием. Прозрачный фон, отдельная фигура, мягкий ровный свет, достаточные поля, без текста, логотипов и интерфейса».
+## Общие требования
 
-## Переменная часть
+Same identity and maturity as the clean reference. Strong smooth photographic portrait retouch: even skin surfaces, no artificial mesh, no etched fine texture, no oversharpening. Preserve facial volume, main expression folds and hairstyle. Correct hands. Transparent background. No text, layout or UI. Complete gesture, safe margins.
 
-«Смысл карточки: [что происходит]. Елена [наблюдаемое действие]. Выражение: [состояние и признаки]. Рот: [губы, уголки, напряжение щёк]; улыбка [есть по смыслу / отсутствует]. Взгляд: [куда]. Руки: [положение и реквизит]. Ракурс: [анфас / три четверти / профиль]. Крупность: [грудной / поясной / полный рост]. Свободная область: [для будущего окна]. Не повторяй позу с подбородком на руке, если она не нужна сцене».
+## Постановка сцен
 
-## Как выбирать входные изображения
+### 01-front · Анфас: тёплый контакт
 
-Основной портрет прикладывать всегда; дополнительно — один ближайший ракурс или сцену. Для смены одежды сначала использовать основной портрет и отдельно заданный гардероб. Не подменять портрет коллажем восьми героев. Не прикладывать одновременно много противоречивых проб.
+head and shoulders frontal, warm lively small smile
 
-## Готовые формулировки действий
+### 02-three-quarter-left · Три четверти: уже включилась в разговор
 
-| Сцена | Добавление к постоянной части |
-|---|---|
-| Интерес | Слегка наклоняется вперёд, глаза внимательные, брови немного подняты, руки расслаблены; смотрит в сторону нового материала |
-| Сомнение | Одна бровь немного выше, губы сжаты и слегка поджаты в сторону, уголки нейтральны или опущены, щёки не подняты; одна ладонь открыта; без улыбки, усмешки и гримасы |
-| Перегрузка | Обе ладони слегка подняты, плечи напряжены, брови сведены, уголки губ опущены, рот слегка приоткрыт на усталом выдохе; без улыбки, усмешки и паники |
-| Облегчение | Опускает плечи, мягко выдыхает, небольшая естественная улыбка; руки свободно опущены |
-| Выбор | Держит две ладони на разных уровнях, сравнивает варианты серьёзным оценивающим взглядом; губы нейтрально сомкнуты, уголки не приподняты; без улыбки; пустые области оставить для вёрстки |
-| Сосредоточенность | Пишет ручкой в блокноте, смотрит вниз; серьёзное спокойное выражение, губы мягко сомкнуты, уголки не подняты, щёки расслаблены; без улыбки; руки и ручка анатомически корректны |
-| Смотрит на окно | Поясной план, три четверти, взгляд в свободное место справа, руки спокойно собраны ниже груди |
-| Указывает | Поясной план, указательный палец направлен в свободное место слева, взгляд туда же; кисть и локоть целиком в кадре |
-| Окно за плечом | Поясной план, корпус в три четверти, выразительный контур плеча, открытая ладонь сбоку; окно добавляется отдельно позади фигуры |
+waist up three-quarter left, one hand loosely gesturing mid-story, friendly attentive face
 
-## Три новые сцены для испытания
+### 03-three-quarter-right · Три четверти: делится новостью
 
-1. «Отодвигает смартфон на край стола, другой рукой открывает ноутбук, возвращает взгляд к незавершённому тексту. Спокойная решимость, без победной позы».
-2. «Сравнивает два листа с датами, прищуривается, переводит взгляд с одного на другой. На листах не генерировать текст: даты добавим при вёрстке».
-3. «Полуобернулась на неожиданное уведомление за плечом, рука с ручкой остановилась над блокнотом. Удивление умеренное, лицо и волосы узнаваемы».
+waist up three-quarter right, leaning slightly toward a colleague off camera, bright conversational gaze, small smile
 
-Эти испытания проверяют переносимость; основной набор ракурсов и эмоций не заменяет испытание. Seed, название модели и параметры записывайте только если инструмент действительно их сообщает. Одинаковый seed сам по себе не гарантирует идентичность.
+### 04-profile · Профиль: слушает коллегу
 
-## Правило версии 1.1
+head and shoulders left profile, lips softly closed, alert listening expression
 
-Улыбка исходного портрета не является неизменяемой частью идентичности. Сохранять анатомию лица и черты, но менять работу мышц рта по состоянию. При сомнении, перегрузке, выборе и сосредоточенности явно задавать отсутствие улыбки и усмешки. Проверять лицо целиком, включая губы, уголки рта, щёки и челюсть.
+### 05-full-body · В полный рост: встречает коллегу
 
-## Причёска: уточнение версии 1.2
+full body standing weight on one hip, one hand waving a casual hello, amused friendly face, charcoal tailored trousers and black loafers, ivory blouse
 
-Сохранять не только длину и цвет, но и пушистость, объём по бокам и на макушке, рыхлые волны и отдельные выбивающиеся пряди. Не приглаживать боб при серьёзном выражении. Для исправления «Сомнения» использовать основной портрет и ракурс три четверти как референсы волос, не переносить их улыбку.
+### 06-interest · Интерес: подалась вперёд
 
-## Комичные реакции расширенного пака
+waist up leaning forward, elbows close to body, hands loosely interlaced under chin, sparkling interested gaze, mouth slightly parted
 
-18-facepalm: ладонь на лбу, видимая нижняя часть лица, усталый выдох. 19-horror: широко раскрытые глаза и округлый открытый рот, открытые ладони. 20-anger: сведённые брови, напряжённые губы и челюсть; без угрозы. 21-delight: яркая улыбка, живые глаза и поднятые открытые ладони.
+### 07-doubt · Сомнение: «Подождите-ка»
 
-Качество лица: ровные естественные тональные переходы, без грязных пятен, мозаики и повторяющихся узоров пор; сохранять возраст и морщины. Пушистая причёска неизменна. Крупности в карусели планируются по сюжету. Окна — только на видимом экране или отдельно, не на крышке ноутбука. Тексты заголовка и интерфейса не дублировать.
+waist up head cocked, one eyebrow raised, lips pressed asymmetrically, one hand raised palm inward at chest level as if pausing a story, NOT smiling
+
+### 08-overload · Перегрузка: «У меня всё одновременно»
+
+waist up eyes briefly closed, shoulders raised, both hands at temples, exasperated pursed lips, NOT smiling
+
+### 09-relief · Облегчение: выдох и смешок
+
+waist up relaxed shoulders, hand fanning her cheek, eyes half closed with a small relieved chuckle
+
+### 10-choice · Выбор: считает варианты на пальцах
+
+waist up serious thoughtful face looking down, counting options on the fingers of one hand with the other index finger, lips closed, no smile
+
+### 11-focus · Сосредоточенность: проверяет цифры
+
+seated medium portrait leaning toward a paper ledger held in hands, lips pressed in concentration, brow mildly furrowed, no smile, no printed text
+
+### 12-ui-look · Интерфейс: приглашает посмотреть
+
+waist up on RIGHT side leaving empty LEFT side, sweeping open palm inviting someone to look toward upper left, eager conversational look, no actual interface
+
+### 13-ui-point · Интерфейс: «Вот здесь!»
+
+waist up on LEFT side leaving empty RIGHT side, pointing with a bent arm toward right at chest height, lively knowing expression, no actual interface
+
+### 14-ui-overlap · Интерфейс: делится находкой
+
+waist up leaning out slightly from right edge, palm cupped beside mouth as if sharing a friendly aside, amused face, no actual interface
+
+### 15-test · Работа: отвлеклась на голос
+
+seated medium shot turning torso suddenly to side to greet someone, pen paused above notebook, sociable amused face, no desk or notebook text
+
+### 16-test · Работа: нашла расхождение
+
+waist up holding two sheets at different heights, eyebrows raised, lips pursed in an expressive aha of discrepancy, not smiling, blank papers
+
+### 17-test · Работа: рассказывает случай
+
+waist up both hands describing the size of something, animated open-mouth conversational laugh, shoulders asymmetrical
+
+### 18-facepalm · Руколицо: смеётся над своей ошибкой
+
+waist up forehead resting in open palm, head tilted down and sideways, eyes closed, embarrassed rueful grin, other arm crossed under elbow
+
+### 19-horror · Ужас: «Только не это!»
+
+waist up both palms pressed to cheeks, eyes wide, mouth rounded in theatrical comic horror, elbows angled inward
+
+### 20-anger · Гнев: возмущённо объясняет
+
+waist up one hand on hip, other hand palm up with fingers gathered in emphatic argument, leaning forward, brows drawn down and pursed lips, no smile
+
+### 21-delight · Восторг: заразительный смех
+
+waist up head slightly thrown back in hearty open-mouth laugh, eyes joyfully narrowed, hands clasped together at chest, lively relaxed shoulders
