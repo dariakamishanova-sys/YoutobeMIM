@@ -1,119 +1,94 @@
-# Карусель 06: Все задачи закрыты. Обязательно ли искать новые?
+# Все задачи закрыты. Обязательно ли искать новые?
 
-Дата: 20.10.2026. Приёмка: ожидает проверки редактором в следующем рабочем слоте. Публикация не выполнена.
+Версия 2 · Дмитрий, руководитель отдела · 7 карточек · 27.10.2026
 
-Папка изображений: https://drive.google.com/drive/folders/1jnJvB_xcfzn49pMcduIqaFvGaG3_YUlq
+Исходный сценарий от 20.10.2026 сохранён по смыслу и тексту. Меняется герой и оформление: принятый пак Дмитрия v2 и стиль «Фото и уведомления».
 
-Мотив читателя: Понять собственное отношение к паузе и будущим занятиям, сопоставить его с другими.
-Тип истории: Редакционная позиция / дискуссия
-Основная задача: Начать содержательный разговор о развитии и выборе; наблюдать аргументированные комментарии и дальнейшее участие, не приравнивая их к удержанию.
+Мотив: сопоставить своё отношение к паузе с опытом других. Тип: редакционная позиция и дискуссия. Продолжения равноценны: отдых, поддержание достигнутого, исследование нового.
 
-## Тексты карточек
+## Карточки
 
-### 1/7 · 01_Обложка.png
+### 1/7
 
-ВСЕ ЗАДАЧИ
-ЗАКРЫТЫ.
+Все задачи закрыты.
+Обязательно ли искать новые?
 
-Обязательно ли
-искать новые?
+Постановка: Medium seated at desk, notebook closed, calm serious relieved face, eyes lowered to the blank row. Laptop if any has plain outer lid. No grin.
 
-Визуальный замысел: One large white checklist standing upright with three bold cobalt checkmarks, no words in checklist. At its bottom an inviting completely empty mint rectangular space. Woman sits beside it in a comfortable chair, noticing the empty space. Monumental type upper half, clear single headline.
+Интерфейс: Three completed checkmarks and one blank row, no words
 
-### 2/7 · 02_Пустая-строка-тоже-может-пугать.png
+### 2/7
 
-Пустая строка
-тоже может
-пугать.
+Пустая строка тоже может пугать.
+Список закончился — рука уже тянется добавить ещё пункт.
 
-Список закончился —
-рука уже тянется
-добавить ещё пункт.
+Постановка: Close-up face and hand: serious mildly puzzled Dmitry holding pen motionless above blank notebook, one raised eyebrow, subdued hesitant reaction.
 
-Визуальный замысел: Same woman reaches with a blue pencil toward an empty square on a large checklist. Her expression is gently puzzled; no panic. Empty square is the visual focus, not a huge task stack.
+Интерфейс: Small task input with only faint gray abstract placeholder bars, no words
 
-### 3/7 · 03_Есть-несколько-продолжений.png
+### 3/7
 
-Есть несколько
-продолжений.
-
+Есть несколько продолжений.
 Отдохнуть.
 Поддерживать достигнутое.
 Исследовать новое.
 
-Визуальный замысел: Three equally inviting small paper islands below the typography: comfortable armchair; a healthy plant being watered; a small open doorway to a landscape. All equal size, none green-good vs red-bad, no hierarchy.
+Постановка: Wide full body standing, hands loosely behind back, looks thoughtfully at three equal alternatives at side, gray shirt charcoal trousers black leather shoes.
 
-### 4/7 · 04_Интерес-или-привычка-заполнять-паузу.png
+Интерфейс: Three equal rounded illustrated tiles: armchair, plant with watering can, open doorway. No labels on tiles, no ranking, all same accent color.
 
-Интерес
-или привычка
-заполнять паузу?
+### 4/7
 
-Следующая задача может
-быть своей. А может —
-просто занять свободное место.
+Интерес или привычка заполнять паузу?
+Следующая задача может быть своей. А может — просто занять свободное место.
 
-Визуальный замысел: Woman holds two blank cards at equal distance. One card has an abstract glowing tiny landscape, the other a neatly repeated checkmark pattern. A visual question, no correct answer badge.
+Постановка: Medium seated, seriously weighs two blank paper cards held near waist, closed mouth, steady body. Thoughtful strict phlegmatic head, no theatrical palms-up shrug.
 
-### 5/7 · 05_Новое-дело-не-обязано-появиться-сразу.png
+Интерфейс: Two floating cards of equal importance: one tiny abstract landscape icon and one checkmark pattern, no words
 
-Новое дело
-не обязано
-появиться сразу.
+### 5/7
 
-Можно сначала понять,
-что хочется сохранить,
-а что — изменить.
+Новое дело не обязано появиться сразу.
+Можно сначала понять, что хочется сохранить, а что — изменить.
 
-Визуальный замысел: A spacious open shelf with one meaningful green plant and room for another object. Same woman calmly examining it with a notebook. No forced productivity symbolism.
+Постановка: Extreme close-up thoughtful calm face, eyes directed into distance, fingertips near chin, closed neutral mouth, smooth retouched mature skin. No smile.
 
-### 6/7 · 06_А-что-было-у-вас.png
+Интерфейс: Floating notebook with only abstract gray lines and two blank colored tabs
 
-А что было
-у вас?
+### 6/7
 
-Когда дела заканчивались,
-хотелось отдохнуть,
-продолжить или сменить курс?
-
+А что было у вас?
+Когда дела заканчивались, хотелось отдохнуть, продолжить или сменить курс?
 Расскажите в комментариях.
 
-Визуальный замысел: A huge open conversational speech bubble as a blank shape behind the exact question text. Small woman and the same three tiny symbols from card 3 at the bottom, equal weight.
+Постановка: Wide shot full seated figure with chair and feet, torso turned slightly toward reader, calm attentive listening look, hands resting loosely on knees, welcoming by gaze rather than grin. No laptop.
 
-### 7/7 · 07_Своим-вопросам-тоже-нужно-место.png
+Интерфейс: At bottom three small equal icons of armchair, plant, doorway, no repeated labels
 
-Своим вопросам
-тоже нужно место.
+### 7/7
 
-IWE помогает хранить
-вопросы, варианты и решения.
+Своим вопросам тоже нужно место.
+IWE помогает хранить вопросы, варианты и решения.
+Инструкции по первому запуску — в закреплённых @mim_self.
 
-Инструкции по первому запуску —
-в закреплённых @mim_self.
-https://t.me/mim_self
+Постановка: Medium close portrait of Dmitry holding closed notebook, very small warm closed-mouth smile, reserved composed expression, no raised fists. Quiet thoughtful ending.
 
-Визуальный замысел: An open blue notebook, three blank mint tabs and a small warm lamp. Calm closing, editorial typography remains dominant. No QR code or fabricated app interface.
+Интерфейс: Separate generic notebook window with blank tabs and gray lines only, not a real product screenshot
 
-## Общее оформление
+## Персонаж и качество
 
-На каждом изображении: номер i/7 и подпись «Мастерская инженеров менеджеров», https://system-school.ru/ . На седьмой карточке — тематический переход к инструкциям IWE в закреплённых @mim_self. Число в имени файла соответствует карточке. Генерация — по прямому поручению редактора; публичная публикация ожидает приёмки.
+Дмитрий сдержанный, строгий, флегматичный, немного меланхоличный. Экономные жесты, спокойное выражение, небольшая улыбка только в финале. Крупность меняется по сюжету. Гладкая фотографическая ретушь, без сетки и искусственной фактуры на коже. Проверяются исходные PNG и обзорный PDF. Интерфейс не помещается на крышку ноутбука. Текст интерфейса не повторяет заголовок или описание.
 
 ## Подпись к публикации
 
-Все задачи закрыты — и появляется свободное место. Его можно заполнить новым делом, отдохнуть или поддерживать то, что уже получилось. Здесь нет единственного продолжения.
+Все задачи закрыты, и появляется свободное место. Его можно заполнить новым делом, отдохнуть или поддерживать то, что уже получилось. Здесь нет единственного продолжения.
 
 А что обычно хочется вам, когда заканчивается большой список? Расскажите в комментариях.
 
-Если хочется сохранять свои вопросы, варианты и решения в одном месте, инструкции по первому запуску IWE есть в закреплённых https://t.me/mim_self .
+Инструкции по первому запуску IWE есть в закреплённых https://t.me/mim_self .
 
 Редакционное рассуждение МИМ. Исходный повод: https://t.me/systemsthinkinglife/732 ; автору поста не приписываются наши формулировки.
 
-## Источники и проверка
+## Статус
 
-Ключевой образ — освободившееся пространство и несколько равноценных продолжений, а не новая гора обязательств. Свободная композиция, паузы, короткие реплики. Не изображать отдых провалом. Не оформлять редакционную позицию как цитату из исходного поста.
-
-Редакционный текст, вымышленные иллюстрации. В №7 примеры явно помечены как условные, настоящие отзывы не выдуманы. В №8 первое лицо — речь персонажа. Нет обещаний дохода, возраста достижения результата или автоматического изменения человека. Проверены доступные LPF ЛР, LPF-CORE часть 2 и текущие редакционные правила; полного отсутствующего свода LPF не заявляем.
-
-## Приёмка в следующем рабочем слоте
-
-Проверить: смысл и естественность формулировок; читаемость и визуальную последовательность; написание ссылок; нумерацию; подписи. Решение по серии: принять или перечислить правки по номерам. Готовность файлов не означает редакторскую приёмку или публикацию.
+Материалы подготовлены для просмотра редактором; публикация не выполнялась. Сообщения, окна и персонаж вымышлены редакцией. Условные окна не выдаются за реальный интерфейс IWE.
