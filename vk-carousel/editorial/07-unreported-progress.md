@@ -1,126 +1,84 @@
-# Карусель 07: Прогресс, который не попал в отчёт
+# Прогресс, который не попал в отчёт
 
-Дата: 20.10.2026. Приёмка: ожидает проверки редактором в следующем рабочем слоте. Публикация не выполнена.
+Версия 2 · Людмила, опытный архитектор · 7 карточек · 27.10.2026
 
-Папка изображений: https://drive.google.com/drive/folders/14luFLx1v9Yot291wVLamVLTNZGvarCnM
+[Карусель PDF](https://drive.google.com/file/d/1cs4H-S_E2j09Lg_HShcdJXu0wUx1ZUwN/view) · [Обзор PDF](https://drive.google.com/file/d/1Pdb_9UyDuaBnm44E781EVUcZ-Nhl1KDz/view) · [Актуальные файлы](https://drive.google.com/drive/folders/14luFLx1v9Yot291wVLamVLTNZGvarCnM)
 
-Мотив читателя: Заметить знакомый опыт, почувствовать поддержку и добавить собственную историю.
-Тип истории: Подборка с участием читателей
-Основная задача: Получить конкретные примеры читателей и материал для продолжения рубрики; считать содержательные ответы, а не просто число комментариев.
+Вымышленная Людмила иллюстрирует условные рабочие ситуации. Это не самоотчёт реального человека и не свидетельство об измеренном эффекте. На карточках 2–4 сохранена заметная пометка «УСЛОВНЫЙ ПРИМЕР».
 
-## Тексты карточек
+Мотив читателя: заметить знакомый опыт и добавить собственную историю. Тип: подборка с участием читателей. Основной призыв: рассказать один конкретный случай. Один эпизод не объявляется устойчивым навыком.
 
-### 1/7 · 01_Обложка.png
+## Карточки
 
-ПРОГРЕСС,
-КОТОРЫЙ
-НЕ ПОПАЛ
-В ОТЧЁТ
+### 1/7
 
-Иногда меняется
-сам способ действовать.
+Прогресс, который не попал в отчёт
+Иногда меняется сам способ действовать.
 
-Визуальный замысел: A large stack of white report pages. Beside it three small green paper steps and a tiny person noticing them. Headline is very large and dominant.
+Постановка: Medium portrait Lyudmila holding an open architect sketchbook, pencil paused, reflective quietly curious face, looking down at a tiny green folded paper step beside a stack of report pages. Simple generic floating document window with gray lines only, no words. Main headline dominates.
 
-### 2/7 · 02_Уточнить-до-начала.png
+### 2/7
 
-Пометка: УСЛОВНЫЙ ПРИМЕР
+УСЛОВНЫЙ ПРИМЕР
+Уточнить до начала.
+Задание было непонятным. Вместо догадок — вопрос о результате.
 
-Уточнить
-до начала.
+Постановка: Close portrait Lyudmila behind her rectangular glasses, thoughtful serious questioning face, pencil held near the corner of a blank architectural drawing. A separate small chat bubble has ONLY the distinct question «Что должно получиться?» and a small blue message icon. No second person required. No smile, measured intelligent clarification.
 
-Задание было непонятным.
-Вместо догадок —
-вопрос о результате.
+### 3/7
 
-Визуальный замысел: Anonymous dark-haired adult woman at desk points to an empty detail in a drawing; another anonymous adult responds with a speech bubble containing only a simple checkmark. No extra speech text. A small green step under the desk.
+УСЛОВНЫЙ ПРИМЕР
+Вернуться после отвлечения.
+Прервались. Нашли сохранённую заметку и продолжили с нужного места.
 
-### 3/7 · 03_Вернуться-после-отвлечения.png
+Постановка: Wide seated full figure at drafting table, chair and feet visible. Lyudmila finds a bright green bookmark in an open notebook and resumes one line with pencil, quietly focused. Charcoal fine-knit sweater, slate trousers, black closed shoes. Floating saved-note window has ONLY «Продолжить с разреза». Window separate from physical props, no laptop.
 
-Пометка: УСЛОВНЫЙ ПРИМЕР
+### 4/7
 
-Вернуться
-после отвлечения.
+УСЛОВНЫЙ ПРИМЕР
+Показать до финала.
+Черновик ещё сырой. Но ранняя обратная связь помогла заметить пропуск.
 
-Прервались.
-Нашли сохранённую заметку
-и продолжили с нужного места.
+Постановка: Medium three-quarter Lyudmila presenting a simple architectural paper draft to the reader, one precise explanatory pencil gesture toward a clearly missing doorway. Calm attentive listening face, not broad smile. Floating feedback bubble has ONLY «Не хватает входа». Small green paper step motif. This is a fictional illustrative example, no invented testimonial.
 
-Визуальный замысел: Anonymous curly-haired adult man returns to an open notebook marked with a bright green bookmark. A blue line resumes from the bookmark, symbolizing continuation. No before-after productivity claims.
+### 5/7
 
-### 4/7 · 04_Показать-до-финала.png
+Один случай — ещё не привычка.
+Это наблюдение. Повторится ли новый способ — покажет дальнейшая практика.
 
-Пометка: УСЛОВНЫЙ ПРИМЕР
+Постановка: Very close face of Lyudmila looking slightly to side, thoughtful measured expression, neutral closed lips behind glasses, mature facial volume. ONE solid green folded step and a few faint future step outlines at bottom left, no numbers or text, no automatic achievement badge. Smooth skin crucial at this scale.
 
-Показать
-до финала.
+### 6/7
 
-Черновик ещё сырой.
-Но ранняя обратная связь
-помогла заметить пропуск.
+А что недавно получилось иначе у вас?
+Расскажите один случай в комментариях.
 
-Визуальный замысел: Two anonymous adults examine a paper draft with one missing paper puzzle piece. One points to the missing space and the other holds that piece. Human exchange, friendly and concrete.
+Постановка: Wide full-body standing Lyudmila with sketchbook held low, other hand relaxed in a small open listening gesture, head tilted attentively toward reader, quiet curious face. Three empty overlapping speech bubbles with blue/green neutral icons, no words inside, no testimonial names or avatars. Slate-gray trousers and black closed shoes.
 
-### 5/7 · 05_Один-случай-ещё-не-привычка.png
+### 7/7
 
-Один случай —
-ещё не привычка.
+Сохраняйте то, к чему стоит вернуться.
+В IWE можно собирать примеры своих попыток и вопросы к ним.
+Первый запуск — в закреплённых @mim_self.
 
-Это наблюдение.
-Повторится ли новый способ —
-покажет дальнейшая практика.
+Постановка: Medium close portrait Lyudmila with a small warm closed-mouth smile, holding an open architect sketchbook as if saving a useful observation. A generic floating notebook window contains only gray abstract lines and blank lime tabs, no real product interface. Tiny saved-page and magnifying-glass icons. Calm reflective ending.
 
-Визуальный замысел: A single green folded paper step in focus, with a few faint outlines of future steps beyond it. Distinguish the one observed step from future unfilled outlines without extra labels.
+## Персонаж и оформление
 
-### 6/7 · 06_А-что-недавно-получилось-иначе-у-вас.png
-
-А что недавно
-получилось иначе
-у вас?
-
-Расскажите один случай
-в комментариях.
-
-Визуальный замысел: Three blank overlapping speech bubbles in cobalt, green and white, emerging from small anonymous silhouettes. A generous white opening invites the response. Do not fabricate testimonial quotes.
-
-### 7/7 · 07_Сохраняйте-то-к-чему-стоит-вернуться.png
-
-Сохраняйте то,
-к чему стоит
-вернуться.
-
-В IWE можно собирать
-примеры своих попыток
-и вопросы к ним.
-
-Первый запуск —
-в закреплённых @mim_self.
-https://t.me/mim_self
-
-Визуальный замысел: An open blue notebook with green folded-page corners, tiny saved paper fragments and a magnifying glass. The motif is collecting examples for thought, no automatic achievement trophies or fake UI.
-
-## Общее оформление
-
-На каждом изображении: номер i/7 и подпись «Мастерская инженеров менеджеров», https://system-school.ru/ . На седьмой карточке — тематический переход к инструкциям IWE в закреплённых @mim_self. Число в имени файла соответствует карточке. Генерация — по прямому поручению редактора; публичная публикация ожидает приёмки.
+Людмила интеллигентная, творческая и структурная, немного мечтательная. Свои жесты: карандаш как мера, работа с чертежом, скетчбук, точное объяснение. Фотографический стиль с интерфейсами и узнаваемыми иконками, лаймовые смысловые блоки и тёмные/светлые фоны. Крупность меняется по сюжету. Проверяются исходные лица и экспорт PDF; сетка, кракелюр и искусственная штриховка на коже исключаются. Текст не повторяется между интерфейсом и заголовком/описанием, окна не размещаются на внешней крышке ноутбука.
 
 ## Подпись к публикации
 
 В большом отчёте могут не оказаться маленькие изменения: уточнили задание раньше, вернулись к прерванной работе, показали черновик до финала.
 
-В карусели — условные примеры редакции. Один случай ещё не означает устойчивого навыка, но его уже можно заметить и сохранить.
+В карусели условные примеры редакции. Людмила - вымышленная героиня. Один случай ещё не означает устойчивого навыка, но его уже можно заметить и сохранить.
 
 Что у вас недавно получилось иначе? Расскажите один конкретный случай в комментариях.
 
-Инструкции по первому запуску IWE — в закреплённых https://t.me/mim_self .
+Инструкции по первому запуску IWE в закреплённых https://t.me/mim_self .
 
-Исходный повод: https://t.me/systemsthinkinglife/731 ; подборка и формулировки — редакционная адаптация.
+Исходный повод: https://t.me/systemsthinkinglife/731 ; подборка и формулировки - редакционная адаптация.
 
-## Источники и проверка
+## Статус
 
-Разные ситуации объединяет язык оформления, а не один герой, которому приписаны все достижения. Карточки-примеры с заметной пометкой «условный пример». Не использовать аватары, имена и цитаты реальных участников без основания. Финал оставляет место для ответа читателя; инструкции IWE — в закреплённых @mim_self.
-
-Редакционный текст, вымышленные иллюстрации. В №7 примеры явно помечены как условные, настоящие отзывы не выдуманы. В №8 первое лицо — речь персонажа. Нет обещаний дохода, возраста достижения результата или автоматического изменения человека. Проверены доступные LPF ЛР, LPF-CORE часть 2 и текущие редакционные правила; полного отсутствующего свода LPF не заявляем.
-
-## Приёмка в следующем рабочем слоте
-
-Проверить: смысл и естественность формулировок; читаемость и визуальную последовательность; написание ссылок; нумерацию; подписи. Решение по серии: принять или перечислить правки по номерам. Готовность файлов не означает редакторскую приёмку или публикацию.
+Подготовлено для просмотра редактором. Приёмка новой версии карусели не объявлена. Пак Людмилы ранее принят.
