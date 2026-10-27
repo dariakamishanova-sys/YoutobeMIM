@@ -1,76 +1,93 @@
-# Дмитрий, руководитель отдела: промпты версии 1.1
+# Промпты версии 2.0
 
-## Постоянная часть
+Использовать только базовый портрет 01-front.png версии 2. Старые PNG с сеткой исключены из визуальных референсов. Перед генерацией прочитать README.md и паспорт характера.
 
-Сохранять лицо, возраст, короткие текстурированные волосы с сединой и их линию роста, серую рубашку и обычное телосложение. Характер: серьёзный, задумчивый, немного меланхоличный. Улыбка и усмешка отсутствуют по умолчанию; губы сомкнуты, уголки нейтральны или слегка опущены, щёки не приподняты. Без злости, театральной печали, дополнительного старения. Качественная фотографическая кожа без искусственных пятен, мозаики и повторяющегося узора пор; возрастные морщины сохраняются.
+## Общие требования
 
-## Метод правки
+Same identity and maturity as the clean reference. Strong smooth photographic portrait retouch: even skin surfaces, no artificial mesh, no etched fine texture, no oversharpening. Preserve facial volume, main expression folds and hairstyle. Correct hands. Transparent background. No text, layout or UI. Complete gesture, safe margins.
 
-Прикладывать конкретную сцену первой, новый серьёзный портрет вторым. Сохранять позу, руки, реквизит, ракурс и внешность первой; со второго брать эмоциональный тон, а не фронтальную позу.
+## Постановка сцен
 
-## Состояния
+### 01-front · Анфас: спокойная требовательность
 
-### 02-three-quarter-left
-Quietly contemplative, serious, subtly melancholic; gently pressed lips, both corners neutral-to-downturned, no cheek lift.
+head and shoulders frontal, serious level direct gaze, lips closed, no smile
 
-### 03-three-quarter-right
-Analytically thoughtful, reserved, burdened by unresolved issues; closed straight-to-downturned lips, no smile.
+### 02-three-quarter-left · Три четверти: оценивает обстановку
 
-### 04-profile
-Reflective and slightly weary; natural closed mouth with lowered corners and subtle brow tension. No pleasant smile.
+waist up three-quarter left, arms folded low comfortably, serious quiet assessment, no smile
 
-### 05-full-body
-Composed head of department carrying responsibilities: serious, thoughtful, subtly melancholy. Closed neutral/downturned mouth, no relaxed corporate smile.
+### 03-three-quarter-right · Три четверти: слушает доклад
 
-### 06-interest
-Quiet analytical interest, not delighted curiosity: eyes attentive, brow a little knitted, mouth neutral and closed or slightly parted without lifted corners. No warmth or smile.
+waist up three-quarter right, hands loosely clasped behind his back, chin slightly down, reserved attentive gaze, no smile
 
-### 07-doubt
-Clearly skeptical and concerned, lips pressed and slightly pursed, both corners slightly lowered, cheek muscles relaxed rather than smiling. No one-sided smirk.
+### 04-profile · Профиль: обдумывает решение
 
-### 08-overload
-Weary and weighed down by too many problems, brow tension, lips tense, mouth slightly parted on tired exhale with downturned corners. No smile, no dramatic panic.
+head and shoulders right profile, neutral mouth, eyes focused into distance, sober thoughtful face
 
-### 09-relief
-A momentary release of tension while still burdened: eyes gently closed, mouth NEUTRAL with no upward corners, tired exhale. Remove the former pleased smile completely. Relief is shown by eyelids and shoulders only.
+### 05-full-body · В полный рост: спокойная опора
 
-### 10-choice
-Deep serious deliberation, weighing difficult options, knitted brow, lips pressed neutral-to-downturned, no smile or smirk.
+full body standing upright feet shoulder width apart, hands clasped behind back, gray shirt charcoal trousers black leather shoes, still calm strict face
 
-### 11-focus
-Absorbed serious concentration, subtle inward brow tension, pressed closed lips with neutral/downturned corners, no smile.
+### 06-interest · Интерес: уточняет деталь
 
-### 12-ui-look
-Sober analytic attention toward future window, quietly contemplative, a little weary, lips closed without raised corners.
+waist up head inclined a few degrees, index finger resting near chin, other arm supporting elbow, narrowed attentive eyes, closed neutral lips
 
-### 13-ui-point
-Reserved serious explanation, slight concern and thoughtfulness, straight/downturned mouth, no friendly presenter smile.
+### 07-doubt · Сомнение: молчаливая пауза
 
-### 14-ui-overlap
-Explaining a difficult situation with restrained concern, attentive eyes, serious closed mouth, no smile or smirk.
+waist up one eyebrow slightly raised, head still, one hand holding a closed notebook at waist, other thumb resting on notebook spine, tight neutral mouth, no smile
 
-### 15-test-plan
-Weighing difficult planning constraints, serious and inwardly thoughtful, lips closed slightly pressed and downturned, no contented smile.
+### 08-overload · Перегрузка: снимает напряжение
 
-### 16-test-review
-Critical serious evaluation of unresolved result, quietly concerned and slightly weary, mouth neutral/downturned, no smile.
+seated medium shot bridge of nose gently pinched between thumb and index finger, eyes closed, other hand resting on thigh, shoulders slightly lowered, mouth serious
 
-### 17-test-rescope
-Composed but burdened reconsideration of department commitments, subtle melancholy and concentration, lips closed and corners lowered, no smile.
+### 09-relief · Облегчение: наконец решено
 
-## Комичные реакции
+waist up slow exhale, chin lowered, eyes softly closed, both hands relaxed lowered in front, tiny release of tension in mouth but no smile
 
-### 18-facepalm — Руколицо
-Comic facepalm: one palm rests on forehead covering only upper forehead, fingers together naturally, eyes partly closed in exasperation, mouth downturned or on a tired sigh. Keep enough face visible to recognize person. Other arm relaxed. No doubled fingers or fused hand.
+### 10-choice · Выбор: взвешивает последствия
 
-### 19-horror — Комический ужас
-Comic horror / astonishment at a disastrous everyday situation: eyes widened, brows lifted, mouth rounded open, shoulders raised, two open palms held near chest or cheeks without covering face. Strong readable performance, no gore or physical danger.
+waist up looks down at two blank index cards held close together low near waist, body still, lips closed, thoughtful solemn gaze, no palms-up shrug
 
-### 20-anger — Комический гнев
-Comic anger / frustrated indignation: brows pulled down together, lips firmly pressed or mouth slightly open as if protesting, tense jaw and shoulders, hands firmly on hips or loosely clenched low at sides. Exaggerated readable displeasure but same real person, not a cartoon villain, no threatening lunge or violence.
+### 11-focus · Сосредоточенность: правит план
 
-### 21-delight — Восторг
-Comic delight: genuine bright open smile with mouth slightly open, eyes lively, both arms raised with open palms in delighted reaction, natural anatomical hands. This is a distinct enthusiastic reaction, not the default character expression. Keep mature facial identity and normal age, no beautification.
+seated medium shot writes one deliberate note in notebook, straight back with slight forward lean, intent downward gaze, closed serious mouth, no readable text
 
-Восторг с улыбкой допустим как отдельная реакция на событие, а не базовый характер. Задавать глаза, брови, губы, уголки рта, щёки и челюсть. В карусели менять крупность по сюжету. Интерфейс никогда не помещать на внешнюю крышку ноутбука, текст заголовка и интерфейса не дублировать.
+### 12-ui-look · Интерфейс: выделяет главное
 
+waist up on LEFT leaving empty RIGHT side, small precise gesture with pen held low pointing diagonally right, concentrated gaze, no actual interface
+
+### 13-ui-point · Интерфейс: обозначает границу
+
+waist up on RIGHT leaving empty LEFT side, one hand palm downward making a small controlled stopping motion at waist height, firm neutral face, no actual interface
+
+### 14-ui-overlap · Интерфейс: проверяет результат
+
+waist up three-quarter, hands folded at waist, gaze directed toward empty upper-left area, skeptical analytical face, no smile, no actual interface
+
+### 15-test · Работа: расставляет приоритеты
+
+seated medium shot looks down while placing a single blank sticky note on a closed notebook held in lap, slow precise movement, serious face
+
+### 16-test · Работа: фиксирует договорённость
+
+waist up holds a notebook close to chest with one hand, other hand holds pen motionless, short firm nod, lips pressed, calm authority
+
+### 17-test · Работа: ждёт ответа
+
+waist up still posture, forearms crossed low, eyes looking sideways toward someone off camera, slightly tired melancholic patient expression
+
+### 18-facepalm · Руколицо: тихая усталость
+
+waist up head bowed, fingertips and palm covering brow with elbow supported by opposite folded arm, compressed neutral lips, understated weary face, no grin
+
+### 19-horror · Ужас: замер от новости
+
+waist up very still body, one hand halted halfway while holding pen, eyes widened and lips slightly parted, restrained stunned reaction, no raised open palms
+
+### 20-anger · Гнев: холодное недовольство
+
+waist up upright posture, arms folded, jaw tightened, direct stern narrowed gaze, lips firmly closed, controlled cold anger, no shouting
+
+### 21-delight · Восторг: редкая победа
+
+waist up small restrained closed-mouth smile, eyes warmed, one subtle fist of satisfaction held low near waist, other hand holds closed notebook, quiet genuine pride, no open-mouth laugh
