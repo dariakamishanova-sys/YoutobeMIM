@@ -61,6 +61,15 @@ def highlight(s,x,y,fs=96):return rect(x-12,y-fs+3,tw(s,fs,800,-3)+26,fs+22,LIME
 def avatar(cx,cy,r=28):
     return f'<circle cx="{cx}" cy="{cy}" r="{r+4}" fill="{LIME}"/><g clip-path="url(#av)">{img(R/"avatar.png",cx-r,cy-r,r*2,r*2)}</g>' if False else f'<circle cx="{cx}" cy="{cy}" r="{r+4}" fill="{LIME}"/><svg x="{cx-r}" y="{cy-r}" width="{2*r}" height="{2*r}" viewBox="0 0 100 100"><defs><clipPath id="avcircle"><circle cx="50" cy="50" r="50"/></clipPath></defs><g clip-path="url(#avcircle)">{img(R/"avatar.png",0,0,100,100)}</g></svg>'
 
+
+def chat_avatar(who,cx,cy,r=34):
+    names={'elena':'Елена','dmitry':'Дмитрий','lyudmila':'Людмила','alexander':'Александр'}
+    return f'<g aria-label="{names[who]}" data-author="{who}"><circle cx="{cx}" cy="{cy}" r="{r+3}" fill="#F5F6F7"/>'+img(R/'avatars'/f'{who}-avatar.png',cx-r,cy-r,2*r,2*r)+'</g>'
+
+def message(x,y,w,h,outgoing=False,fill=WHITE):
+    tail=f'<path d="M{x+w-4} {y+h-47}Q{x+w+2} {y+h-20} {x+w+22} {y+h-14}Q{x+w+3} {y+h-9} {x+w-13} {y+h-15}Z" fill="{fill}"/>' if outgoing else f'<path d="M{x+4} {y+h-47}Q{x-2} {y+h-20} {x-22} {y+h-14}Q{x-3} {y+h-9} {x+13} {y+h-15}Z" fill="{fill}"/>'
+    return card(x,y,w,h,fill,25)+tail
+
 # Fixed interface-maze, approved visual direction #3: actual UI panels form its walls.
 main=[(170,710),(170,595),(170,430),(425,430),(425,165),(460,165),(460,100),(555,100)]
 branches=[[(170,430),(75,430)],[(425,430),(580,430)],[(170,430),(170,165),(300,165)],[(425,430),(425,515),(300,515)]]
@@ -146,17 +155,17 @@ for n in range(1,8):
         body+=layer('07-clock',clock(950,421,10,0,61))
     elif n==2:
         body+=layer('02-maze',maze(n,60,944,.48))
-        body+=layer('03-photo',img(clean/'02.png',420,310,745,993))
+        body+=layer('03-photo',img(clean/'02.png',430,360,822,1096))
         body+=layer('04-speech',tx(64,153,'Всё,',116,800,INK,-4)+highlight('ответила.',64,278,112))
-        ui=card(64,381,538,126)+tx(92,426,'Елена',24,700,'#697078')+tx(92,477,'Хорошо, до завтра.',36,700)
-        ui+=card(89,538,558,171)+icon('chat',112,565,49)+lines(['Смотри, какая','статья'],180,600,39,52,700)
+        ui=message(64,392,450,119,True,LIME)+tx(91,465,'Хорошо, до завтра.',34,700)+chat_avatar('elena',562,476,33)
+        ui+=message(158,551,478,155,False,WHITE)+lines(['Смотри, какая','статья'],188,612,39,52,700)+chat_avatar('dmitry',102,671,34)
         body+=layer('05-chat',ui)+layer('06-markers',rays(979,496,.8))
         body+=layer('07-clock',clock(943,142,10,10,68))
     elif n==3:
         body+=layer('02-maze',maze(n,43,743,.65))
         body+=layer('03-photo',img(clean/'03.png',435,633,783,1044))
-        incoming=card(64,86,772,291)+tx(94,135,'Коллега',25,700,'#697078')+lines(['Можешь посоветовать','что-нибудь, чтобы','не отвлекаться?'],94,205,48,63,700)
-        outgoing=card(164,417,687,200,LIME)+tx(194,462,'Елена',25,700,INK)+lines(['Сейчас поищу, думаю,','всем пригодится.'],194,522,43,59,700)
+        incoming=message(164,86,670,276,False,WHITE)+lines(['Можешь посоветовать','что-нибудь, чтобы','не отвлекаться?'],194,166,46,63,700)+chat_avatar('lyudmila',105,327,35)
+        outgoing=message(164,417,630,190,True,LIME)+lines(['Сейчас поищу, думаю,','всем пригодится.'],194,492,43,59,700)+chat_avatar('elena',853,573,35)
         body+=layer('04-dialogue',incoming+outgoing)+layer('05-markers',rays(983,780,.75))
         body+=layer('07-clock',clock(948,160,10,25,63))
     elif n==4:
@@ -171,9 +180,9 @@ for n in range(1,8):
         doc=card(585,442,435,690)+dots(610,471)+tx(610,526,'Мой документ',27,700)+f'<path d="M609 553h385" stroke="#CDD3D9" stroke-width="2"/>'+tx(613,619,'Начать стоит с…',31,500)+f'<path d="M886 593v34" stroke="{BLUE}" stroke-width="3"/>'
         body+=layer('03-working-document',doc)
         body+=layer('04-narrator',tx(64,139,'Всем помогла.',95,800,WHITE,-3)+tx(64,247,'А что с рабочим',89,800,LIME,-3)+tx(64,350,'документом?',99,800,LIME,-3))
-        ui=card(64,438,662,441)+tx(94,484,'Елена',25,700,'#697078')+tx(94,537,'Держите, как раз по теме!',36,700)+video(93,565,603,280,True)
-        for x,y,w,reply in [(413,915,550,'Классно, посмотрю!'),(353,1017,441,'Здорово!'),(489,1119,495,'Супер, спасибо!')]:
-            ui+=card(x,y,w,78)+f'<circle cx="{x+37}" cy="{y+39}" r="15" fill="{BLUE}"/>'+tx(x+67,y+52,reply,32,700)
+        ui=message(64,438,662,441,True,WHITE)+tx(94,508,'Держите, как раз по теме!',36,700)+video(93,540,603,280,True)+chat_avatar('elena',777,845,34)
+        for x,y,w,reply,who in [(450,915,545,'Классно, посмотрю!','lyudmila'),(393,1017,415,'Здорово!','dmitry'),(509,1119,480,'Супер, спасибо!','alexander')]:
+            ui+=message(x,y,w,82,False,WHITE)+tx(x+25,y+54,reply,32,700)+chat_avatar(who,x-51,y+49,30)
         body+=layer('05-forward-and-replies',ui)+layer('07-clock',clock(947,133,11,20,62))
     elif n==6:
         body+=layer('02-photo',img(clean/'06.png',0,385,1086,1448))
@@ -196,7 +205,7 @@ for n in range(1,8):
         body+=layer('05-iwe-explanation',lines(iwe,64,968,34,48,500,WHITE))
         body+=layer('06-main-cta',rect(64,1187,958,143,LIME,22)+lines(['Посмотрите, как это устроено в IWE.','Ссылка в подписи.'],91,1243,37,52,800,INK,-.5))
         body+=layer('07-clock',clock(950,529,11,40,53))
-    body+=layer('99-footer',rect(0,1391,1086,57,bg,0)+tx(64,1427,f'{n:02} / 07',25,700,ink)+tx(928,1427,'МИМ',26,700,ink))
+    body+=layer('99-footer',f'<rect x="0" y="1372" width="1086" height="76" fill="{bg}" fill-opacity=".72"/>'+tx(64,1427,f'{n:02} / 07',25,700,ink)+tx(928,1427,'МИМ',26,700,ink))
     svg=f'<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="1086" height="1448" viewBox="0 0 1086 1448"><title>Лабиринт чатов и добрых намерений · {n}/7</title>{DEFS}{body}</svg>'
     # Correct Inkscape namespace for genuine editable layers.
     svg=svg.replace('http://www.inkscape.org/namespaces/inkscape','http://www.inkscape.org/namespaces/inkscape')

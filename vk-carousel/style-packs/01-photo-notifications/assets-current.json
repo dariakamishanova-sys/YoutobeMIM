@@ -895,36 +895,36 @@
           "name": "01.png",
           "id": "1B71Z3IRZIKQt5lGe-KED6G0tRQs5mlEJ",
           "mime_type": "image/png",
-          "size": 770328,
+          "size": 799585,
           "width": 1086,
           "height": 1448,
           "url": "https://drive.google.com/file/d/1B71Z3IRZIKQt5lGe-KED6G0tRQs5mlEJ/view?usp=drivesdk",
           "repository_path": "vk-carousel/assets/05-elena-v6/01.png",
-          "git_blob_sha": "83a4db1119b9ba0066ef238d46b43fa766843f6a"
+          "git_blob_sha": "efe78e6082f33046202d27a8541faf08a59b9bda"
         },
         {
           "order": 2,
           "name": "02.png",
           "id": "1utc7_ywxvkQaF_PQpvYFNsTZoJ_fYOE_",
           "mime_type": "image/png",
-          "size": 750222,
+          "size": 860582,
           "width": 1086,
           "height": 1448,
           "url": "https://drive.google.com/file/d/1utc7_ywxvkQaF_PQpvYFNsTZoJ_fYOE_/view?usp=drivesdk",
           "repository_path": "vk-carousel/assets/05-elena-v6/02.png",
-          "git_blob_sha": "4b0a4736bac1fb5e8ec7fcbdaa27d84800ed21e2"
+          "git_blob_sha": "a66a96c0e44adf46c7fec2ee3ff74ba82162ad9d"
         },
         {
           "order": 3,
           "name": "03.png",
           "id": "15aSDPfblUcBMeRlOgJO4b4WFXNYqKUTX",
           "mime_type": "image/png",
-          "size": 659997,
+          "size": 703362,
           "width": 1086,
           "height": 1448,
           "url": "https://drive.google.com/file/d/15aSDPfblUcBMeRlOgJO4b4WFXNYqKUTX/view?usp=drivesdk",
           "repository_path": "vk-carousel/assets/05-elena-v6/03.png",
-          "git_blob_sha": "8c231134e09b754573d641e277f885666128d0dc"
+          "git_blob_sha": "65d72615bbc070976ef6c2ed1f9bf532e472fef9"
         },
         {
           "order": 4,
@@ -943,24 +943,24 @@
           "name": "05.png",
           "id": "1o10W1Tsx85-46qDQFM-_s5sEKio9l5hU",
           "mime_type": "image/png",
-          "size": 164606,
+          "size": 199999,
           "width": 1086,
           "height": 1448,
           "url": "https://drive.google.com/file/d/1o10W1Tsx85-46qDQFM-_s5sEKio9l5hU/view?usp=drivesdk",
           "repository_path": "vk-carousel/assets/05-elena-v6/05.png",
-          "git_blob_sha": "d18762e244f26e1b2b7743dc439674b27765c438"
+          "git_blob_sha": "f44f40c82b044a9e18bf0bc221c5af4ce7d62a2b"
         },
         {
           "order": 6,
           "name": "06.png",
           "id": "1rp01zLb6XdZV598ZxARoqhBzoqR41H9b",
           "mime_type": "image/png",
-          "size": 1137398,
+          "size": 1173598,
           "width": 1086,
           "height": 1448,
           "url": "https://drive.google.com/file/d/1rp01zLb6XdZV598ZxARoqhBzoqR41H9b/view?usp=drivesdk",
           "repository_path": "vk-carousel/assets/05-elena-v6/06.png",
-          "git_blob_sha": "eef2f1260f22b4eb2daff91b7db9f75bbf02807f"
+          "git_blob_sha": "f6fb69ac129f4f79031e30402b9226d8db7d8933"
         },
         {
           "order": 7,
@@ -984,7 +984,18 @@
       "scenario_draft_url": "https://drive.google.com/file/d/1lQZqex5QQErxBn95eVdhh31FTfsVfF65/view",
       "research_url": "https://drive.google.com/file/d/1CuEAfKrtqKCK2YmbgzR-EOH7USRyJySo/view",
       "scenario_url": "https://drive.google.com/file/d/1lQZqex5QQErxBn95eVdhh31FTfsVfF65/view",
-      "masters_url": "https://drive.google.com/drive/folders/1tVkFCIXXwflcxq_e3DQEKF-8Jeq0hdth"
+      "masters_url": "https://drive.google.com/drive/folders/1tVkFCIXXwflcxq_e3DQEKF-8Jeq0hdth",
+      "messenger_avatars": {
+        "article": "dmitry",
+        "question": "lyudmila",
+        "outgoing": "elena",
+        "reactions": [
+          "lyudmila",
+          "dmitry",
+          "alexander"
+        ]
+      },
+      "footer": "Отдельный полупрозрачный слой поверх продолжающейся фотографии; без висящего среза фигуры."
     },
     {
       "key": "dmitry",

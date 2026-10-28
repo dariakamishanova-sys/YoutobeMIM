@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "purpose": "65 публикационных PNG восьми каруселей; Елена v6: 7 SVG, 5 фотослоёв, аватар и шрифт отдельно. PDF только документы и паспорта.",
+  "purpose": "65 публикационных PNG восьми каруселей; Елена v6: 7 SVG, 5 фотослоёв, навигационный аватар, 4 фотоаватара переписки и шрифт. PDF только документы и паспорта.",
   "files": [
     {
       "path": "vk-carousel/assets/01-answers-sea/01.png",
@@ -764,33 +764,33 @@
     },
     {
       "path": "vk-carousel/assets/05-elena-v6/01.png",
-      "sha": "83a4db1119b9ba0066ef238d46b43fa766843f6a",
-      "size": 770328
+      "sha": "efe78e6082f33046202d27a8541faf08a59b9bda",
+      "size": 799585
     },
     {
       "path": "vk-carousel/assets/05-elena-v6/02.png",
-      "sha": "4b0a4736bac1fb5e8ec7fcbdaa27d84800ed21e2",
-      "size": 750222
+      "sha": "a66a96c0e44adf46c7fec2ee3ff74ba82162ad9d",
+      "size": 860582
     },
     {
       "path": "vk-carousel/assets/05-elena-v6-masters/04.svg",
-      "sha": "5812103b7a473ce3639c53afd2382f3bee03a6de",
-      "size": 1583196
+      "sha": "5aa633fe12fbfed9ad22455774acafc9dbf9c63d",
+      "size": 1583208
     },
     {
       "path": "vk-carousel/assets/05-elena-v6-masters/05.svg",
-      "sha": "a5e09e8ef1bf0b742b40274ad501971c13c285cb",
-      "size": 69701
+      "sha": "daa2bb79f4ab7478f923922bfeb006b0a6720c33",
+      "size": 402007
     },
     {
       "path": "vk-carousel/assets/05-elena-v6-masters/06.svg",
-      "sha": "ba482b47c66f05cbd38f82f6a83fd51faadad7c4",
-      "size": 2514147
+      "sha": "1edf1aa53065d518a396966f584aaee55208a3dc",
+      "size": 2514159
     },
     {
       "path": "vk-carousel/assets/05-elena-v6-masters/07.svg",
-      "sha": "ff4f47d38584553b5bb8091f9955da0f3a50e6d5",
-      "size": 69789
+      "sha": "01bfb19cbc00c7ae7dcea5ac68fcc7d49a296382",
+      "size": 69801
     },
     {
       "path": "vk-carousel/assets/05-elena-v6-masters/photos/01.png",
@@ -799,8 +799,8 @@
     },
     {
       "path": "vk-carousel/assets/05-elena-v6-masters/photos/02.png",
-      "sha": "7ac3376ebeee0d50e383646322d28c495386ba28",
-      "size": 1475406
+      "sha": "58b8c8ededa6da4288785d7f6a4a987f669b9e00",
+      "size": 1668846
     },
     {
       "path": "vk-carousel/assets/05-elena-v6-masters/photos/03.png",
@@ -824,8 +824,8 @@
     },
     {
       "path": "vk-carousel/assets/05-elena-v6/03.png",
-      "sha": "8c231134e09b754573d641e277f885666128d0dc",
-      "size": 659997
+      "sha": "65d72615bbc070976ef6c2ed1f9bf532e472fef9",
+      "size": 703362
     },
     {
       "path": "vk-carousel/assets/05-elena-v6-masters/fonts/Manrope-variable.ttf",
@@ -839,13 +839,13 @@
     },
     {
       "path": "vk-carousel/assets/05-elena-v6/05.png",
-      "sha": "d18762e244f26e1b2b7743dc439674b27765c438",
-      "size": 164606
+      "sha": "f44f40c82b044a9e18bf0bc221c5af4ce7d62a2b",
+      "size": 199999
     },
     {
       "path": "vk-carousel/assets/05-elena-v6/06.png",
-      "sha": "eef2f1260f22b4eb2daff91b7db9f75bbf02807f",
-      "size": 1137398
+      "sha": "f6fb69ac129f4f79031e30402b9226d8db7d8933",
+      "size": 1173598
     },
     {
       "path": "vk-carousel/assets/05-elena-v6/07.png",
@@ -854,18 +854,38 @@
     },
     {
       "path": "vk-carousel/assets/05-elena-v6-masters/01.svg",
-      "sha": "be69e3adcf04f5a10d1a5d8691d45a589d61b1fa",
-      "size": 2479716
+      "sha": "72629352d6cad5b9f142c8e33684a20fb5746142",
+      "size": 2479728
     },
     {
       "path": "vk-carousel/assets/05-elena-v6-masters/02.svg",
-      "sha": "2908c55bc590c1c52a3d8ecad6866c9e5b4668a9",
-      "size": 2035194
+      "sha": "4cd5aaf5fd0da2dc40bca2c8e8257b650b77dd2a",
+      "size": 2457870
     },
     {
       "path": "vk-carousel/assets/05-elena-v6-masters/03.svg",
-      "sha": "7901b412dcd33c39639678c4229a1b10a2846552",
-      "size": 2504878
+      "sha": "38ab1d58d41a2ca4af53ade756fe1e7d33514205",
+      "size": 2678111
+    },
+    {
+      "path": "vk-carousel/assets/05-elena-v6-masters/avatars/alexander-avatar.png",
+      "size": 56411,
+      "sha": "39a501467ceb5529e3c5b425a73f988730b5cd5f"
+    },
+    {
+      "path": "vk-carousel/assets/05-elena-v6-masters/avatars/dmitry-avatar.png",
+      "size": 62470,
+      "sha": "d3011a78ce20bbe1904c98ae4ee941ef394295e7"
+    },
+    {
+      "path": "vk-carousel/assets/05-elena-v6-masters/avatars/elena-avatar.png",
+      "size": 60992,
+      "sha": "055d7235a69585fbea998b17a6c2d7d7a9317c5c"
+    },
+    {
+      "path": "vk-carousel/assets/05-elena-v6-masters/avatars/lyudmila-avatar.png",
+      "size": 68691,
+      "sha": "46d3295f6fd11ba43180d5aa2c9cbd0426411807"
     }
   ]
 }
