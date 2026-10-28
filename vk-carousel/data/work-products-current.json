@@ -3625,9 +3625,9 @@
           {
             "values": [
               {
-                "formattedValue": "28.10 · Правила стиля v2.1",
+                "formattedValue": "28.10 · Пак стиля v2.2",
                 "userEnteredValue": {
-                  "stringValue": "28.10 · Правила стиля v2.1"
+                  "stringValue": "28.10 · Пак стиля v2.2"
                 },
                 "userEnteredFormat": {
                   "verticalAlignment": "TOP",
@@ -3639,9 +3639,9 @@
                 }
               },
               {
-                "formattedValue": "выполнено",
+                "formattedValue": "синхронизирован",
                 "userEnteredValue": {
-                  "stringValue": "выполнено"
+                  "stringValue": "синхронизирован"
                 },
                 "userEnteredFormat": {
                   "verticalAlignment": "TOP",
@@ -3653,9 +3653,9 @@
                 }
               },
               {
-                "formattedValue": "Цвет, ритм, содержательная плотность, ассоциативные интерфейсы, маркеры, индивидуальность героев, послойные исправления, редакционное исключение: 2 CTA.",
+                "formattedValue": "Единые правила: типографика и ритм, цвет, содержательный текст, глубина, планы и характер, интерфейсы и фотоаватары, кадрирование и колонтитул, маркеры, CTA, кожа/предметы, редактируемые слои. MD + PDF 13 страниц, краткий бриф, четыре героя и Manrope с лицензией.",
                 "userEnteredValue": {
-                  "stringValue": "Цвет, ритм, содержательная плотность, ассоциативные интерфейсы, маркеры, индивидуальность героев, послойные исправления, редакционное исключение: 2 CTA."
+                  "stringValue": "Единые правила: типографика и ритм, цвет, содержательный текст, глубина, планы и характер, интерфейсы и фотоаватары, кадрирование и колонтитул, маркеры, CTA, кожа/предметы, редактируемые слои. MD + PDF 13 страниц, краткий бриф, четыре героя и Manrope с лицензией."
                 },
                 "userEnteredFormat": {
                   "verticalAlignment": "TOP",
@@ -3667,9 +3667,9 @@
                 }
               },
               {
-                "formattedValue": "Утверждены редактором в текущей сессии.",
+                "formattedValue": "Пак: https://drive.google.com/drive/folders/1Eq6NcbrZRy2Xy5HPoUgSbMjmSnTbZSWU",
                 "userEnteredValue": {
-                  "stringValue": "Утверждены редактором в текущей сессии."
+                  "stringValue": "Пак: https://drive.google.com/drive/folders/1Eq6NcbrZRy2Xy5HPoUgSbMjmSnTbZSWU"
                 },
                 "userEnteredFormat": {
                   "verticalAlignment": "TOP",
@@ -3690,14 +3690,18 @@
                   "wrapStrategy": "WRAP",
                   "textFormat": {
                     "fontFamily": "Arial",
-                    "fontSize": 10
+                    "fontSize": 10,
+                    "link": {
+                      "uri": "https://drive.google.com/file/d/1m3AcLWL4nUUMjapNcpXaVwo0paUzCOfy/view"
+                    }
                   }
-                }
+                },
+                "hyperlink": "https://drive.google.com/file/d/1m3AcLWL4nUUMjapNcpXaVwo0paUzCOfy/view"
               },
               {
-                "formattedValue": "Исходный LPF не изменялся; отличие по CTA зафиксировано.",
+                "formattedValue": "PDF: https://drive.google.com/file/d/1xb_UKc60e3IY_Ugwb0Ed-J0O0meFenhO/view\nМетод и шаблон задания синхронизированы; LPF не переписан, исключение двух CTA отмечено.",
                 "userEnteredValue": {
-                  "stringValue": "Исходный LPF не изменялся; отличие по CTA зафиксировано."
+                  "stringValue": "PDF: https://drive.google.com/file/d/1xb_UKc60e3IY_Ugwb0Ed-J0O0meFenhO/view\nМетод и шаблон задания синхронизированы; LPF не переписан, исключение двух CTA отмечено."
                 },
                 "userEnteredFormat": {
                   "verticalAlignment": "TOP",
@@ -3727,9 +3731,9 @@
                 }
               },
               {
-                "formattedValue": "7 PNG · на просмотре",
+                "formattedValue": "правки сохранены · работа пока остановлена",
                 "userEnteredValue": {
-                  "stringValue": "7 PNG · на просмотре"
+                  "stringValue": "правки сохранены · работа пока остановлена"
                 },
                 "userEnteredFormat": {
                   "verticalAlignment": "TOP",
@@ -3741,9 +3745,9 @@
                 }
               },
               {
-                "formattedValue": "v6: 7 PNG с лабиринтом из окон интерфейса (утверждён вариант №3). Короткая просьба коллеги; видео «Как не отвлекаться: узнай за минуту»; пересылка и отклики; возврат к документу; точка возврата и IWE. Отдельного поиска статьи нет. Меняются планы, присутствие героя и плотность. Готовая карусель на просмотре, не опубликована.",
+                "formattedValue": "Текущие 7 PNG Елены v6 сохранены. Статью присылает Дмитрий, совет просит Людмила; фотоаватары и пузыри мессенджера, взгляд Елены в телефон, естественный срез и полупрозрачный колонтитул. Ответ на 2-й: «Отлично, это то, что нужно, почитаю». Автор пока остановила работу; публикации не было.",
                 "userEnteredValue": {
-                  "stringValue": "v6: 7 PNG с лабиринтом из окон интерфейса (утверждён вариант №3). Короткая просьба коллеги; видео «Как не отвлекаться: узнай за минуту»; пересылка и отклики; возврат к документу; точка возврата и IWE. Отдельного поиска статьи нет. Меняются планы, присутствие героя и плотность. Готовая карусель на просмотре, не опубликована."
+                  "stringValue": "Текущие 7 PNG Елены v6 сохранены. Статью присылает Дмитрий, совет просит Людмила; фотоаватары и пузыри мессенджера, взгляд Елены в телефон, естественный срез и полупрозрачный колонтитул. Ответ на 2-й: «Отлично, это то, что нужно, почитаю». Автор пока остановила работу; публикации не было."
                 },
                 "userEnteredFormat": {
                   "verticalAlignment": "TOP",
@@ -3791,9 +3795,9 @@
                 "hyperlink": "https://drive.google.com/file/d/1lQZqex5QQErxBn95eVdhh31FTfsVfF65/view"
               },
               {
-                "formattedValue": "PNG: https://drive.google.com/drive/folders/1uU-J7U1IdToFRJbovMcKWiC7XaK6TmIO\nSVG/фотослои: https://drive.google.com/drive/folders/1tVkFCIXXwflcxq_e3DQEKF-8Jeq0hdth\nДальше — просмотр Елены. Дмитрий и Людмила остаются на паузе.",
+                "formattedValue": "PNG: https://drive.google.com/drive/folders/1uU-J7U1IdToFRJbovMcKWiC7XaK6TmIO\nSVG/фото/аватары: https://drive.google.com/drive/folders/1tVkFCIXXwflcxq_e3DQEKF-8Jeq0hdth\nОбщие решения внесены в пак стиля 2.2. Дмитрий и Людмила автоматически не перерабатываются.",
                 "userEnteredValue": {
-                  "stringValue": "PNG: https://drive.google.com/drive/folders/1uU-J7U1IdToFRJbovMcKWiC7XaK6TmIO\nSVG/фотослои: https://drive.google.com/drive/folders/1tVkFCIXXwflcxq_e3DQEKF-8Jeq0hdth\nДальше — просмотр Елены. Дмитрий и Людмила остаются на паузе."
+                  "stringValue": "PNG: https://drive.google.com/drive/folders/1uU-J7U1IdToFRJbovMcKWiC7XaK6TmIO\nSVG/фото/аватары: https://drive.google.com/drive/folders/1tVkFCIXXwflcxq_e3DQEKF-8Jeq0hdth\nОбщие решения внесены в пак стиля 2.2. Дмитрий и Людмила автоматически не перерабатываются."
                 },
                 "userEnteredFormat": {
                   "verticalAlignment": "TOP",

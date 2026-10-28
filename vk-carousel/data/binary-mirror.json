@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "purpose": "65 публикационных PNG восьми каруселей; Елена v6: 7 SVG, 5 фотослоёв, навигационный аватар, 4 фотоаватара переписки и шрифт. PDF только документы и паспорта.",
+  "purpose": "65 публикационных PNG восьми каруселей; Елена v6: 7 SVG, 5 фотослоёв, навигационный и 4 фотоаватара. Стиль 2.2, PDF документов и рабочий шрифт с лицензией сохранены отдельно.",
   "files": [
     {
       "path": "vk-carousel/assets/01-answers-sea/01.png",
@@ -754,8 +754,8 @@
     },
     {
       "path": "vk-carousel/style-packs/01-photo-notifications/МИМ-Стиль-и-персонажи-v2.pdf",
-      "sha": "5919e59447959e59cc7bb11fd983de33e07122c7",
-      "size": 11062806
+      "sha": "cb6d3d603cc4861aadc99867e46e0c6e25f175fa",
+      "size": 1829406
     },
     {
       "path": "vk-carousel/work-products/МИМ-Критический-разбор-стиля-и-каруселей.pdf",
@@ -886,6 +886,11 @@
       "path": "vk-carousel/assets/05-elena-v6-masters/avatars/lyudmila-avatar.png",
       "size": 68691,
       "sha": "46d3295f6fd11ba43180d5aa2c9cbd0426411807"
+    },
+    {
+      "path": "vk-carousel/style-packs/01-photo-notifications/fonts/Manrope-variable.ttf",
+      "size": 164700,
+      "sha": "75274da58537d6123b14f2cd0c355ad4681fc2b3"
     }
   ]
 }
