@@ -887,7 +887,7 @@
       "key": "elena",
       "name": "Зашла ответить на одно сообщение",
       "version": 4,
-      "status": "подготовлена для просмотра; v3 ранее принята",
+      "status": "v4 не принята; сценарий v5 на обсуждении",
       "folder_url": "https://drive.google.com/drive/folders/1uU-J7U1IdToFRJbovMcKWiC7XaK6TmIO",
       "files": [
         {
@@ -980,7 +980,9 @@
       "count": 7,
       "support_folder_url": "https://drive.google.com/drive/folders/12q6ZmqyrTkxKfijl8XG-ALlQrLwq1laC",
       "png_count": 7,
-      "master_folder_url": "https://drive.google.com/drive/folders/1tVkFCIXXwflcxq_e3DQEKF-8Jeq0hdth"
+      "master_folder_url": "https://drive.google.com/drive/folders/1tVkFCIXXwflcxq_e3DQEKF-8Jeq0hdth",
+      "scenario_draft_url": "https://drive.google.com/file/d/1lQZqex5QQErxBn95eVdhh31FTfsVfF65/view",
+      "research_url": "https://drive.google.com/file/d/1CuEAfKrtqKCK2YmbgzR-EOH7USRyJySo/view"
     },
     {
       "key": "dmitry",

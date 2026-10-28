@@ -493,7 +493,7 @@
     {
       "index": 5,
       "title": "Зашла ответить на одно сообщение",
-      "status": "подготовлена для просмотра · v4",
+      "status": "v4 не принята; сценарий v5 на обсуждении",
       "folder_url": "https://drive.google.com/drive/folders/1uU-J7U1IdToFRJbovMcKWiC7XaK6TmIO",
       "format": "PNG",
       "count": 7,
@@ -585,7 +585,9 @@
       ],
       "support_folder_url": "https://drive.google.com/drive/folders/12q6ZmqyrTkxKfijl8XG-ALlQrLwq1laC",
       "version": 4,
-      "master_folder_url": "https://drive.google.com/drive/folders/1tVkFCIXXwflcxq_e3DQEKF-8Jeq0hdth"
+      "master_folder_url": "https://drive.google.com/drive/folders/1tVkFCIXXwflcxq_e3DQEKF-8Jeq0hdth",
+      "scenario_draft_url": "https://drive.google.com/file/d/1lQZqex5QQErxBn95eVdhh31FTfsVfF65/view",
+      "research_url": "https://drive.google.com/file/d/1CuEAfKrtqKCK2YmbgzR-EOH7USRyJySo/view"
     },
     {
       "index": 6,

@@ -3713,9 +3713,9 @@
           {
             "values": [
               {
-                "formattedValue": "28.10 · Елена v4 · содержательная карусель",
+                "formattedValue": "28.10 · Елена · сценарий v5 и исследование обложки",
                 "userEnteredValue": {
-                  "stringValue": "28.10 · Елена v4 · содержательная карусель"
+                  "stringValue": "28.10 · Елена · сценарий v5 и исследование обложки"
                 },
                 "userEnteredFormat": {
                   "verticalAlignment": "TOP",
@@ -3727,9 +3727,9 @@
                 }
               },
               {
-                "formattedValue": "на просмотр",
+                "formattedValue": "сценарий на обсуждении",
                 "userEnteredValue": {
-                  "stringValue": "на просмотр"
+                  "stringValue": "сценарий на обсуждении"
                 },
                 "userEnteredFormat": {
                   "verticalAlignment": "TOP",
@@ -3741,9 +3741,9 @@
                 }
               },
               {
-                "formattedValue": "7 PNG, 7 редактируемых SVG, 5 новых фотослоёв. Поясняющий текст, разная плотность и крупность, 2 карточки без персонажа.",
+                "formattedValue": "Визуальная v4 не принята. Подготовлены исследование и новый текстовый сценарий на 8 карточек; генерация и коррекция стиля пока не выполняются.",
                 "userEnteredValue": {
-                  "stringValue": "7 PNG, 7 редактируемых SVG, 5 новых фотослоёв. Поясняющий текст, разная плотность и крупность, 2 карточки без персонажа."
+                  "stringValue": "Визуальная v4 не принята. Подготовлены исследование и новый текстовый сценарий на 8 карточек; генерация и коррекция стиля пока не выполняются."
                 },
                 "userEnteredFormat": {
                   "verticalAlignment": "TOP",
@@ -3755,37 +3755,45 @@
                 }
               },
               {
-                "formattedValue": "https://drive.google.com/drive/folders/1tVkFCIXXwflcxq_e3DQEKF-8Jeq0hdth",
+                "formattedValue": "https://drive.google.com/file/d/1CuEAfKrtqKCK2YmbgzR-EOH7USRyJySo/view",
                 "userEnteredValue": {
-                  "stringValue": "https://drive.google.com/drive/folders/1tVkFCIXXwflcxq_e3DQEKF-8Jeq0hdth"
+                  "stringValue": "https://drive.google.com/file/d/1CuEAfKrtqKCK2YmbgzR-EOH7USRyJySo/view"
                 },
                 "userEnteredFormat": {
                   "verticalAlignment": "TOP",
                   "wrapStrategy": "WRAP",
                   "textFormat": {
                     "fontFamily": "Arial",
-                    "fontSize": 10
+                    "fontSize": 10,
+                    "link": {
+                      "uri": "https://drive.google.com/file/d/1CuEAfKrtqKCK2YmbgzR-EOH7USRyJySo/view"
+                    }
                   }
-                }
+                },
+                "hyperlink": "https://drive.google.com/file/d/1CuEAfKrtqKCK2YmbgzR-EOH7USRyJySo/view"
               },
               {
-                "formattedValue": "https://drive.google.com/drive/folders/1uU-J7U1IdToFRJbovMcKWiC7XaK6TmIO",
+                "formattedValue": "https://drive.google.com/file/d/1lQZqex5QQErxBn95eVdhh31FTfsVfF65/view",
                 "userEnteredValue": {
-                  "stringValue": "https://drive.google.com/drive/folders/1uU-J7U1IdToFRJbovMcKWiC7XaK6TmIO"
+                  "stringValue": "https://drive.google.com/file/d/1lQZqex5QQErxBn95eVdhh31FTfsVfF65/view"
                 },
                 "userEnteredFormat": {
                   "verticalAlignment": "TOP",
                   "wrapStrategy": "WRAP",
                   "textFormat": {
                     "fontFamily": "Arial",
-                    "fontSize": 10
+                    "fontSize": 10,
+                    "link": {
+                      "uri": "https://drive.google.com/file/d/1lQZqex5QQErxBn95eVdhh31FTfsVfF65/view"
+                    }
                   }
-                }
+                },
+                "hyperlink": "https://drive.google.com/file/d/1lQZqex5QQErxBn95eVdhh31FTfsVfF65/view"
               },
               {
-                "formattedValue": "После утверждения Елены — переработка Дмитрия и Людмилы. Их прежние текущие файлы сохранены.",
+                "formattedValue": "Сначала обсуждение сценария/обложки Елены, затем визуализация. Дмитрий и Людмила остаются на паузе.",
                 "userEnteredValue": {
-                  "stringValue": "После утверждения Елены — переработка Дмитрия и Людмилы. Их прежние текущие файлы сохранены."
+                  "stringValue": "Сначала обсуждение сценария/обложки Елены, затем визуализация. Дмитрий и Людмила остаются на паузе."
                 },
                 "userEnteredFormat": {
                   "verticalAlignment": "TOP",

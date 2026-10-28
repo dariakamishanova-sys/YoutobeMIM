@@ -992,9 +992,9 @@
           }
         },
         {
-          "formattedValue": "на просмотр · v4",
+          "formattedValue": "сценарий v5 · на обсуждении",
           "userEnteredValue": {
-            "stringValue": "на просмотр · v4"
+            "stringValue": "сценарий v5 · на обсуждении"
           },
           "userEnteredFormat": {
             "verticalAlignment": "TOP",
@@ -1006,9 +1006,9 @@
           }
         },
         {
-          "formattedValue": "28.10.2026 · Елена v4: сценарий переписан с содержательными пояснениями, 5 новых фотослоёв, 7 PNG. Ритм, 2 карточки без героини, ракурсы через плечо, смысловые и ассоциативные интерфейсы, маркерные элементы. Социальный CTA на 3-й, основной ресурс МИМ на 7-й. Новая версия на просмотр; v3 ранее принята. Публикация не выполнялась.\nСценарий: https://github.com/dariakamishanova-sys/YoutobeMIM/blob/main/vk-carousel/editorial/05-one-message-elena-2026-10-27.md",
+          "formattedValue": "28.10.2026: PNG Елены v4 не приняты, требуют переработки. Подготовлен текстовый сценарий v5: 8 карточек предварительно, конкретный вопрос на обложке, разные функции карточек, прямая речь только с героиней, пояснения по необходимости. Новая генерация и изменения стиля — после обсуждения сценария.\nСценарий v5: https://drive.google.com/file/d/1lQZqex5QQErxBn95eVdhh31FTfsVfF65/view",
           "userEnteredValue": {
-            "stringValue": "28.10.2026 · Елена v4: сценарий переписан с содержательными пояснениями, 5 новых фотослоёв, 7 PNG. Ритм, 2 карточки без героини, ракурсы через плечо, смысловые и ассоциативные интерфейсы, маркерные элементы. Социальный CTA на 3-й, основной ресурс МИМ на 7-й. Новая версия на просмотр; v3 ранее принята. Публикация не выполнялась.\nСценарий: https://github.com/dariakamishanova-sys/YoutobeMIM/blob/main/vk-carousel/editorial/05-one-message-elena-2026-10-27.md"
+            "stringValue": "28.10.2026: PNG Елены v4 не приняты, требуют переработки. Подготовлен текстовый сценарий v5: 8 карточек предварительно, конкретный вопрос на обложке, разные функции карточек, прямая речь только с героиней, пояснения по необходимости. Новая генерация и изменения стиля — после обсуждения сценария.\nСценарий v5: https://drive.google.com/file/d/1lQZqex5QQErxBn95eVdhh31FTfsVfF65/view"
           },
           "userEnteredFormat": {
             "verticalAlignment": "TOP",
@@ -1020,9 +1020,9 @@
           }
         },
         {
-          "formattedValue": "7 редактируемых SVG: фото, заголовок, пояснение, интерфейсы, маркеры, футер — отдельно. Локальная ретушь кожи на 1 и 7, повторная проверка. Тёмные буквы на зелёной заливке светлых слайдов. Сценарий и промпты: https://drive.google.com/drive/folders/12q6ZmqyrTkxKfijl8XG-ALlQrLwq1laC\nМастер-макеты: https://drive.google.com/drive/folders/1tVkFCIXXwflcxq_e3DQEKF-8Jeq0hdth",
+          "formattedValue": "Исследование обложки и удержания: https://drive.google.com/file/d/1CuEAfKrtqKCK2YmbgzR-EOH7USRyJySo/view\nТребования будущего визуального этапа: прежняя яркая типографика v3, тот же зелёный у маркеров и шрифта, глубина через перекрытия; не шаблон «заголовок + мелкий текст». Эти правки ещё не применены. Дмитрий и Людмила — после утверждения Елены.",
           "userEnteredValue": {
-            "stringValue": "7 редактируемых SVG: фото, заголовок, пояснение, интерфейсы, маркеры, футер — отдельно. Локальная ретушь кожи на 1 и 7, повторная проверка. Тёмные буквы на зелёной заливке светлых слайдов. Сценарий и промпты: https://drive.google.com/drive/folders/12q6ZmqyrTkxKfijl8XG-ALlQrLwq1laC\nМастер-макеты: https://drive.google.com/drive/folders/1tVkFCIXXwflcxq_e3DQEKF-8Jeq0hdth"
+            "stringValue": "Исследование обложки и удержания: https://drive.google.com/file/d/1CuEAfKrtqKCK2YmbgzR-EOH7USRyJySo/view\nТребования будущего визуального этапа: прежняя яркая типографика v3, тот же зелёный у маркеров и шрифта, глубина через перекрытия; не шаблон «заголовок + мелкий текст». Эти правки ещё не применены. Дмитрий и Людмила — после утверждения Елены."
           },
           "userEnteredFormat": {
             "verticalAlignment": "TOP",
@@ -1034,9 +1034,9 @@
           }
         },
         {
-          "formattedValue": "Папка PNG · Елена v4 · 7 карточек",
+          "formattedValue": "PNG v4 · требуют переработки",
           "userEnteredValue": {
-            "stringValue": "Папка PNG · Елена v4 · 7 карточек"
+            "stringValue": "PNG v4 · требуют переработки"
           },
           "userEnteredFormat": {
             "verticalAlignment": "TOP",

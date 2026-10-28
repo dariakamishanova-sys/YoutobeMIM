@@ -1,5 +1,7 @@
 # Зашла ответить на одно сообщение
 
+> После обратной связи 28.10.2026 эта визуальная версия v4 не принята. [Новый текстовый сценарий v5](05-one-message-elena-v5-scenario.md) обсуждается до изменения стиля и новой генерации. Ниже сохранён сценарий, соответствующий существующим PNG v4.
+
 Елена · версия 4 · 28.10.2026 · 7 карточек · **подготовлена для просмотра, не принята**.
 
 [PNG](https://drive.google.com/drive/folders/1uU-J7U1IdToFRJbovMcKWiC7XaK6TmIO) · [Редактируемые SVG и фотослои](https://drive.google.com/drive/folders/1tVkFCIXXwflcxq_e3DQEKF-8Jeq0hdth) · [Сценарий, подпись и промпты](https://drive.google.com/drive/folders/12q6ZmqyrTkxKfijl8XG-ALlQrLwq1laC).
