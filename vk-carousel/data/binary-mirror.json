@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "purpose": "65 публикационных PNG восьми каруселей; Елена v4: 7 SVG и 5 чистых фотослоёв отдельно. PDF только документы и паспорта.",
+  "purpose": "65 публикационных PNG восьми каруселей; Елена v6: 7 SVG, 5 фотослоёв, аватар и шрифт отдельно. PDF только документы и паспорта.",
   "files": [
     {
       "path": "vk-carousel/assets/01-answers-sea/01.png",
@@ -186,101 +186,6 @@
       "path": "vk-carousel/assets/04-busy-result/10.png",
       "sha": "64b173de11351190625cbb17996e82d63696f03e",
       "size": 1887545
-    },
-    {
-      "path": "vk-carousel/assets/05-elena-v4-masters/01.svg",
-      "sha": "6a5a43629b857063246506e6fab762fd547bf6a4",
-      "size": 2087096
-    },
-    {
-      "path": "vk-carousel/assets/05-elena-v4-masters/02.svg",
-      "sha": "5f160baff9aa3376df0ab3ad843a338e57da19f8",
-      "size": 3472
-    },
-    {
-      "path": "vk-carousel/assets/05-elena-v4-masters/03.svg",
-      "sha": "106cd98eb481107dd284f210466705ef351218e5",
-      "size": 2161248
-    },
-    {
-      "path": "vk-carousel/assets/05-elena-v4-masters/04.svg",
-      "sha": "3e38c837a1b2469a2bda2778c9414b7070d100e4",
-      "size": 2082
-    },
-    {
-      "path": "vk-carousel/assets/05-elena-v4-masters/05.svg",
-      "sha": "72df533fc04bb1e9466c869fc2b37e65beac7a38",
-      "size": 2110615
-    },
-    {
-      "path": "vk-carousel/assets/05-elena-v4-masters/06.svg",
-      "sha": "a94770a23fac255dd8426404db064d3fa9a08901",
-      "size": 2068278
-    },
-    {
-      "path": "vk-carousel/assets/05-elena-v4-masters/07.svg",
-      "sha": "1b6c812b7160dfff4fbfc76b9d89972646fad3f6",
-      "size": 2072517
-    },
-    {
-      "path": "vk-carousel/assets/05-elena-v4-masters/Фотооснова-01.png",
-      "sha": "18aa764d39beddd3c63071ae771e6ce514f37a9d",
-      "size": 1563842
-    },
-    {
-      "path": "vk-carousel/assets/05-elena-v4-masters/Фотооснова-03.png",
-      "sha": "cd8d740ffca2aced23c52196895e3ca3ff13a964",
-      "size": 1619185
-    },
-    {
-      "path": "vk-carousel/assets/05-elena-v4-masters/Фотооснова-05.png",
-      "sha": "b8702c4a40d849c1ee0ac510b69cab85b8beb65f",
-      "size": 1580695
-    },
-    {
-      "path": "vk-carousel/assets/05-elena-v4-masters/Фотооснова-06.png",
-      "sha": "0c9a123c8a7d2adf544ddc98a64c6644a4420213",
-      "size": 1549640
-    },
-    {
-      "path": "vk-carousel/assets/05-elena-v4-masters/Фотооснова-07.png",
-      "sha": "211df426119e27e95e58cf10c101d6fbfff17f49",
-      "size": 1552222
-    },
-    {
-      "path": "vk-carousel/assets/05-elena-v4/01.png",
-      "sha": "5687f1ba7827e24b60a499538fb550742d2c4f62",
-      "size": 1725686
-    },
-    {
-      "path": "vk-carousel/assets/05-elena-v4/02.png",
-      "sha": "3b033fa428886af5cefc48675a0bc7117c6d743b",
-      "size": 124358
-    },
-    {
-      "path": "vk-carousel/assets/05-elena-v4/03.png",
-      "sha": "35e401b9ca41979770f90cac04f4a4abd40136cb",
-      "size": 1734685
-    },
-    {
-      "path": "vk-carousel/assets/05-elena-v4/04.png",
-      "sha": "5580e3be5b9fb11902c3cd865d09bd050cb9cc3e",
-      "size": 124387
-    },
-    {
-      "path": "vk-carousel/assets/05-elena-v4/05.png",
-      "sha": "19083ad65f9d35da465ca7a4187d5a98455c287b",
-      "size": 1715793
-    },
-    {
-      "path": "vk-carousel/assets/05-elena-v4/06.png",
-      "sha": "0884961911144129bf16abf5f9e70c98fc447c15",
-      "size": 1756330
-    },
-    {
-      "path": "vk-carousel/assets/05-elena-v4/07.png",
-      "sha": "3b29ad367f2e713301e24d6f8576b268529f7d6b",
-      "size": 1710873
     },
     {
       "path": "vk-carousel/assets/06-dmitry-v2/01.png",
@@ -856,6 +761,111 @@
       "path": "vk-carousel/work-products/МИМ-Критический-разбор-стиля-и-каруселей.pdf",
       "sha": "811eeb0174d096cf5677d18112f2b5906d9152f0",
       "size": 1961751
+    },
+    {
+      "path": "vk-carousel/assets/05-elena-v6/01.png",
+      "sha": "83a4db1119b9ba0066ef238d46b43fa766843f6a",
+      "size": 770328
+    },
+    {
+      "path": "vk-carousel/assets/05-elena-v6/02.png",
+      "sha": "e3714cc0ae6c78b05d1082c478b86c45109e3c97",
+      "size": 750395
+    },
+    {
+      "path": "vk-carousel/assets/05-elena-v6-masters/04.svg",
+      "sha": "5812103b7a473ce3639c53afd2382f3bee03a6de",
+      "size": 1583196
+    },
+    {
+      "path": "vk-carousel/assets/05-elena-v6-masters/05.svg",
+      "sha": "a5e09e8ef1bf0b742b40274ad501971c13c285cb",
+      "size": 69701
+    },
+    {
+      "path": "vk-carousel/assets/05-elena-v6-masters/06.svg",
+      "sha": "ba482b47c66f05cbd38f82f6a83fd51faadad7c4",
+      "size": 2514147
+    },
+    {
+      "path": "vk-carousel/assets/05-elena-v6-masters/07.svg",
+      "sha": "ff4f47d38584553b5bb8091f9955da0f3a50e6d5",
+      "size": 69789
+    },
+    {
+      "path": "vk-carousel/assets/05-elena-v6-masters/photos/01.png",
+      "sha": "6d9ace780308705309135ebcd5f02cfd2f653263",
+      "size": 1809290
+    },
+    {
+      "path": "vk-carousel/assets/05-elena-v6-masters/photos/02.png",
+      "sha": "7ac3376ebeee0d50e383646322d28c495386ba28",
+      "size": 1475406
+    },
+    {
+      "path": "vk-carousel/assets/05-elena-v6-masters/photos/03.png",
+      "sha": "f0f6e5a9ea18c7774e2aed954a6d680d04a13b33",
+      "size": 1827771
+    },
+    {
+      "path": "vk-carousel/assets/05-elena-v6-masters/photos/04.png",
+      "sha": "4b237620be7fd92de49dc6161202a3262c4be2c5",
+      "size": 1136142
+    },
+    {
+      "path": "vk-carousel/assets/05-elena-v6-masters/photos/06.png",
+      "sha": "bac41bb72f906ca99fb8b08704cab4eec84ec8f9",
+      "size": 1835032
+    },
+    {
+      "path": "vk-carousel/assets/05-elena-v6-masters/avatar.png",
+      "sha": "fee819dc82f196a3b4cb121d32eebed949e0901e",
+      "size": 39604
+    },
+    {
+      "path": "vk-carousel/assets/05-elena-v6/03.png",
+      "sha": "8c231134e09b754573d641e277f885666128d0dc",
+      "size": 659997
+    },
+    {
+      "path": "vk-carousel/assets/05-elena-v6-masters/fonts/Manrope-variable.ttf",
+      "sha": "75274da58537d6123b14f2cd0c355ad4681fc2b3",
+      "size": 164700
+    },
+    {
+      "path": "vk-carousel/assets/05-elena-v6/04.png",
+      "sha": "e78300282b08bf7d87b8507c60ad7b680ff531b9",
+      "size": 526075
+    },
+    {
+      "path": "vk-carousel/assets/05-elena-v6/05.png",
+      "sha": "d18762e244f26e1b2b7743dc439674b27765c438",
+      "size": 164606
+    },
+    {
+      "path": "vk-carousel/assets/05-elena-v6/06.png",
+      "sha": "eef2f1260f22b4eb2daff91b7db9f75bbf02807f",
+      "size": 1137398
+    },
+    {
+      "path": "vk-carousel/assets/05-elena-v6/07.png",
+      "sha": "857866f6ff8177ba70c37f4a3017b6f7a9ca23f9",
+      "size": 247786
+    },
+    {
+      "path": "vk-carousel/assets/05-elena-v6-masters/01.svg",
+      "sha": "be69e3adcf04f5a10d1a5d8691d45a589d61b1fa",
+      "size": 2479716
+    },
+    {
+      "path": "vk-carousel/assets/05-elena-v6-masters/02.svg",
+      "sha": "f69357768a15e15407738a2f95649bae74fe4d83",
+      "size": 2035198
+    },
+    {
+      "path": "vk-carousel/assets/05-elena-v6-masters/03.svg",
+      "sha": "7901b412dcd33c39639678c4229a1b10a2846552",
+      "size": 2504878
     }
   ]
 }

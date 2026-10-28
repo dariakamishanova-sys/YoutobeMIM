@@ -978,9 +978,9 @@
     {
       "values": [
         {
-          "formattedValue": "Зашла ответить на одно сообщение",
+          "formattedValue": "Лабиринт чатов и добрых намерений · Елена",
           "userEnteredValue": {
-            "stringValue": "Зашла ответить на одно сообщение"
+            "stringValue": "Лабиринт чатов и добрых намерений · Елена"
           },
           "userEnteredFormat": {
             "verticalAlignment": "TOP",
@@ -992,9 +992,9 @@
           }
         },
         {
-          "formattedValue": "сценарий v5 · на обсуждении",
+          "formattedValue": "v6 · на просмотре",
           "userEnteredValue": {
-            "stringValue": "сценарий v5 · на обсуждении"
+            "stringValue": "v6 · на просмотре"
           },
           "userEnteredFormat": {
             "verticalAlignment": "TOP",
@@ -1006,9 +1006,9 @@
           }
         },
         {
-          "formattedValue": "28.10.2026: PNG Елены v4 не приняты, требуют переработки. Подготовлен текстовый сценарий v5: 8 карточек предварительно, конкретный вопрос на обложке, разные функции карточек, прямая речь только с героиней, пояснения по необходимости. Новая генерация и изменения стиля — после обсуждения сценария.\nСценарий v5: https://drive.google.com/file/d/1lQZqex5QQErxBn95eVdhh31FTfsVfF65/view",
+          "formattedValue": "v6: 7 PNG с лабиринтом из окон интерфейса (утверждён вариант №3). Короткая просьба коллеги; видео «Как не отвлекаться: узнай за минуту»; пересылка и отклики; возврат к документу; точка возврата и IWE. Поиска/статьи нет. Меняются планы, присутствие героя и плотность. Готовая карусель на просмотре, не опубликована.",
           "userEnteredValue": {
-            "stringValue": "28.10.2026: PNG Елены v4 не приняты, требуют переработки. Подготовлен текстовый сценарий v5: 8 карточек предварительно, конкретный вопрос на обложке, разные функции карточек, прямая речь только с героиней, пояснения по необходимости. Новая генерация и изменения стиля — после обсуждения сценария.\nСценарий v5: https://drive.google.com/file/d/1lQZqex5QQErxBn95eVdhh31FTfsVfF65/view"
+            "stringValue": "v6: 7 PNG с лабиринтом из окон интерфейса (утверждён вариант №3). Короткая просьба коллеги; видео «Как не отвлекаться: узнай за минуту»; пересылка и отклики; возврат к документу; точка возврата и IWE. Поиска/статьи нет. Меняются планы, присутствие героя и плотность. Готовая карусель на просмотре, не опубликована."
           },
           "userEnteredFormat": {
             "verticalAlignment": "TOP",
@@ -1020,9 +1020,9 @@
           }
         },
         {
-          "formattedValue": "Исследование обложки и удержания: https://drive.google.com/file/d/1CuEAfKrtqKCK2YmbgzR-EOH7USRyJySo/view\nТребования будущего визуального этапа: прежняя яркая типографика v3, тот же зелёный у маркеров и шрифта, глубина через перекрытия; не шаблон «заголовок + мелкий текст». Эти правки ещё не применены. Дмитрий и Людмила — после утверждения Елены.",
+          "formattedValue": "Сценарий: https://drive.google.com/file/d/1lQZqex5QQErxBn95eVdhh31FTfsVfF65/view\nИсходники SVG и фотослои: https://drive.google.com/drive/folders/1tVkFCIXXwflcxq_e3DQEKF-8Jeq0hdth\nПромпты: https://drive.google.com/file/d/1RUzXII0_XtS3t-RrmFYHQTnhcfJsUIbL/view",
           "userEnteredValue": {
-            "stringValue": "Исследование обложки и удержания: https://drive.google.com/file/d/1CuEAfKrtqKCK2YmbgzR-EOH7USRyJySo/view\nТребования будущего визуального этапа: прежняя яркая типографика v3, тот же зелёный у маркеров и шрифта, глубина через перекрытия; не шаблон «заголовок + мелкий текст». Эти правки ещё не применены. Дмитрий и Людмила — после утверждения Елены."
+            "stringValue": "Сценарий: https://drive.google.com/file/d/1lQZqex5QQErxBn95eVdhh31FTfsVfF65/view\nИсходники SVG и фотослои: https://drive.google.com/drive/folders/1tVkFCIXXwflcxq_e3DQEKF-8Jeq0hdth\nПромпты: https://drive.google.com/file/d/1RUzXII0_XtS3t-RrmFYHQTnhcfJsUIbL/view"
           },
           "userEnteredFormat": {
             "verticalAlignment": "TOP",
@@ -1034,23 +1034,19 @@
           }
         },
         {
-          "formattedValue": "PNG v4 · требуют переработки",
+          "formattedValue": "PNG v6 · 7 карточек",
           "userEnteredValue": {
-            "stringValue": "PNG v4 · требуют переработки"
+            "stringValue": "PNG v6 · 7 карточек"
           },
           "userEnteredFormat": {
             "verticalAlignment": "TOP",
             "wrapStrategy": "WRAP",
             "textFormat": {
               "fontFamily": "Arial",
-              "fontSize": 10,
-              "link": {
-                "uri": "https://drive.google.com/drive/folders/1uU-J7U1IdToFRJbovMcKWiC7XaK6TmIO"
-              }
+              "fontSize": 10
             },
             "hyperlinkDisplayType": "LINKED"
-          },
-          "hyperlink": "https://drive.google.com/drive/folders/1uU-J7U1IdToFRJbovMcKWiC7XaK6TmIO"
+          }
         },
         {
           "userEnteredFormat": {
@@ -1063,9 +1059,9 @@
           }
         },
         {
-          "formattedValue": "Узнать себя, посмеяться и отправить знакомому без нового задания на саморазвитие.",
+          "formattedValue": "Узнать себя, посмеяться и поделиться; взять приём точки возврата и перейти к примеру IWE.",
           "userEnteredValue": {
-            "stringValue": "Узнать себя, посмеяться и отправить знакомому без нового задания на саморазвитие."
+            "stringValue": "Узнать себя, посмеяться и поделиться; взять приём точки возврата и перейти к примеру IWE."
           },
           "userEnteredFormat": {
             "verticalAlignment": "TOP",
