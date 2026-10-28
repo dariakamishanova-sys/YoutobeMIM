@@ -159,6 +159,7 @@ for n in range(1,8):
         body+=layer('04-speech',tx(64,153,'Всё,',116,800,INK,-4)+highlight('ответила.',64,278,112))
         ui=message(64,392,450,119,True,LIME)+tx(91,465,'Хорошо, до завтра.',34,700)+chat_avatar('elena',562,476,33)
         ui+=message(158,551,478,155,False,WHITE)+lines(['Смотри, какая','статья'],188,612,39,52,700)+chat_avatar('dmitry',102,671,34)
+        ui+=message(75,748,474,162,True,LIME)+lines(['Отлично, это то, что','нужно, почитаю.'],103,808,34,48,700)+chat_avatar('elena',600,876,32)
         body+=layer('05-chat',ui)+layer('06-markers',rays(979,496,.8))
         body+=layer('07-clock',clock(943,142,10,10,68))
     elif n==3:
