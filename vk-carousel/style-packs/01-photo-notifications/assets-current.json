@@ -885,9 +885,9 @@
   "carousels": [
     {
       "key": "elena",
-      "name": "Зашла ответить на одно сообщение",
-      "version": 4,
-      "status": "v4 не принята; сценарий v5 на обсуждении",
+      "name": "Лабиринт чатов и добрых намерений · Елена",
+      "version": 6,
+      "status": "v6 · на просмотре",
       "folder_url": "https://drive.google.com/drive/folders/1uU-J7U1IdToFRJbovMcKWiC7XaK6TmIO",
       "files": [
         {
@@ -895,94 +895,96 @@
           "name": "01.png",
           "id": "1B71Z3IRZIKQt5lGe-KED6G0tRQs5mlEJ",
           "mime_type": "image/png",
-          "size": "1725686",
+          "size": 770328,
           "width": 1086,
           "height": 1448,
           "url": "https://drive.google.com/file/d/1B71Z3IRZIKQt5lGe-KED6G0tRQs5mlEJ/view?usp=drivesdk",
-          "repository_path": "vk-carousel/assets/05-elena-v3/01.png",
-          "git_blob_sha": "35ee41f29387ae8384b257cf06c41390af35bec7"
+          "repository_path": "vk-carousel/assets/05-elena-v6/01.png",
+          "git_blob_sha": "83a4db1119b9ba0066ef238d46b43fa766843f6a"
         },
         {
           "order": 2,
           "name": "02.png",
           "id": "1utc7_ywxvkQaF_PQpvYFNsTZoJ_fYOE_",
           "mime_type": "image/png",
-          "size": "124358",
+          "size": 750395,
           "width": 1086,
           "height": 1448,
           "url": "https://drive.google.com/file/d/1utc7_ywxvkQaF_PQpvYFNsTZoJ_fYOE_/view?usp=drivesdk",
-          "repository_path": "vk-carousel/assets/05-elena-v3/02.png",
-          "git_blob_sha": "a1fda7780abedd99dd5c892d5e110b9cfaeb9338"
+          "repository_path": "vk-carousel/assets/05-elena-v6/02.png",
+          "git_blob_sha": "e3714cc0ae6c78b05d1082c478b86c45109e3c97"
         },
         {
           "order": 3,
           "name": "03.png",
           "id": "15aSDPfblUcBMeRlOgJO4b4WFXNYqKUTX",
           "mime_type": "image/png",
-          "size": "1734685",
+          "size": 659997,
           "width": 1086,
           "height": 1448,
           "url": "https://drive.google.com/file/d/15aSDPfblUcBMeRlOgJO4b4WFXNYqKUTX/view?usp=drivesdk",
-          "repository_path": "vk-carousel/assets/05-elena-v3/03.png",
-          "git_blob_sha": "25d18ab5c531de89cafdc5d8846722c4348b814a"
+          "repository_path": "vk-carousel/assets/05-elena-v6/03.png",
+          "git_blob_sha": "8c231134e09b754573d641e277f885666128d0dc"
         },
         {
           "order": 4,
           "name": "04.png",
           "id": "13D9cD7EdgNmzL6aGtxQBap5TOn0EdRef",
           "mime_type": "image/png",
-          "size": "124387",
+          "size": 526075,
           "width": 1086,
           "height": 1448,
           "url": "https://drive.google.com/file/d/13D9cD7EdgNmzL6aGtxQBap5TOn0EdRef/view?usp=drivesdk",
-          "repository_path": "vk-carousel/assets/05-elena-v3/04.png",
-          "git_blob_sha": "b02645588a156e18b21ef4ea8b1f501f88ad490a"
+          "repository_path": "vk-carousel/assets/05-elena-v6/04.png",
+          "git_blob_sha": "e78300282b08bf7d87b8507c60ad7b680ff531b9"
         },
         {
           "order": 5,
           "name": "05.png",
           "id": "1o10W1Tsx85-46qDQFM-_s5sEKio9l5hU",
           "mime_type": "image/png",
-          "size": "1715793",
+          "size": 164606,
           "width": 1086,
           "height": 1448,
           "url": "https://drive.google.com/file/d/1o10W1Tsx85-46qDQFM-_s5sEKio9l5hU/view?usp=drivesdk",
-          "repository_path": "vk-carousel/assets/05-elena-v3/05.png",
-          "git_blob_sha": "22f799b8f181d5bc870bb275e1284709f4b9a781"
+          "repository_path": "vk-carousel/assets/05-elena-v6/05.png",
+          "git_blob_sha": "d18762e244f26e1b2b7743dc439674b27765c438"
         },
         {
           "order": 6,
           "name": "06.png",
           "id": "1rp01zLb6XdZV598ZxARoqhBzoqR41H9b",
           "mime_type": "image/png",
-          "size": "1756330",
+          "size": 1137398,
           "width": 1086,
           "height": 1448,
           "url": "https://drive.google.com/file/d/1rp01zLb6XdZV598ZxARoqhBzoqR41H9b/view?usp=drivesdk",
-          "repository_path": "vk-carousel/assets/05-elena-v3/06.png",
-          "git_blob_sha": "1bd2600e1af974353f7e0b487a6f02c1aa13b961"
+          "repository_path": "vk-carousel/assets/05-elena-v6/06.png",
+          "git_blob_sha": "eef2f1260f22b4eb2daff91b7db9f75bbf02807f"
         },
         {
           "order": 7,
           "name": "07.png",
           "id": "1gCHEIQjMoVu6RaBVPsRBhKZI8LtW9xx9",
           "mime_type": "image/png",
-          "size": "1710873",
+          "size": 247786,
           "width": 1086,
           "height": 1448,
           "url": "https://drive.google.com/file/d/1gCHEIQjMoVu6RaBVPsRBhKZI8LtW9xx9/view?usp=drivesdk",
-          "repository_path": "vk-carousel/assets/05-elena-v3/07.png",
-          "git_blob_sha": "0c6745c1112fb67b922d54e95f9f0b024651d1ef"
+          "repository_path": "vk-carousel/assets/05-elena-v6/07.png",
+          "git_blob_sha": "857866f6ff8177ba70c37f4a3017b6f7a9ca23f9"
         }
       ],
-      "repository_assets_url": "https://github.com/dariakamishanova-sys/YoutobeMIM/tree/main/vk-carousel/assets/05-elena-v4",
+      "repository_assets_url": "https://github.com/dariakamishanova-sys/YoutobeMIM/tree/main/vk-carousel/assets/05-elena-v6",
       "publication_format": "PNG",
       "count": 7,
       "support_folder_url": "https://drive.google.com/drive/folders/12q6ZmqyrTkxKfijl8XG-ALlQrLwq1laC",
       "png_count": 7,
       "master_folder_url": "https://drive.google.com/drive/folders/1tVkFCIXXwflcxq_e3DQEKF-8Jeq0hdth",
       "scenario_draft_url": "https://drive.google.com/file/d/1lQZqex5QQErxBn95eVdhh31FTfsVfF65/view",
-      "research_url": "https://drive.google.com/file/d/1CuEAfKrtqKCK2YmbgzR-EOH7USRyJySo/view"
+      "research_url": "https://drive.google.com/file/d/1CuEAfKrtqKCK2YmbgzR-EOH7USRyJySo/view",
+      "scenario_url": "https://drive.google.com/file/d/1lQZqex5QQErxBn95eVdhh31FTfsVfF65/view",
+      "masters_url": "https://drive.google.com/drive/folders/1tVkFCIXXwflcxq_e3DQEKF-8Jeq0hdth"
     },
     {
       "key": "dmitry",
@@ -1185,5 +1187,5 @@
   "critical_review_pdf_url": "https://drive.google.com/file/d/1WPga8AATlOxKgCo5Vvy-nEsTV8lAXtoz/view",
   "all_carousels_folder_url": "https://drive.google.com/drive/folders/1pBeh4ch400tBnLP8Vqpotcpp6tY9NaXu",
   "carousel_delivery_rule": "Карусель сохраняется и передаётся только как отдельная папка с отдельными изображениями PNG или JPEG. Одна карточка — один файл. Имена 01.png, 02.png, … (либо 01.jpg, 02.jpg, …) задают порядок публикации. В папке карусели только изображения; сценарии, подписи и промпты хранятся отдельно. PDF и ZIP не используются как формат карусели.",
-  "current_focus": "Просмотр содержательной Елены v4. Дмитрий и Людмила — после утверждения Елены."
+  "current_focus": "Просмотр Елены v6: 7 PNG, выбран лабиринт интерфейсов №3. Дмитрий и Людмила — после принятия Елены."
 }
