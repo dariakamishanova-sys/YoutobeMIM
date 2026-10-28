@@ -1,0 +1,102 @@
+[
+  {
+    "n": 1,
+    "theme": "dark",
+    "mode": "Обложка · средний план",
+    "title": [
+      "Зашла ответить",
+      "на одно сообщение"
+    ],
+    "accent": 1,
+    "body": "Елена хотела уточнить встречу и вернуться к черновику. Но у каждого «быстро» нашлось продолжение.",
+    "ui": "Встречу переносим на завтра?",
+    "scene": "Medium three-quarter Elena seated lower RIGHT at a plain desk, short stable dark wavy bob and white blouse; lively interested small smile, looking at a phone held in right hand. Laptop plain back at lower LEFT. All photographic content below y=740; face top at y=760. Leave left x=60..530 y=650..850 free for separate notification overlay. No UI or text generated.",
+    "key": "elena-01"
+  },
+  {
+    "n": 2,
+    "theme": "gray",
+    "mode": "Без персонажа · сообщения",
+    "title": [
+      "Ответила.",
+      "Тут ещё один чат."
+    ],
+    "accent": null,
+    "body": "Первый вопрос закрыт. В соседнем чате коллеги обсуждают новость, и Елене хочется включиться. Ещё пара ответов — и можно возвращаться.",
+    "ui": "Хорошо / Посмотри, что прислали / несколько чатов и счётчики непрочитанных",
+    "scene": "Vector phone and stacked chat panels. No person. Recognizable multiple unread conversations express a growing queue; meaningful associative interface, no random decoration.",
+    "key": "elena-02"
+  },
+  {
+    "n": 3,
+    "theme": "gray",
+    "mode": "Общий план · профиль",
+    "title": [
+      "Всего на минуту."
+    ],
+    "accent": 0,
+    "body": "Ролик короткий. За ним идут обсуждение и ответ коллегам. Елену удерживает уже не видео, а разговор вокруг него.",
+    "ui": "Видео · 00:58",
+    "scene": "Wide full seated Elena in near PROFILE in lower RIGHT, chair and dark-trouser legs and black loafers visible, laughing warmly at phone video. White blouse, short stable voluminous wavy dark bob. All photographic content below y=740, tiny head at y=770. Simple chair plus small desk edge, flat gray backdrop, no detailed room. Leave lower LEFT x=60..470 y=710..1050 clear for a separate video thumbnail and hand-drawn clock. No baked text/UI.",
+    "key": "elena-03",
+    "cta": "Перешлите тому, кто тоже «на минутку»."
+  },
+  {
+    "n": 4,
+    "theme": "dark",
+    "mode": "Текстовая пауза · без персонажа",
+    "title": [
+      "Сначала разберусь",
+      "с вниманием."
+    ],
+    "accent": 1,
+    "body": "Елена замечает, что отвлеклась, и ищет совет. Теперь у неё новая задача: сначала разобраться, как вернуться к прежней. Поиск решения становится ещё одной остановкой.",
+    "ui": "как перестать отвлекаться",
+    "scene": "Fully vector typographic interlude, one meaningful search box and small hand-drawn route turn, no person.",
+    "key": "elena-04"
+  },
+  {
+    "n": 5,
+    "theme": "gray",
+    "mode": "Сверху через плечо · действие",
+    "title": [
+      "Это я потом",
+      "перечитаю."
+    ],
+    "accent": 1,
+    "body": "Полезная статья отправляется в закладки. Сохранить её быстро, а разобраться — отдельное дело. Елена пока только оставила себе материал; к начатому тексту она ещё не вернулась.",
+    "ui": "Как вернуть внимание / Добавлено",
+    "scene": "High oblique OVER-THE-SHOULDER angle Elena from behind-left in lower half, shoulder and short dark wavy bob visible at lower LEFT, small side cheek only. Both hands hold a real plain black phone at lower RIGHT with SCREEN facing HER and camera physically correctly. Screen is COMPLETELY BLANK WHITE for later editable overlay, not on its back. Phone nearly frontal with very slight angle, no extreme perspective. Plain white desk isolated on flat light gray backdrop. All photo below y=760. No generated text or UI.",
+    "key": "elena-05"
+  },
+  {
+    "n": 6,
+    "theme": "dark",
+    "mode": "Со спины через плечо · возвращение",
+    "title": [
+      "На столе —",
+      "всё тот же абзац."
+    ],
+    "accent": 1,
+    "body": "Переписки закончились, но приходится заново вспоминать, какую мысль она собиралась развить. Работа осталась прежней, а место, с которого было удобно продолжить, потерялось.",
+    "ui": "Начать стоит с…",
+    "scene": "Wide OVER-THE-SHOULDER back view Elena at desk lower RIGHT, short dark wavy bob, white blouse, one palm open in mildly comic disappointment. Real open laptop lower LEFT screen facing HER and camera from behind her shoulder, SCREEN COMPLETELY BLANK WHITE for later editable interface. Plain blank phone lies face down. All photo below y=730; head starts y=750. Top y<680 empty flat graphite. No generated text/UI or symbols.",
+    "key": "elena-06"
+  },
+  {
+    "n": 7,
+    "theme": "gray",
+    "mode": "Финал · крупная реакция и заметка",
+    "title": [
+      "План был коротким.",
+      "Маршрут — нет."
+    ],
+    "accent": 1,
+    "body": "Елена пробует оставлять рядом с черновиком строку о следующем шаге. В IWE можно организовать материалы и решения проекта так, чтобы использовать их в следующей сессии.",
+    "ui": "Следующий шаг / Дописать вывод к примеру",
+    "cta": "Посмотрите, как устроена IWE для своих проектов. Ссылка в подписи.",
+    "scene": "Close portrait of Elena in lower RIGHT no more than 45% width and 40% height, warm self-ironic facepalm and an awkward little laugh, hand not hiding whole face. Identity short dark wavy bob, white blouse, small hoop earrings. Face begins below y=860. Leave lower LEFT clear for a separate small note. Flat light warm gray. No devices, interfaces, props, text or decorative symbols.",
+    "key": "elena-07",
+    "resource_url": "https://system-school.ru/work-with-ai"
+  }
+]

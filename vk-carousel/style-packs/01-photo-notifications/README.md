@@ -1,4 +1,13 @@
 # МИМ: актуальный пак стиля и персонажи
+
+## Текущая работа · 28.10.2026
+
+Елена v4 переписана с поясняющим содержательным текстом и собрана заново: 7 PNG, 7 редактируемых SVG, 5 отдельных фотослоёв. **Подготовлена для просмотра; не принята.** Предыдущая v3 была принята. Дмитрий v2 и Людмила v2 остаются текущими файлами; их переработка приостановлена до утверждения Елены.
+
+Утверждены правила цвета, смысловых и ассоциативных интерфейсов, маркерных знаков, ритма, содержательной плотности, постоянного/переменного, индивидуальности героев и порядка исправлений. Для каруселей принято явное исключение из LPF: социальный CTA в середине, главный переход к ресурсу МИМ в финале.
+
+[Елена: PNG](https://drive.google.com/drive/folders/1uU-J7U1IdToFRJbovMcKWiC7XaK6TmIO) · [Исходники](https://drive.google.com/drive/folders/1tVkFCIXXwflcxq_e3DQEKF-8Jeq0hdth) · [Решения сессии](https://github.com/dariakamishanova-sys/YoutobeMIM/blob/main/vk-carousel/work-products/2026-10-28-style-decisions-and-elena-v4.md).
+
 ## Формат каруселей · правило 28.10.2026
 
 Карусель сохраняется и передаётся только как отдельная папка с отдельными изображениями PNG или JPEG. Одна карточка — один файл. Имена 01.png, 02.png, … (либо 01.jpg, 02.jpg, …) задают порядок публикации. В папке карусели только изображения; сценарии, подписи и промпты хранятся отдельно. PDF и ZIP не используются как формат карусели.
@@ -19,7 +28,7 @@
 
 ## Карусели
 
-- **Зашла ответить на одно сообщение**, версия 3, принята. [Папка PNG](https://drive.google.com/drive/folders/1uU-J7U1IdToFRJbovMcKWiC7XaK6TmIO) · [Все файлы](https://drive.google.com/drive/folders/1uU-J7U1IdToFRJbovMcKWiC7XaK6TmIO).
+- **Зашла ответить на одно сообщение**, версия 4, на просмотр; прежняя v3 была принята. [Папка PNG](https://drive.google.com/drive/folders/1uU-J7U1IdToFRJbovMcKWiC7XaK6TmIO) · [Все файлы](https://drive.google.com/drive/folders/1uU-J7U1IdToFRJbovMcKWiC7XaK6TmIO).
 - **Все задачи закрыты. Обязательно ли искать новые?**, версия 2, принята. [Папка PNG](https://drive.google.com/drive/folders/1jnJvB_xcfzn49pMcduIqaFvGaG3_YUlq) · [Все файлы](https://drive.google.com/drive/folders/1jnJvB_xcfzn49pMcduIqaFvGaG3_YUlq).
 - **Прогресс, который не попал в отчёт**, версия 2, подготовлена для просмотра. [Папка PNG](https://drive.google.com/drive/folders/14luFLx1v9Yot291wVLamVLTNZGvarCnM) · [Все файлы](https://drive.google.com/drive/folders/14luFLx1v9Yot291wVLamVLTNZGvarCnM).
 
@@ -38,3 +47,4 @@
 ## Критический разбор и предложения
 
 [Разбор дизайна, маркетинга и сверка с LPF ЛР](https://drive.google.com/file/d/1WPga8AATlOxKgCo5Vvy-nEsTV8lAXtoz/view). Это рекомендации; они не меняют утверждённый стиль автоматически.
+
