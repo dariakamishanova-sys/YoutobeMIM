@@ -19,7 +19,7 @@ pdf_fonts=R/'pdf-fonts';pdf_fonts.mkdir(exist_ok=True)
 for weight,name,alias in [(500,'Medium','M'),(700,'Bold','MB'),(800,'ExtraBold','MX')]:
     f=instantiateVariableFont(FTFont(FONT/'Manrope-variable.ttf'),{'wght':weight},inplace=False)
     # Unique embedded PostScript names prevent ReportLab from deduplicating different weights.
-    names={1:'Manrope Guide',2:name,3:'ManropeGuide-'+name+'-2.2',4:'Manrope Guide '+name,6:'ManropeGuide-'+name}
+    names={1:'Manrope Guide',2:name,3:'ManropeGuide-'+name+'-2.3',4:'Manrope Guide '+name,6:'ManropeGuide-'+name}
     for rec in f['name'].names:
         if rec.nameID in names:rec.string=names[rec.nameID].encode(rec.getEncoding())
     dest=pdf_fonts/f'Manrope-{name}.ttf';f.save(dest)
@@ -63,7 +63,7 @@ def picture(source,key,w,h):
 catalog=json.loads((R/'catalog.json').read_text()) if (R/'catalog.json').exists() else json.loads((R/'assets-current.json').read_text())
 guide=(R/'STYLE-GUIDE.md').read_text()
 
-story=[Spacer(1,20),Ptxt('МИМ · РУКОВОДСТВО ДЛЯ КРЕАТОРА',CW),Spacer(1,15),Paragraph('Фото,<br/>интерфейсы<br/>и <font color="'+LIME+'">персонажи</font>',COVER),Ptxt('Стиль 2.2 · 28 октября 2026',CW),Spacer(1,5),Ptxt('Сценарий, типографика, интерфейсы, характеры героев, качество и редактируемые исходники.',CW),Spacer(1,17)]
+story=[Spacer(1,20),Ptxt('МИМ · РУКОВОДСТВО ДЛЯ КРЕАТОРА',CW),Spacer(1,15),Paragraph('Фото,<br/>интерфейсы<br/>и <font color="'+LIME+'">персонажи</font>',COVER),Ptxt('Стиль 2.3 · 29 октября 2026',CW),Spacer(1,5),Ptxt('Сценарий, типографика, интерфейсы, характеры героев, качество и редактируемые исходники.',CW),Spacer(1,17)]
 thumbs=[picture(ASSETS/f'{n:02}.png',f'cover-{n}',150,200) for n in [1,3,6]]
 tab=Table([thumbs],colWidths=[166,166,166]);tab.setStyle(TableStyle([('VALIGN',(0,0),(-1,-1),'TOP'),('LEFTPADDING',(0,0),(-1,-1),0)]));story+=[tab,Spacer(1,24)]
 buttons=Table([[Ptxt('[Открыть весь пак]('+catalog['style_folder']+')',P),Ptxt('[Краткий бриф](https://drive.google.com/file/d/13Orjey9rmrKkZXidAAxca81-BD4Sma6v/view)',P)]],colWidths=[249,249]);buttons.setStyle(TableStyle([('BACKGROUND',(0,0),(-1,-1),colors.HexColor(LIME)),('TOPPADDING',(0,0),(-1,-1),11),('BOTTOMPADDING',(0,0),(-1,-1),4)]));story+=[buttons,PageBreak()]
@@ -95,8 +95,8 @@ for sec in sections:
     story+=blocks(body)
 
 def page(can,doc):
-    can.saveState();can.setFillColor(colors.HexColor(DARK if doc.page==1 else GRAY));can.rect(0,0,595.28,841.89,fill=1,stroke=0);can.setFillColor(colors.HexColor('#B6C0C5' if doc.page==1 else '#596269'));can.setFont('M',8);can.drawString(42,22,'МИМ · стиль 2.2 · 28.10.2026');can.drawRightString(553,22,str(doc.page));can.restoreState()
-dest=R/'МИМ-Стиль-и-персонажи-v2.2.pdf'
-doc=SimpleDocTemplate(str(dest),pagesize=(595.28,841.89),leftMargin=42,rightMargin=42,topMargin=35,bottomMargin=43,title='МИМ — руководство по стилю 2.2',author='МИМ · редакционный проект')
+    can.saveState();can.setFillColor(colors.HexColor(DARK if doc.page==1 else GRAY));can.rect(0,0,595.28,841.89,fill=1,stroke=0);can.setFillColor(colors.HexColor('#B6C0C5' if doc.page==1 else '#596269'));can.setFont('M',8);can.drawString(42,22,'МИМ · стиль 2.3 · 29.10.2026');can.drawRightString(553,22,str(doc.page));can.restoreState()
+dest=R/'МИМ-Стиль-и-персонажи-v2.3.pdf'
+doc=SimpleDocTemplate(str(dest),pagesize=(595.28,841.89),leftMargin=42,rightMargin=42,topMargin=35,bottomMargin=43,title='МИМ — руководство по стилю 2.3',author='МИМ · редакционный проект')
 doc.build(story,onFirstPage=page,onLaterPages=page)
 print(str(dest),dest.stat().st_size)
