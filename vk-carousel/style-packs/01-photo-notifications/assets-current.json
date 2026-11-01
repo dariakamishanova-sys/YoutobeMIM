@@ -1114,7 +1114,7 @@
           "name": "02.png",
           "id": "1kiIJ3y8yiduOnAVYNEskTICh0c8khCPg",
           "mime_type": "image/png",
-          "size": 776130,
+          "size": 776432,
           "width": 1086,
           "height": 1448,
           "url": "https://drive.google.com/file/d/1kiIJ3y8yiduOnAVYNEskTICh0c8khCPg/view?usp=drivesdk",
@@ -1138,7 +1138,7 @@
           "name": "04.png",
           "id": "1ucQgrLRodRcRnIuz4a58lrCK2iBin4Oa",
           "mime_type": "image/png",
-          "size": 224085,
+          "size": 224106,
           "width": 1086,
           "height": 1448,
           "url": "https://drive.google.com/file/d/1ucQgrLRodRcRnIuz4a58lrCK2iBin4Oa/view?usp=drivesdk",
@@ -1162,7 +1162,7 @@
           "name": "06.png",
           "id": "1pZ04zETnIOfj4kUEoo7LdL0bcrHlJjin",
           "mime_type": "image/png",
-          "size": 380390,
+          "size": 388377,
           "width": 1086,
           "height": 1448,
           "url": "https://drive.google.com/file/d/1pZ04zETnIOfj4kUEoo7LdL0bcrHlJjin/view?usp=drivesdk",
@@ -1174,7 +1174,7 @@
           "name": "07.png",
           "id": "1KON2oP4AO_RE20SsxZ3njxiwo4NuOfyh",
           "mime_type": "image/png",
-          "size": 215165,
+          "size": 215249,
           "width": 1086,
           "height": 1448,
           "url": "https://drive.google.com/file/d/1KON2oP4AO_RE20SsxZ3njxiwo4NuOfyh/view?usp=drivesdk",
@@ -1191,7 +1191,8 @@
         "status": "подготовлена для просмотра",
         "repository_assets_url": "https://github.com/dariakamishanova-sys/YoutobeMIM/tree/main/vk-carousel/assets/07-lyudmila-v2"
       },
-      "package_folder_url": "https://drive.google.com/drive/folders/1jxTjh5WLwuBWUbMSom5VL5gbLQ-rpXHS"
+      "package_folder_url": "https://drive.google.com/drive/folders/1jxTjh5WLwuBWUbMSom5VL5gbLQ-rpXHS",
+      "last_visual_revision": "01.11.2026, второй проход: сообщение на 02, окна 04, стрелка 06, отступы CTA 07; текст сохранён."
     }
   ],
   "style_pdf_url": "https://drive.google.com/file/d/1xb_UKc60e3IY_Ugwb0Ed-J0O0meFenhO/view",
