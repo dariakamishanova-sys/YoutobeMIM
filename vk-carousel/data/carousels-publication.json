@@ -3,8 +3,8 @@
   "hub_url": "https://drive.google.com/drive/folders/1kQGQrqJCr6FbtFmKCBZ7iTSFxpKQc9v-",
   "support_hub_url": "https://drive.google.com/drive/folders/1kQGQrqJCr6FbtFmKCBZ7iTSFxpKQc9v-",
   "delivery_rule": "Одна карусель — одна папка со сценарием и исходниками; внутри отдельная подпапка «Карточки» только с PNG/JPEG 01–NN в порядке публикации. PDF/ZIP не используются как формат карусели.",
-  "carousel_count": 8,
-  "image_count": 64,
+  "carousel_count": 9,
+  "image_count": 73,
   "carousels": [
     {
       "index": 1,
@@ -978,100 +978,230 @@
     },
     {
       "index": 8,
-      "title": "К 30 годам я планировала успеть ещё и пожить",
-      "status": "оформлен",
-      "folder_url": "https://drive.google.com/drive/folders/1IxLn9_fbDkArz_CiyzjGrNZVZa5sFnI1",
+      "title": "К 30 годам — всё по списку. А дальше? · Ася",
+      "status": "готова к редакторской проверке",
+      "folder_url": "https://drive.google.com/drive/folders/1Qkz7vlA4jggp96TWn6H8arNaVJoFe22K",
       "format": "PNG",
       "count": 7,
       "files": [
         {
           "order": 1,
           "name": "01.png",
-          "id": "1N7ShyvRO7F6RhIy8vuVipBSGo8yBhPzt",
+          "id": "1z-pPMSD3WMeh5lWdD-N1BRJm-bq_vZ4X",
           "mime_type": "image/png",
-          "size": 2017653,
-          "width": 1122,
-          "height": 1402,
-          "url": "https://drive.google.com/file/d/1N7ShyvRO7F6RhIy8vuVipBSGo8yBhPzt/view?usp=drivesdk",
-          "repository_path": "vk-carousel/assets/08-before-thirty/01.png",
-          "git_blob_sha": "02a7d43ddcb620b5f0f1de4dcfa3c0e7cca4cc0c"
+          "width": 1086,
+          "height": 1448,
+          "sha256": "3d83d2caac94e780fe895eedf022e846f0f07b31f7168cc3096ef60f0b1f1a4c",
+          "url": "https://drive.google.com/file/d/1z-pPMSD3WMeh5lWdD-N1BRJm-bq_vZ4X/view?usp=drivesdk",
+          "repository_binary_mirrored": false
         },
         {
           "order": 2,
           "name": "02.png",
-          "id": "1MYOwPCT-ENN_kYuikLnRelpS1S154lFT",
+          "id": "1aUhiD0ZvpuyBHSBhxBSt4zrNqm4tpUBd",
           "mime_type": "image/png",
-          "size": 1939978,
-          "width": 1122,
-          "height": 1402,
-          "url": "https://drive.google.com/file/d/1MYOwPCT-ENN_kYuikLnRelpS1S154lFT/view?usp=drivesdk",
-          "repository_path": "vk-carousel/assets/08-before-thirty/02.png",
-          "git_blob_sha": "326e3c1859676bbfdfb918927fdceca6d000809a"
+          "width": 1086,
+          "height": 1448,
+          "sha256": "909d0db3c34f476368e4320ddb7bbac252eacdb095bf98ca862c7ffd6c12e660",
+          "url": "https://drive.google.com/file/d/1aUhiD0ZvpuyBHSBhxBSt4zrNqm4tpUBd/view?usp=drivesdk",
+          "repository_binary_mirrored": false
         },
         {
           "order": 3,
           "name": "03.png",
-          "id": "13YeVO_ZGWMRaV_jwVTqTgcB063mLgykl",
+          "id": "1JX931X32D7dxgRf3xP5Ap0-SDjiOmUW0",
           "mime_type": "image/png",
-          "size": 2149401,
-          "width": 1122,
-          "height": 1402,
-          "url": "https://drive.google.com/file/d/13YeVO_ZGWMRaV_jwVTqTgcB063mLgykl/view?usp=drivesdk",
-          "repository_path": "vk-carousel/assets/08-before-thirty/03.png",
-          "git_blob_sha": "7e24f5e5bce70af4741f3f57a36bfa8a4d1e6816"
+          "width": 1086,
+          "height": 1448,
+          "sha256": "475449f173decac4c27177b801bf11fe4ebc73524cc0bfc009292cdf8bd10411",
+          "url": "https://drive.google.com/file/d/1JX931X32D7dxgRf3xP5Ap0-SDjiOmUW0/view?usp=drivesdk",
+          "repository_binary_mirrored": false
         },
         {
           "order": 4,
           "name": "04.png",
-          "id": "1KTD-VZClDe0x6QUeOmk_hZmVdNxUcKho",
+          "id": "19SYX9gNJrUjmiWLPQmlqxubg1xp4iWOO",
           "mime_type": "image/png",
-          "size": 2053671,
-          "width": 1122,
-          "height": 1402,
-          "url": "https://drive.google.com/file/d/1KTD-VZClDe0x6QUeOmk_hZmVdNxUcKho/view?usp=drivesdk",
-          "repository_path": "vk-carousel/assets/08-before-thirty/04.png",
-          "git_blob_sha": "400e512e429568fedcb48e1ece41be21efebc234"
+          "width": 1086,
+          "height": 1448,
+          "sha256": "7d0dd3464bb4728a66f048185cb9493d475f6195d7e8fcb33c4597fdb34ad0a5",
+          "url": "https://drive.google.com/file/d/19SYX9gNJrUjmiWLPQmlqxubg1xp4iWOO/view?usp=drivesdk",
+          "repository_binary_mirrored": false
         },
         {
           "order": 5,
           "name": "05.png",
-          "id": "1OlMWe6bVfvA1eZ61bV0BAu-Rc7TPy-ck",
+          "id": "19joYxh97TjKg_0PYn3ds9zp1hFB0Pfz5",
           "mime_type": "image/png",
-          "size": 2182154,
-          "width": 1122,
-          "height": 1402,
-          "url": "https://drive.google.com/file/d/1OlMWe6bVfvA1eZ61bV0BAu-Rc7TPy-ck/view?usp=drivesdk",
-          "repository_path": "vk-carousel/assets/08-before-thirty/05.png",
-          "git_blob_sha": "91136349e6758423662661d3588409cdb3b0b1b5"
+          "width": 1086,
+          "height": 1448,
+          "sha256": "cf0b118adb6a53277f541fb5f6fab1843c498368f39e70fa09baa21f98c46fc1",
+          "url": "https://drive.google.com/file/d/19joYxh97TjKg_0PYn3ds9zp1hFB0Pfz5/view?usp=drivesdk",
+          "repository_binary_mirrored": false
         },
         {
           "order": 6,
           "name": "06.png",
-          "id": "1U8W6e6t37-MDpvcD-HubnOLCymZds_N0",
+          "id": "10G6zrNqB0_WHjVRcLSnp7vrK-I8v1RpY",
           "mime_type": "image/png",
-          "size": 2123351,
-          "width": 1122,
-          "height": 1402,
-          "url": "https://drive.google.com/file/d/1U8W6e6t37-MDpvcD-HubnOLCymZds_N0/view?usp=drivesdk",
-          "repository_path": "vk-carousel/assets/08-before-thirty/06.png",
-          "git_blob_sha": "7444e5cab0e3a0d85bf3e278674cb684a1126723"
+          "width": 1086,
+          "height": 1448,
+          "sha256": "b75ea45a7f8aab05126938e65abf9d6879a914692a02b648d6cf250bcc845645",
+          "url": "https://drive.google.com/file/d/10G6zrNqB0_WHjVRcLSnp7vrK-I8v1RpY/view?usp=drivesdk",
+          "repository_binary_mirrored": false
         },
         {
           "order": 7,
           "name": "07.png",
-          "id": "1CNwOw215ZbpyB1sTlGy4WgYlVStu3Kae",
+          "id": "1pddAohDuimwRhCIYo8tVjUe-vs7euq9b",
           "mime_type": "image/png",
-          "size": 2078387,
-          "width": 1122,
-          "height": 1402,
-          "url": "https://drive.google.com/file/d/1CNwOw215ZbpyB1sTlGy4WgYlVStu3Kae/view?usp=drivesdk",
-          "repository_path": "vk-carousel/assets/08-before-thirty/07.png",
-          "git_blob_sha": "a6beddfc43729c41281626d8f5be8e51331beb28"
+          "width": 1086,
+          "height": 1448,
+          "sha256": "f35b5c6493a505539573f5c795c5c73cb954dded5af7739723de41fe9b6c3e6f",
+          "url": "https://drive.google.com/file/d/1pddAohDuimwRhCIYo8tVjUe-vs7euq9b/view?usp=drivesdk",
+          "repository_binary_mirrored": false
         }
       ],
       "support_folder_url": "https://drive.google.com/drive/folders/16WfEOOl8nJMsSrA0qKp0OlK4ht6bxTRu",
-      "package_folder_url": "https://drive.google.com/drive/folders/16WfEOOl8nJMsSrA0qKp0OlK4ht6bxTRu"
+      "package_folder_url": "https://drive.google.com/drive/folders/16WfEOOl8nJMsSrA0qKp0OlK4ht6bxTRu",
+      "style": "02-visual-notes / yellow",
+      "scenario_url": "https://drive.google.com/file/d/1KPUQBnGfRiPF4kHvrlBePnwbsd4DTrHY/view",
+      "source_folder_url": "https://drive.google.com/drive/folders/1R_IliEiFua1_f5DaITbA1KLlyvEKpuaN",
+      "obsolete_drive_images_deleted": "7 previous PNG deleted at editor's request01.11.2026; old GitHub binary mirror is historical"
+    },
+    {
+      "index": 9,
+      "title": "Календарь расширил. Сутки — нет · Артём",
+      "status": "готова к редакторской проверке",
+      "folder_url": "https://drive.google.com/drive/folders/1My-DWMe37SO133CRDbgOZQThe3Iy6rwK",
+      "format": "PNG",
+      "count": 9,
+      "files": [
+        {
+          "order": 1,
+          "name": "01.png",
+          "id": "1-RwlcLi7I63Lcpgv_l7KobTA__U9b427",
+          "mime_type": "image/png",
+          "width": 1086,
+          "height": 1448,
+          "sha256": "7efeb572ac2c551391505a8cf36d9f1a84a38f3c4489c5197e55ce7dcacfb8c8",
+          "url": "https://drive.google.com/file/d/1-RwlcLi7I63Lcpgv_l7KobTA__U9b427/view?usp=drivesdk",
+          "size": 1530498,
+          "repository_binary_mirrored": false
+        },
+        {
+          "order": 2,
+          "name": "02.png",
+          "id": "1SzKa_7RO8qERlRKQVk6x8y75P1jEvKd_",
+          "mime_type": "image/png",
+          "width": 1086,
+          "height": 1448,
+          "sha256": "2e760e26953babe868007ca8f0f5ed261cdd4b9f9c440b9442e7d063ed97af01",
+          "url": "https://drive.google.com/file/d/1SzKa_7RO8qERlRKQVk6x8y75P1jEvKd_/view?usp=drivesdk",
+          "size": 1755652,
+          "repository_binary_mirrored": false
+        },
+        {
+          "order": 3,
+          "name": "03.png",
+          "id": "1oMVet2uUNA590dseRHLD3t-OyfrRjpyi",
+          "mime_type": "image/png",
+          "width": 1086,
+          "height": 1448,
+          "sha256": "5619ef76df79597935a820ef074c46b33a30bcdcd386896f0778987e2815732e",
+          "url": "https://drive.google.com/file/d/1oMVet2uUNA590dseRHLD3t-OyfrRjpyi/view?usp=drivesdk",
+          "size": 1493357,
+          "repository_binary_mirrored": false
+        },
+        {
+          "order": 4,
+          "name": "04.png",
+          "id": "11TFI3PvuArj397f6RyCSR8U29eVp6nwW",
+          "mime_type": "image/png",
+          "width": 1086,
+          "height": 1448,
+          "sha256": "cb938adade859905184dc265e053097a9d9fa208d3b8f74cd064cda60e96f8f4",
+          "url": "https://drive.google.com/file/d/11TFI3PvuArj397f6RyCSR8U29eVp6nwW/view?usp=drivesdk",
+          "size": 1501753,
+          "repository_binary_mirrored": false
+        },
+        {
+          "order": 5,
+          "name": "05.png",
+          "id": "1Bt5ZfpDUIzPZqtXG5ouYDYvN_i0aW0rq",
+          "mime_type": "image/png",
+          "width": 1086,
+          "height": 1448,
+          "sha256": "cbe5bf541e5fe700781f75f48cf575b1560065ccd9429fe75fcb3d354b3ab7f8",
+          "url": "https://drive.google.com/file/d/1Bt5ZfpDUIzPZqtXG5ouYDYvN_i0aW0rq/view?usp=drivesdk",
+          "size": 1469425,
+          "repository_binary_mirrored": false
+        },
+        {
+          "order": 6,
+          "name": "06.png",
+          "id": "197g5C32PEitSwDwqasMWohRxwP2yK5Wc",
+          "mime_type": "image/png",
+          "width": 1086,
+          "height": 1448,
+          "sha256": "4eeca7b950a65122a2de243fff245ba207a1a6558d9e125387795e063ee47958",
+          "url": "https://drive.google.com/file/d/197g5C32PEitSwDwqasMWohRxwP2yK5Wc/view?usp=drivesdk",
+          "size": 1703689,
+          "repository_binary_mirrored": false
+        },
+        {
+          "order": 7,
+          "name": "07.png",
+          "id": "1ZL_LZsZRhVA1eirMd-SvEKAUzHmSfAH6",
+          "mime_type": "image/png",
+          "width": 1086,
+          "height": 1448,
+          "sha256": "bce3466f42da966838c95845f82589c050f47802bdd41663f4b2811e8c11f540",
+          "url": "https://drive.google.com/file/d/1ZL_LZsZRhVA1eirMd-SvEKAUzHmSfAH6/view?usp=drivesdk",
+          "size": 1522531,
+          "repository_binary_mirrored": false
+        },
+        {
+          "order": 8,
+          "name": "08.png",
+          "id": "18Q9vI2nESPeffFKlciwGMjzLCrrsfeIW",
+          "mime_type": "image/png",
+          "width": 1086,
+          "height": 1448,
+          "sha256": "74e9dcb46a6e2e32034b801a8fdaf4f9a2453482c0c5e42325e10069b337696a",
+          "url": "https://drive.google.com/file/d/18Q9vI2nESPeffFKlciwGMjzLCrrsfeIW/view?usp=drivesdk",
+          "size": 1560598,
+          "repository_binary_mirrored": false
+        },
+        {
+          "order": 9,
+          "name": "09.png",
+          "id": "17QaiPqHwCiP_-UqwDOG-xJgvK3rh4UfI",
+          "mime_type": "image/png",
+          "width": 1086,
+          "height": 1448,
+          "sha256": "9538428880282a177c3a2acbf7758e870e8ba2683574aab93f493f047316804f",
+          "url": "https://drive.google.com/file/d/17QaiPqHwCiP_-UqwDOG-xJgvK3rh4UfI/view?usp=drivesdk",
+          "size": 1578574,
+          "repository_binary_mirrored": false
+        }
+      ],
+      "package_folder_url": "https://drive.google.com/drive/folders/1HhJPyvDE5srgJxRVpgsOevcqsVdZaCCp",
+      "source_folder_url": "https://drive.google.com/drive/folders/10p93LLyksxqCaowWGs4FnpXTRkM-ykWw",
+      "scenario_url": "https://drive.google.com/file/d/13NC9AiyW42HKE101mKAILUJbR0RWThoo/view",
+      "style": "02-visual-notes / violet",
+      "editor_decision": "Author approved her text without suggested DPF/LPF rewrites. No publication."
     }
   ],
-  "repository_mirror_note": "Сохранённые repository_path/git_blob_sha описывают прежнюю бинарную копию. Для текущих Дмитрия v4 и Людмилы v3 актуальные PNG находятся на Диске; новая бинарная копия в GitHub в этой операции не создавалась."
+  "repository_mirror_note": "Current PNG for new Asya and Artem series are on Drive. GitHub binary mirror remains historical and is not current delivery. Texts, decisions, links and this manifest synchronized01.11.2026.",
+  "next_session_date": "2026-11-03",
+  "pending_scenarios": [
+    {
+      "index": 10,
+      "title": "«Что-то не то». Какой вопрос задать первым? · Вера",
+      "status": "сценарий v2.6 на проверке; изображения не генерировались",
+      "scenario_url": "https://drive.google.com/file/d/1A0R8YYCZ1LNM9u0AnisPB9PUi-pUGWuE/view",
+      "package_folder_url": "https://drive.google.com/drive/folders/15yfALDtrvBx2BJCYt2nogaKSVhH-jGGh"
+    }
+  ]
 }
