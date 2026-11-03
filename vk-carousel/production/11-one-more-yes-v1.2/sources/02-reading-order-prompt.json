@@ -1,0 +1,7 @@
+{
+  "prompt": "Edit this Russian comic card02/09 with a VERY LOCAL lettering-layout correction. Keep both panels, all drawing, identities, colors, folder transfer, single hand-detail accent, narrator caption and footer unchanged. The two speech balloons currently compete in reading order. Keep woman's question '— Посмотришь презентацию сегодня?' at the VERY TOP of the upper panel with tail pointing to woman's right-side shoulder position. Move man's answer '— Да, вечером.' clearly BELOW the whole question balloon, in the LOWER LEFT of the UPPER panel, on his chest/vest area (roughly y480–610 on the1448px canvas). Tail points upward toward man. Do NOT cover either face. Restore the old answer-balloon location with matching workshop background. It must be unmistakable: question first, answer later. No overlap in vertical reading ranges between the question and answer balloons. No new panel, no eye closeup, no second hand detail. Keep exact narrator caption 'Кажется, небольшая просьба.' and footer02/09, 'Мастерская инженеров менеджеров', 'system-school.ru'. No new words, no deletions, no wooden blocks. Preserve1086x1448 portrait.",
+  "referenced_image_paths": [
+    "/workspace/generated_images/exec-6e3f601a-d43f-4941-af52-e3d93af94cc8.png"
+  ],
+  "transparent_background": false
+}

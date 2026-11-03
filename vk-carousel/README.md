@@ -1,5 +1,8 @@
 # Конвейер каруселей МИМ для ВКонтакте
 
+Точка продолжения после03.11.2026: [отчёт закрытия](work-products/2026-11-03-session-close.md), [паспорт комикса](style-packs/03-comics/passport.md), [рабочий скилл](skills/comic-carousel/SKILL.md), [аудит данных](work-products/2026-11-03-data-audit.json). Последний отчёт важнее промежуточных статусов.
+
+
 ## Хранение и текущая работа · 01.11.2026
 
 [Основная папка MIM](https://drive.google.com/drive/folders/1Yh9GFw6fHLGI7And1kPaJFLMhLRsaSJc) → [MIM VK](https://drive.google.com/drive/folders/1pBeh4ch400tBnLP8Vqpotcpp6tY9NaXu) / [MIM YouTube](https://drive.google.com/drive/folders/1sbvU2lP8qXU5n2OOu2SyYK8y331u0Cwa). [Карта папок](knowledge/google-drive-storage.md). Каждая карусель хранится одним пакетом со сценарием и отдельной подпапкой «Карточки»; общая прежняя папка сценариев удалена после переноса. Для ранних выпусков сохранены найденные сценарные материалы с оговорками о полноте.

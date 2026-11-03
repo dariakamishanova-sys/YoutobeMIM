@@ -1,0 +1,88 @@
+{
+  "version": "v1.2-comic",
+  "date": "2026-11-03",
+  "status": "Сессия закрыта.01–03 на визуальной проверке;04–09 из v1, требуют продолжения.",
+  "files": [
+    {
+      "file": "01.png",
+      "width": 1086,
+      "height": 1448,
+      "sha256": "53da21d1bfb6ec3caad3d8cc0a5550bb7d443c44372740905cc6eb17dc0613a9",
+      "bytes": 3064854,
+      "original": "01-original.png",
+      "image_version": "v1.2"
+    },
+    {
+      "file": "02.png",
+      "width": 1086,
+      "height": 1448,
+      "sha256": "e30351f585eab86c211c845492594b68d58f2078c7ca5974a1cf5463ceb8f2f7",
+      "bytes": 2724325,
+      "original": "02-original.png",
+      "image_version": "v1.2"
+    },
+    {
+      "file": "03.png",
+      "width": 1086,
+      "height": 1448,
+      "sha256": "ed826558ff5f0e626bdae73f24871866a684cd22822980cdfbd9145bb8e99756",
+      "bytes": 3127356,
+      "original": "03-original.png",
+      "image_version": "v1.2"
+    },
+    {
+      "file": "04.png",
+      "width": 1086,
+      "height": 1448,
+      "sha256": "70e91192c27f1ec125649ec7b5ccddd84cefb69091350dc3906d3347d5f5ecc2",
+      "bytes": 3265466,
+      "original": "04-original.png",
+      "image_version": "v1"
+    },
+    {
+      "file": "05.png",
+      "width": 1086,
+      "height": 1448,
+      "sha256": "c9f10b01d9e28b550a03f8a4ff2397b64aef48ff5224e858339c9e17c8c82b32",
+      "bytes": 3302535,
+      "original": "05-original.png",
+      "image_version": "v1"
+    },
+    {
+      "file": "06.png",
+      "width": 1086,
+      "height": 1448,
+      "sha256": "76c09e3b2d601f229ccb8ef4f39edb0b28d8e279124e2ae8eba3ef14e7a97c1b",
+      "bytes": 3077099,
+      "original": "06-original.png",
+      "image_version": "v1"
+    },
+    {
+      "file": "07.png",
+      "width": 1086,
+      "height": 1448,
+      "sha256": "bb7fef8216b8bb247a59130992f38fc6c0db72330541121af10fc787faeeff4f",
+      "bytes": 3233376,
+      "original": "07-original.png",
+      "image_version": "v1"
+    },
+    {
+      "file": "08.png",
+      "width": 1086,
+      "height": 1448,
+      "sha256": "332e769d409ed8717b65df4f07476a4c44f01a7d560385e18f1a25eb9727f746",
+      "bytes": 3213915,
+      "original": "08-original.png",
+      "image_version": "v1"
+    },
+    {
+      "file": "09.png",
+      "width": 1086,
+      "height": 1448,
+      "sha256": "10c8a3ab185f4c6c21a69ae146777770cdb20fa5910255a583e849757d30c035",
+      "bytes": 3108287,
+      "original": "09-original.png",
+      "image_version": "v1"
+    }
+  ]
+}

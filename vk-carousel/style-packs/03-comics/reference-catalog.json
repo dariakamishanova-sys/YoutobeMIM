@@ -1,0 +1,164 @@
+[
+  {
+    "i": 0,
+    "name": "7ef50940a3eade5c09b603e2e2e5971d.jpg",
+    "id": "1uQApRwXHcjGkZa_sFbYtU85JsRR-wZGY",
+    "url": "https://drive.google.com/file/d/1uQApRwXHcjGkZa_sFbYtU85JsRR-wZGY/view?usp=drivesdk",
+    "path": "assets/ref-01.jpg",
+    "asset": "ref-01.jpg",
+    "note": "Фантастическое пространство, смена масштаба, мягкая материальность рисунка."
+  },
+  {
+    "i": 1,
+    "name": "2754ca81d5372d56c0c1754a1e255ee8.jpg",
+    "id": "1COSPzwEg4GtDGmV6SWoBpp9loUhP2Pr_",
+    "url": "https://drive.google.com/file/d/1COSPzwEg4GtDGmV6SWoBpp9loUhP2Pr_/view?usp=drivesdk",
+    "path": "assets/ref-02.jpg",
+    "asset": "ref-02.jpg",
+    "note": "Переход от совместной сцены к реакции лица; холодный и тёплый цвет."
+  },
+  {
+    "i": 2,
+    "name": "2b5403da11380c9a58127f37474ff295.jpg",
+    "id": "1g4lCiazbeJJTVG38lvHdKfFYI3kYJTo7",
+    "url": "https://drive.google.com/file/d/1g4lCiazbeJJTVG38lvHdKfFYI3kYJTo7/view?usp=drivesdk",
+    "path": "assets/ref-03.jpg",
+    "asset": "ref-03.jpg",
+    "note": "Деталь кисти и руки показывает действие и его результат."
+  },
+  {
+    "i": 3,
+    "name": "b9c9bc043451a49975260287c4d91d09.jpg",
+    "id": "1GXKvt767447B1OghTjhIm-ZgDaOWWY_j",
+    "url": "https://drive.google.com/file/d/1GXKvt767447B1OghTjhIm-ZgDaOWWY_j/view?usp=drivesdk",
+    "path": "assets/ref-04.jpg",
+    "asset": "ref-04.jpg",
+    "note": "Большое пространство и небольшой герой, вертикальные кадры и тихое наблюдение."
+  },
+  {
+    "i": 4,
+    "name": "505d8715b246580156c066972c40a81c.jpg",
+    "id": "1Fj-GKIN_XfDUj4Hge13CRY5rTdAdkFr9",
+    "url": "https://drive.google.com/file/d/1Fj-GKIN_XfDUj4Hge13CRY5rTdAdkFr9/view?usp=drivesdk",
+    "path": "assets/ref-05.jpg",
+    "asset": "ref-05.jpg",
+    "note": "Движение по городу раскрывается через архитектуру и предметные фрагменты."
+  },
+  {
+    "i": 5,
+    "name": "8b6396c2234135d346f00c1854e386b9.jpg",
+    "id": "1UlTVq0f8VaPXxqV2YhizyZytZQMmQWpl",
+    "url": "https://drive.google.com/file/d/1UlTVq0f8VaPXxqV2YhizyZytZQMmQWpl/view?usp=drivesdk",
+    "path": "assets/ref-06.jpg",
+    "asset": "ref-06.jpg",
+    "note": "Высота, глубина и разные точки наблюдения организуют пространство."
+  },
+  {
+    "i": 6,
+    "name": "00de3657f768117ca649c82828ffb7ea.jpg",
+    "id": "10Pc5NAkglhZa7WaDF212GgWDSZWQBjm_",
+    "url": "https://drive.google.com/file/d/10Pc5NAkglhZa7WaDF212GgWDSZWQBjm_/view?usp=drivesdk",
+    "path": "assets/ref-07.jpg",
+    "asset": "ref-07.jpg",
+    "note": "Люди и животные существуют рядом; странность мира передаётся действием."
+  },
+  {
+    "i": 7,
+    "name": "f679cfd2a8d0af7b76f8f139ac3cf403.jpg",
+    "id": "1hHLGCigL7gQXBZCF9eo7DwTxRLUTAFmk",
+    "url": "https://drive.google.com/file/d/1hHLGCigL7gQXBZCF9eo7DwTxRLUTAFmk/view?usp=drivesdk",
+    "path": "assets/ref-08.jpg",
+    "asset": "ref-08.jpg",
+    "note": "Необычный масштаб предмета и крупная работа рук поддерживают метафору."
+  },
+  {
+    "i": 8,
+    "name": "05332b499f04bd0f818a15cbcf92c6c5.jpg",
+    "id": "1anFnMTXm5Ozq19oVCLdxT-bEzOB9uZfb",
+    "url": "https://drive.google.com/file/d/1anFnMTXm5Ozq19oVCLdxT-bEzOB9uZfb/view?usp=drivesdk",
+    "path": "assets/ref-09.jpg",
+    "asset": "ref-09.jpg",
+    "note": "Жест, фрагмент лица, руки и телефон выстраивают паузу и смену состояния."
+  },
+  {
+    "i": 9,
+    "name": "bad5817784eb4ef212b52efed1e4bb3c.gif",
+    "id": "1Z6HXQpoR9y1zn7yS12lUl-WO8UoOXk4y",
+    "url": "https://drive.google.com/file/d/1Z6HXQpoR9y1zn7yS12lUl-WO8UoOXk4y/view?usp=drivesdk",
+    "path": "assets/ref-10.gif",
+    "asset": "ref-10.gif",
+    "note": "Три кадра GIF: локальный цветовой акцент меняется внутри почти монохромной сцены."
+  },
+  {
+    "i": 10,
+    "name": "ac21c17fc803c7279acf7df2d3da3171.jpg",
+    "id": "1iToRXNxz4eIAycN4UHxcGK9qpZHSlgyF",
+    "url": "https://drive.google.com/file/d/1iToRXNxz4eIAycN4UHxcGK9qpZHSlgyF/view?usp=drivesdk",
+    "path": "assets/ref-11.jpg",
+    "asset": "ref-11.jpg",
+    "note": "Визуальная метафора развивается через конкретные действия и предметы."
+  },
+  {
+    "i": 11,
+    "name": "63f326c5bc26fa4ce2aaf04f5c471a9a.jpg",
+    "id": "11sZZt8UoU_1CyQ9wWyg1uE5odKbY0KwP",
+    "url": "https://drive.google.com/file/d/11sZZt8UoU_1CyQ9wWyg1uE5odKbY0KwP/view?usp=drivesdk",
+    "path": "assets/ref-12.jpg",
+    "asset": "ref-12.jpg",
+    "note": "Повтор мотива и смена среды раскрывают перенос явления между людьми."
+  },
+  {
+    "i": 12,
+    "name": "c2fe7c806a33fa23fb9d7e93378ce180.jpg",
+    "id": "17apHgphCvRtW7ZgMtLTTw4ZRhKMpBeAN",
+    "url": "https://drive.google.com/file/d/17apHgphCvRtW7ZgMtLTTw4ZRhKMpBeAN/view?usp=drivesdk",
+    "path": "assets/ref-13.jpg",
+    "asset": "ref-13.jpg",
+    "note": "Силуэт, свет и деталь связывают разные состояния одной истории."
+  },
+  {
+    "i": 13,
+    "name": "18c9a2e720af67b44089fdf14f6ac89b.jpg",
+    "id": "1M4UMFvYqHB0JwNaLm4yS4f7_ZVjB5jUJ",
+    "url": "https://drive.google.com/file/d/1M4UMFvYqHB0JwNaLm4yS4f7_ZVjB5jUJ/view?usp=drivesdk",
+    "path": "assets/ref-14.jpg",
+    "asset": "ref-14.jpg",
+    "note": "Один цветовой акцент направляет взгляд; размер рамок меняется по действию."
+  },
+  {
+    "i": 14,
+    "name": "c0a25ba5320f4044020bbffb09468711.jpg",
+    "id": "1D6sTB_9dD7BsP1BdteQvFFi-8_8N39Ms",
+    "url": "https://drive.google.com/file/d/1D6sTB_9dD7BsP1BdteQvFFi-8_8N39Ms/view?usp=drivesdk",
+    "path": "assets/ref-15.jpg",
+    "asset": "ref-15.jpg",
+    "note": "Изменение формы и цвета передаёт состояние и его последствия."
+  },
+  {
+    "i": 15,
+    "name": "5b3b3a9878563fdb0d10749432f4d370.jpg",
+    "id": "1W971XjtIVCtIBd8xEWLywSd8CxlZDEC9",
+    "url": "https://drive.google.com/file/d/1W971XjtIVCtIBd8xEWLywSd8CxlZDEC9/view?usp=drivesdk",
+    "path": "assets/ref-16.jpg",
+    "asset": "ref-16.jpg",
+    "note": "Наблюдение за повседневным местом, материальность среды и тихая странность."
+  },
+  {
+    "i": 16,
+    "name": "e6319872d1064f09706e132ef322fc58.jpg",
+    "id": "1aL2l9Zmw-3Vk2ozHUE6TpNbyM9oRBuKI",
+    "url": "https://drive.google.com/file/d/1aL2l9Zmw-3Vk2ozHUE6TpNbyM9oRBuKI/view?usp=drivesdk",
+    "path": "assets/ref-17.jpg",
+    "asset": "ref-17.jpg",
+    "note": "Планы пространства, части фигуры и природные детали создают ритм наблюдения."
+  },
+  {
+    "i": 17,
+    "name": "c3314ba01e06ae55fccf04d305de3654.jpg",
+    "id": "1lX943Z83b362n2EWeCtw3IsGUik80-hh",
+    "url": "https://drive.google.com/file/d/1lX943Z83b362n2EWeCtw3IsGUik80-hh/view?usp=drivesdk",
+    "path": "assets/ref-18.jpg",
+    "asset": "ref-18.jpg",
+    "note": "Колесо, рука, затылок и общий вид пути раскрывают движение без поясняющего текста."
+  }
+]

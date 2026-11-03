@@ -1,0 +1,302 @@
+{
+  "session": "2026-11-03",
+  "status": "closed",
+  "passport_version": "1.1",
+  "passport_pages": 22,
+  "comic_version": "1.2",
+  "comic_review_scope": "01–03",
+  "unchanged_cards": "04–09 from v1; next pass required",
+  "exports": [
+    {
+      "path": "vk-carousel/production/10-vera-v3.4/cards/01.png",
+      "sha256": "f8ccad96cde14574b6f65f5c5670506d279a01c97189eb7e027cd9073d2b4d84"
+    },
+    {
+      "path": "vk-carousel/production/10-vera-v3.4/cards/02.png",
+      "sha256": "1a2813b37f3e97ff61f4c9fd699ef7e654b53a82f1f7fe171fc17350bfe2fe29"
+    },
+    {
+      "path": "vk-carousel/production/10-vera-v3.4/cards/03.png",
+      "sha256": "fec7d7b0f20f96fef5ba11a7040209ecba1d680754db3fe0842d3623a6fc34d2"
+    },
+    {
+      "path": "vk-carousel/production/10-vera-v3.4/cards/04.png",
+      "sha256": "54d10ed79185b822d6f966b71ecf7860aa63c4dad248a7c379452d5041898225"
+    },
+    {
+      "path": "vk-carousel/production/10-vera-v3.4/cards/05.png",
+      "sha256": "bd3607396877d722a755371c907de29d2e7e5cc1e12cc562e8c4e431286952aa"
+    },
+    {
+      "path": "vk-carousel/production/10-vera-v3.4/cards/06.png",
+      "sha256": "501a1e28c28c53fcc37be7eb4d08a2118bf3e0c188d3acd1b914bcf3cf1e4505"
+    },
+    {
+      "path": "vk-carousel/production/10-vera-v3.4/cards/07.png",
+      "sha256": "d9d2016cd56d99279fd51cd02301513f47013b8ae4565c1d21a00726b6a446e3"
+    },
+    {
+      "path": "vk-carousel/production/10-vera-v3.4/cards/08.png",
+      "sha256": "86af73bfcfbf99973df00c55746751f7d4c5a1207fd84e5b060999b0129c91b1"
+    },
+    {
+      "path": "vk-carousel/production/10-vera-v3.4/cards/09.png",
+      "sha256": "afde785a31bd23b035ab004fda86487a4f2c0a611d85114ec6307eef05211527"
+    },
+    {
+      "path": "vk-carousel/production/11-one-more-yes-v1.2/cards/01.png",
+      "sha256": "53da21d1bfb6ec3caad3d8cc0a5550bb7d443c44372740905cc6eb17dc0613a9"
+    },
+    {
+      "path": "vk-carousel/production/11-one-more-yes-v1.2/cards/02.png",
+      "sha256": "e30351f585eab86c211c845492594b68d58f2078c7ca5974a1cf5463ceb8f2f7"
+    },
+    {
+      "path": "vk-carousel/production/11-one-more-yes-v1.2/cards/03.png",
+      "sha256": "ed826558ff5f0e626bdae73f24871866a684cd22822980cdfbd9145bb8e99756"
+    },
+    {
+      "path": "vk-carousel/production/11-one-more-yes-v1.2/cards/04.png",
+      "sha256": "70e91192c27f1ec125649ec7b5ccddd84cefb69091350dc3906d3347d5f5ecc2"
+    },
+    {
+      "path": "vk-carousel/production/11-one-more-yes-v1.2/cards/05.png",
+      "sha256": "c9f10b01d9e28b550a03f8a4ff2397b64aef48ff5224e858339c9e17c8c82b32"
+    },
+    {
+      "path": "vk-carousel/production/11-one-more-yes-v1.2/cards/06.png",
+      "sha256": "76c09e3b2d601f229ccb8ef4f39edb0b28d8e279124e2ae8eba3ef14e7a97c1b"
+    },
+    {
+      "path": "vk-carousel/production/11-one-more-yes-v1.2/cards/07.png",
+      "sha256": "bb7fef8216b8bb247a59130992f38fc6c0db72330541121af10fc787faeeff4f"
+    },
+    {
+      "path": "vk-carousel/production/11-one-more-yes-v1.2/cards/08.png",
+      "sha256": "332e769d409ed8717b65df4f07476a4c44f01a7d560385e18f1a25eb9727f746"
+    },
+    {
+      "path": "vk-carousel/production/11-one-more-yes-v1.2/cards/09.png",
+      "sha256": "10c8a3ab185f4c6c21a69ae146777770cdb20fa5910255a583e849757d30c035"
+    },
+    {
+      "path": "vk-carousel/production/09-artem-accepted-patch/02.png",
+      "sha256": "df6c8586002957b0943e0944e7610e4865850bef3e78b128ad4db5bb76e2b1e4",
+      "status": "accepted patch"
+    }
+  ],
+  "folders": [
+    {
+      "kind": "youtube",
+      "ok": true,
+      "metadata": {
+        "id": "1Gtcqz0is5N5EI8NZUN77muyAHr9okhno",
+        "title": "Мастер МИМ — Просто сделай — 02.11.2026",
+        "mime_type": "application/vnd.google-apps.folder",
+        "size": null,
+        "url": null,
+        "file_or_folder": "folder",
+        "created_time": null,
+        "modified_time": null,
+        "parent_ids": null,
+        "drive_id": null,
+        "current_user_can_share": null,
+        "has_augmented_permissions": null,
+        "shared": null,
+        "permissions": null,
+        "source_visibility_status": "access_not_verified"
+      }
+    },
+    {
+      "kind": "dmitry",
+      "ok": true,
+      "metadata": {
+        "id": "1DZhi9p_YtEUPNPoxsLR_QT7t5_aXzA0O",
+        "title": "Карточки — Дмитрий — v4 — принято",
+        "mime_type": "application/vnd.google-apps.folder",
+        "size": null,
+        "url": null,
+        "file_or_folder": "folder",
+        "created_time": null,
+        "modified_time": null,
+        "parent_ids": null,
+        "drive_id": null,
+        "current_user_can_share": null,
+        "has_augmented_permissions": null,
+        "shared": null,
+        "permissions": null,
+        "source_visibility_status": "access_not_verified"
+      }
+    },
+    {
+      "kind": "lyudmila",
+      "ok": true,
+      "metadata": {
+        "id": "1i6ttWEB4a2IZwiSdAND6di4kzJQtOptd",
+        "title": "Карточки — Людмила — v3 — принято",
+        "mime_type": "application/vnd.google-apps.folder",
+        "size": null,
+        "url": null,
+        "file_or_folder": "folder",
+        "created_time": null,
+        "modified_time": null,
+        "parent_ids": null,
+        "drive_id": null,
+        "current_user_can_share": null,
+        "has_augmented_permissions": null,
+        "shared": null,
+        "permissions": null,
+        "source_visibility_status": "access_not_verified"
+      }
+    },
+    {
+      "kind": "asya",
+      "ok": true,
+      "metadata": {
+        "id": "1Qkz7vlA4jggp96TWn6H8arNaVJoFe22K",
+        "title": "Карточки — Ася — скрайбинг v1 — принято",
+        "mime_type": "application/vnd.google-apps.folder",
+        "size": null,
+        "url": null,
+        "file_or_folder": "folder",
+        "created_time": null,
+        "modified_time": null,
+        "parent_ids": null,
+        "drive_id": null,
+        "current_user_can_share": null,
+        "has_augmented_permissions": null,
+        "shared": null,
+        "permissions": null,
+        "source_visibility_status": "access_not_verified"
+      }
+    },
+    {
+      "kind": "artem",
+      "ok": true,
+      "metadata": {
+        "id": "1My-DWMe37SO133CRDbgOZQThe3Iy6rwK",
+        "title": "Карточки — Артём — фиолетовый скрайбинг — принято",
+        "mime_type": "application/vnd.google-apps.folder",
+        "size": null,
+        "url": null,
+        "file_or_folder": "folder",
+        "created_time": null,
+        "modified_time": null,
+        "parent_ids": null,
+        "drive_id": null,
+        "current_user_can_share": null,
+        "has_augmented_permissions": null,
+        "shared": null,
+        "permissions": null,
+        "source_visibility_status": "access_not_verified"
+      }
+    },
+    {
+      "kind": "vera",
+      "ok": true,
+      "metadata": {
+        "id": "1dFVb6NQN2ONggktSQW8ZArVZaQq4SQyN",
+        "title": "Карточки — Вера — жёлтые визуальные заметки v3 — на проверку",
+        "mime_type": "application/vnd.google-apps.folder",
+        "size": null,
+        "url": null,
+        "file_or_folder": "folder",
+        "created_time": null,
+        "modified_time": null,
+        "parent_ids": null,
+        "drive_id": null,
+        "current_user_can_share": null,
+        "has_augmented_permissions": null,
+        "shared": null,
+        "permissions": null,
+        "source_visibility_status": "access_not_verified"
+      }
+    },
+    {
+      "kind": "comic",
+      "ok": true,
+      "metadata": {
+        "id": "1mhrY-DpiD8WRJmMcmoioMkN_JOCIEcw6",
+        "title": "Карточки — 9 PNG — на проверку",
+        "mime_type": "application/vnd.google-apps.folder",
+        "size": null,
+        "url": null,
+        "file_or_folder": "folder",
+        "created_time": null,
+        "modified_time": null,
+        "parent_ids": null,
+        "drive_id": null,
+        "current_user_can_share": null,
+        "has_augmented_permissions": null,
+        "shared": null,
+        "permissions": null,
+        "source_visibility_status": "access_not_verified"
+      }
+    },
+    {
+      "kind": "passport",
+      "ok": true,
+      "metadata": {
+        "id": "1AwQe3MSALLMIYsMzf85M1h6bqMNhZ6zx",
+        "title": "Паспорт — Комикс МИМ — стиль и персонажи v1.1",
+        "mime_type": "application/vnd.google-apps.folder",
+        "size": null,
+        "url": null,
+        "file_or_folder": "folder",
+        "created_time": null,
+        "modified_time": null,
+        "parent_ids": null,
+        "drive_id": null,
+        "current_user_can_share": null,
+        "has_augmented_permissions": null,
+        "shared": null,
+        "permissions": null,
+        "source_visibility_status": "access_not_verified"
+      }
+    }
+  ],
+  "checks": {
+    "pdf_bytes_match_drive": true,
+    "pdf_glyphs_and_bounds": true,
+    "comic_drive_has_9_png_matching_sizes": true,
+    "production_exports_sha_match": true,
+    "vera_drive_sizes_match": true,
+    "accepted_artem_02_drive_size_matches": true,
+    "accepted_folder_names_corrected": true,
+    "mim_14_theme_rows_equal": true,
+    "mim_detailed_script_blocks_equal": true,
+    "four_accepted_rows_green_both_tabs": true,
+    "skill_journal_A18_I20_readback": true
+  },
+  "missing_inputs": [
+    "LPF и DPF рабочего развития не обнаружены в доступном комплекте; не подменять правилами ЛР.",
+    "Первая часть LPF-CORE отсутствует; полная проверка общего свода не заявляется."
+  ],
+  "pending_reviews": [
+    "Новая тройка комикса01–03",
+    "Вера v3.4",
+    "Внешность кандидата02",
+    "Новые биографии персонажей"
+  ],
+  "personal_skill_journal": {
+    "range": "Журнал практики!A18:I20",
+    "ids": [
+      "S004",
+      "S078",
+      "S097"
+    ],
+    "scores_assigned": false,
+    "levels_changed": false
+  },
+  "preserved_data": [
+    "19 publication PNG exports",
+    "comic01–03 original rasters and prompts on Drive",
+    "PDF22pages, editable text/data and source images",
+    "YouTube package:3covers plus texts",
+    "MIM current values and formatting snapshot",
+    "3new personal skill observations only",
+    "project SKILL.md and tool-skill source catalog",
+    "Drive archives before replacement",
+    "acceptance statuses and next-session handoff"
+  ]
+}

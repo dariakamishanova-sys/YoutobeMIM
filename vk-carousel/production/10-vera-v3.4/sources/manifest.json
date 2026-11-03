@@ -1,0 +1,61 @@
+{
+  "version": "v3.4",
+  "date": "2026-11-03",
+  "status": "На визуальную проверку",
+  "files": [
+    {
+      "file": "01.png",
+      "width": 1086,
+      "height": 1448,
+      "sha256": "f8ccad96cde14574b6f65f5c5670506d279a01c97189eb7e027cd9073d2b4d84"
+    },
+    {
+      "file": "02.png",
+      "width": 1086,
+      "height": 1448,
+      "sha256": "1a2813b37f3e97ff61f4c9fd699ef7e654b53a82f1f7fe171fc17350bfe2fe29"
+    },
+    {
+      "file": "03.png",
+      "width": 1086,
+      "height": 1448,
+      "sha256": "fec7d7b0f20f96fef5ba11a7040209ecba1d680754db3fe0842d3623a6fc34d2"
+    },
+    {
+      "file": "04.png",
+      "width": 1086,
+      "height": 1448,
+      "sha256": "54d10ed79185b822d6f966b71ecf7860aa63c4dad248a7c379452d5041898225"
+    },
+    {
+      "file": "05.png",
+      "width": 1086,
+      "height": 1448,
+      "sha256": "bd3607396877d722a755371c907de29d2e7e5cc1e12cc562e8c4e431286952aa"
+    },
+    {
+      "file": "06.png",
+      "width": 1086,
+      "height": 1448,
+      "sha256": "501a1e28c28c53fcc37be7eb4d08a2118bf3e0c188d3acd1b914bcf3cf1e4505"
+    },
+    {
+      "file": "07.png",
+      "width": 1086,
+      "height": 1448,
+      "sha256": "d9d2016cd56d99279fd51cd02301513f47013b8ae4565c1d21a00726b6a446e3"
+    },
+    {
+      "file": "08.png",
+      "width": 1086,
+      "height": 1448,
+      "sha256": "86af73bfcfbf99973df00c55746751f7d4c5a1207fd84e5b060999b0129c91b1"
+    },
+    {
+      "file": "09.png",
+      "width": 1086,
+      "height": 1448,
+      "sha256": "afde785a31bd23b035ab004fda86487a4f2c0a611d85114ec6307eef05211527"
+    }
+  ]
+}
